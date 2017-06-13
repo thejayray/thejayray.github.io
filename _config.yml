@@ -1,1 +1,40 @@
+---
+title: Engineered Eloquence
+timezone: 'America/Chicago'
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+  projects:
+    title: Projects
+    output: true
+    permalink: /:collection/:name
+email: jayray@engineeredeloquence.com
+description: A blog about life, food, and technology, written by Jay Ray.
+baseurl: 
+url: http://engineeredeloquence.com
+rss: http://feed.engineeredeloquence.com
+json: http://engineeredeloquence.com/feed/index.json
+blog_rss: http://feed.engineeredeloquence.com/blog
+blog_json: http://engineeredeloquence.com/feed/blog.json
+micro_rss: http://feed.engineeredeloquence.com/micro
+micro_json: http://engineeredeloquence.com/feed/micro.json
+twitter: http://twitter.com/eloquentfeed
+twitter_username: jayray
+github_username: thejayray
+permalink: "/:categories/:title/"
+markdown: kramdown
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+gems:
+- jekyll-paginate
 theme: jekyll-theme-cayman
