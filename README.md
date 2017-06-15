@@ -18,6 +18,6 @@ App.Net Feed: <a href="https://alpha.app.net/engineeredeloquence">@EngineeredElo
 GitHub: <a href="https://github.com/thejayray/">TheJayRay</a>
 <br />
 <br />
-The above content has been directly copied from https://engineeredeloquence.com/about<br />
-As I play with this site and test things out, changes will occur at http://thejayray.github.io
+The above content has been directly copied from [https://engineeredeloquence.com/about](https://engineeredeloquence.com/about)<br />
+As I play with this site and test things out, changes will occur at [http://thejayray.github.io](http://thejayray.github.io)
 </div>
