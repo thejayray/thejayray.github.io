@@ -16,7 +16,8 @@ Twitter Feed: <a href="https://twitter.com/eloquentfeed">@EloquentFeed</a><br/>
 App.Net: <a href="https://alpha.app.net/jayray">@JayRay</a><br/>
 App.Net Feed: <a href="https://alpha.app.net/engineeredeloquence">@EngineeredEloquence</a><br/>
 GitHub: <a href="https://github.com/thejayray/">TheJayRay</a>
-
+<br />
+<br />
 The above content has been directly copied from https://engineeredeloquence.com/about<br />
 As I play with this site and test things out, changes will occur at http://thejayray.github.io
 </div>
