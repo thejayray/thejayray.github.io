@@ -37,4 +37,4 @@ kramdown:
   enable_coderay: false
 gems:
 - jekyll-paginate
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
