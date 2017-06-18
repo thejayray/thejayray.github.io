@@ -1,6 +1,730 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 18 00:00:36 +0000 2017",
+		"id": 876228114074021900,
+		"id_str": "876228114074021893",
+		"text": "44.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 507,
+			"friends_count": 423,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 715,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8987,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Jun 17 21:48:49 +0000 2017",
+		"id": 876194948160385000,
+		"id_str": "876194948160385024",
+		"text": "#idealnight #everynight https://t.co/4HYxB3sP1X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "idealnight",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "everynight",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4HYxB3sP1X",
+					"expanded_url": "https://twitter.com/HCMarks/status/876131074413383681",
+					"display_url": "twitter.com/HCMarks/status…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 507,
+			"friends_count": 423,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 715,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8987,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 876131074413383700,
+		"quoted_status_id_str": "876131074413383681",
+		"quoted_status": {
+			"created_at": "Sat Jun 17 17:35:00 +0000 2017",
+			"id": 876131074413383700,
+			"id_str": "876131074413383681",
+			"text": "I 👏🏻 BOUGHT 👏🏻 BOOKS 👏🏻 TODAY 👏🏻",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 98523794,
+				"id_str": "98523794",
+				"name": "H.C. Marks",
+				"screen_name": "HCMarks",
+				"location": "East Coast",
+				"description": "Novelist, podcaster @COVERED_fm. Dreams of living in the sinister suburban wastelands of early-mid-'90s music videos.",
+				"url": "https://t.co/k0w4ZK6koR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/k0w4ZK6koR",
+								"expanded_url": "http://hologramradio.org/covered",
+								"display_url": "hologramradio.org/covered",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1299,
+				"friends_count": 411,
+				"listed_count": 152,
+				"created_at": "Tue Dec 22 02:12:59 +0000 2009",
+				"favourites_count": 7269,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 61941,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/772051691088842752/tzzs-O0w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/772051691088842752/tzzs-O0w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98523794/1402599567",
+				"profile_link_color": "516B40",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Jun 17 19:45:38 +0000 2017",
+		"id": 876163947552002000,
+		"id_str": "876163947552002048",
+		"text": "RT @BenjaminBrooks: Thank god for Twitterrific. I would have left Twitter again if it weren't for this app. https://t.co/umN6fwKIZU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BenjaminBrooks",
+					"name": "Ben Brooks",
+					"id": 616253,
+					"id_str": "616253",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/umN6fwKIZU",
+					"expanded_url": "https://twitter.com/gedeon/status/876069116968349698",
+					"display_url": "twitter.com/gedeon/status/…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 507,
+			"friends_count": 423,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 715,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8987,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 17 14:12:26 +0000 2017",
+			"id": 876080096263544800,
+			"id_str": "876080096263544832",
+			"text": "Thank god for Twitterrific. I would have left Twitter again if it weren't for this app. https://t.co/umN6fwKIZU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/umN6fwKIZU",
+						"expanded_url": "https://twitter.com/gedeon/status/876069116968349698",
+						"display_url": "twitter.com/gedeon/status/…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 616253,
+				"id_str": "616253",
+				"name": "Ben Brooks",
+				"screen_name": "BenjaminBrooks",
+				"location": "Tacoma, WA",
+				"description": "Chief Operating Officer at @martiancraft. Writer at @brooksreview.",
+				"url": "https://t.co/MGGknWWsDE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MGGknWWsDE",
+								"expanded_url": "http://brooksreview.net",
+								"display_url": "brooksreview.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4427,
+				"friends_count": 173,
+				"listed_count": 356,
+				"created_at": "Tue Jan 09 04:24:18 +0000 2007",
+				"favourites_count": 4259,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27007,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5C5C5C",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6613123/IMG_2158.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6613123/IMG_2158.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/597942826794520576/V2DeUlFk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/597942826794520576/V2DeUlFk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/616253/1432262161",
+				"profile_link_color": "00AD2E",
+				"profile_sidebar_border_color": "9CAB9F",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 876069116968349700,
+			"quoted_status_id_str": "876069116968349698",
+			"quoted_status": {
+				"created_at": "Sat Jun 17 13:28:48 +0000 2017",
+				"id": 876069116968349700,
+				"id_str": "876069116968349698",
+				"text": "I love it when Twitter re-designs. https://t.co/K94j36ABgz",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 876069086580682800,
+							"id_str": "876069086580682752",
+							"indices": [
+								35,
+								58
+							],
+							"media_url": "http://pbs.twimg.com/media/DChsMVBXsAAfJ15.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DChsMVBXsAAfJ15.jpg",
+							"url": "https://t.co/K94j36ABgz",
+							"display_url": "pic.twitter.com/K94j36ABgz",
+							"expanded_url": "https://twitter.com/gedeon/status/876069116968349698/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1246,
+									"h": 696,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 670,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 380,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 876069086580682800,
+							"id_str": "876069086580682752",
+							"indices": [
+								35,
+								58
+							],
+							"media_url": "http://pbs.twimg.com/media/DChsMVBXsAAfJ15.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DChsMVBXsAAfJ15.jpg",
+							"url": "https://t.co/K94j36ABgz",
+							"display_url": "pic.twitter.com/K94j36ABgz",
+							"expanded_url": "https://twitter.com/gedeon/status/876069116968349698/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1246,
+									"h": 696,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 670,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 380,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 38003,
+					"id_str": "38003",
+					"name": "Ged Maheux",
+					"screen_name": "gedeon",
+					"location": "Colfax, NC",
+					"description": "Co-founder of https://t.co/eIqhpYVuXg, RIT alum, designer, emoji maker, Trekspert, aspiring chef, cancer survivor & everyman.",
+					"url": "https://t.co/hWi6l5SQyB",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/hWi6l5SQyB",
+									"expanded_url": "http://gedblog.com",
+									"display_url": "gedblog.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/eIqhpYVuXg",
+									"expanded_url": "http://Iconfactory.com",
+									"display_url": "Iconfactory.com",
+									"indices": [
+										14,
+										37
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 5163,
+					"friends_count": 296,
+					"listed_count": 453,
+					"created_at": "Sat Dec 02 23:46:18 +0000 2006",
+					"favourites_count": 2151,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 69280,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/49887391/twitter_background.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/49887391/twitter_background.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/813517611480793090/Zuejuus4_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/813517611480793090/Zuejuus4_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/38003/1451830982",
+					"profile_link_color": "84A10F",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "E6E6E6",
+					"profile_text_color": "7A7573",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 100,
+				"favorite_count": 275,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 876069116968349700,
+		"quoted_status_id_str": "876069116968349698",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 17 00:00:40 +0000 2017",
 		"id": 875865740670365700,
 		"id_str": "875865740670365697",
