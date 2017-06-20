@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Tue Jun 20 03:51:42 +0000 2017",
+		"id": 877011047173038100,
+		"id_str": "877011047173038080",
+		"text": "@gte 44.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gte",
+					"name": "Guy English",
+					"id": 7125712,
+					"id_str": "7125712",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 877005455800893400,
+		"in_reply_to_status_id_str": "877005455800893440",
+		"in_reply_to_user_id": 7125712,
+		"in_reply_to_user_id_str": "7125712",
+		"in_reply_to_screen_name": "gte",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 507,
+			"friends_count": 423,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 720,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Jun 20 00:00:09 +0000 2017",
+		"id": 876952775187464200,
+		"id_str": "876952775187464196",
+		"text": "44.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 507,
+			"friends_count": 423,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 720,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Jun 19 17:36:41 +0000 2017",
+		"id": 876856272452235300,
+		"id_str": "876856272452235264",
+		"text": "RT @boring_as_heck: okay come on now https://t.co/F9RoBx2PMI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boring_as_heck",
+					"name": "Stefan",
+					"id": 119000092,
+					"id_str": "119000092",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 876832507408244700,
+					"id_str": "876832507408244737",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DCsihROVYAEITER.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCsihROVYAEITER.jpg",
+					"url": "https://t.co/F9RoBx2PMI",
+					"display_url": "pic.twitter.com/F9RoBx2PMI",
+					"expanded_url": "https://twitter.com/boring_as_heck/status/876832548050968576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 668,
+							"h": 162,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 668,
+							"h": 162,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 668,
+							"h": 162,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876832548050968600,
+					"source_status_id_str": "876832548050968576",
+					"source_user_id": 119000092,
+					"source_user_id_str": "119000092"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 876832507408244700,
+					"id_str": "876832507408244737",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DCsihROVYAEITER.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCsihROVYAEITER.jpg",
+					"url": "https://t.co/F9RoBx2PMI",
+					"display_url": "pic.twitter.com/F9RoBx2PMI",
+					"expanded_url": "https://twitter.com/boring_as_heck/status/876832548050968576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 668,
+							"h": 162,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 668,
+							"h": 162,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 668,
+							"h": 162,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876832548050968600,
+					"source_status_id_str": "876832548050968576",
+					"source_user_id": 119000092,
+					"source_user_id_str": "119000092"
+				},
+				{
+					"id": 876832523606569000,
+					"id_str": "876832523606568960",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DCsiiNkUMAArOhp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCsiiNkUMAArOhp.jpg",
+					"url": "https://t.co/F9RoBx2PMI",
+					"display_url": "pic.twitter.com/F9RoBx2PMI",
+					"expanded_url": "https://twitter.com/boring_as_heck/status/876832548050968576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 592,
+							"h": 286,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 592,
+							"h": 286,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 592,
+							"h": 286,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876832548050968600,
+					"source_status_id_str": "876832548050968576",
+					"source_user_id": 119000092,
+					"source_user_id_str": "119000092"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 507,
+			"friends_count": 423,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 720,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 19 16:02:24 +0000 2017",
+			"id": 876832548050968600,
+			"id_str": "876832548050968576",
+			"text": "okay come on now https://t.co/F9RoBx2PMI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 876832507408244700,
+						"id_str": "876832507408244737",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DCsihROVYAEITER.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCsihROVYAEITER.jpg",
+						"url": "https://t.co/F9RoBx2PMI",
+						"display_url": "pic.twitter.com/F9RoBx2PMI",
+						"expanded_url": "https://twitter.com/boring_as_heck/status/876832548050968576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 668,
+								"h": 162,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 668,
+								"h": 162,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 668,
+								"h": 162,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 876832507408244700,
+						"id_str": "876832507408244737",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DCsihROVYAEITER.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCsihROVYAEITER.jpg",
+						"url": "https://t.co/F9RoBx2PMI",
+						"display_url": "pic.twitter.com/F9RoBx2PMI",
+						"expanded_url": "https://twitter.com/boring_as_heck/status/876832548050968576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 668,
+								"h": 162,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 668,
+								"h": 162,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 668,
+								"h": 162,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 876832523606569000,
+						"id_str": "876832523606568960",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DCsiiNkUMAArOhp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCsiiNkUMAArOhp.jpg",
+						"url": "https://t.co/F9RoBx2PMI",
+						"display_url": "pic.twitter.com/F9RoBx2PMI",
+						"expanded_url": "https://twitter.com/boring_as_heck/status/876832548050968576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 592,
+								"h": 286,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 592,
+								"h": 286,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 592,
+								"h": 286,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119000092,
+				"id_str": "119000092",
+				"name": "Stefan",
+				"screen_name": "boring_as_heck",
+				"location": "",
+				"description": "writer. big time dumbass. listen to me on @RealGoodShow. hockey account: @hockeydipshit",
+				"url": "https://t.co/2ILtSqRPkl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2ILtSqRPkl",
+								"expanded_url": "http://boringasheck.com",
+								"display_url": "boringasheck.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 87917,
+				"friends_count": 1271,
+				"listed_count": 1656,
+				"created_at": "Tue Mar 02 10:44:52 +0000 2010",
+				"favourites_count": 64188,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 46120,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/720452240/603a519e178f3609b8d8188fcb031749.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/720452240/603a519e178f3609b8d8188fcb031749.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/752705466623406081/CbKmXHUG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/752705466623406081/CbKmXHUG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119000092/1480692685",
+				"profile_link_color": "1100FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "8D8E8F",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10015,
+			"favorite_count": 25019,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10015,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 19 03:33:50 +0000 2017",
 		"id": 876644161553870800,
 		"id_str": "876644161553870848",
