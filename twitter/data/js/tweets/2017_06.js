@@ -1,6 +1,1828 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 29 03:57:42 +0000 2017",
+		"id": 880274050379022300,
+		"id_str": "880274050379022336",
+		"text": "@gte 44.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gte",
+					"name": "Guy English",
+					"id": 7125712,
+					"id_str": "7125712",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 880273133915312100,
+		"in_reply_to_status_id_str": "880273133915312129",
+		"in_reply_to_user_id": 7125712,
+		"in_reply_to_user_id_str": "7125712",
+		"in_reply_to_screen_name": "gte",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 426,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 747,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Jun 29 00:24:25 +0000 2017",
+		"id": 880220375174533100,
+		"id_str": "880220375174533120",
+		"text": "@ParkerMolloy @OhMeatball #misplacedhuntinginstincts",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "misplacedhuntinginstincts",
+					"indices": [
+						26,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ParkerMolloy",
+					"name": "Parker Molloy",
+					"id": 634734888,
+					"id_str": "634734888",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "OhMeatball",
+					"name": "Meatball",
+					"id": 3098214097,
+					"id_str": "3098214097",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 880218842089259000,
+		"in_reply_to_status_id_str": "880218842089259010",
+		"in_reply_to_user_id": 634734888,
+		"in_reply_to_user_id_str": "634734888",
+		"in_reply_to_screen_name": "ParkerMolloy",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 426,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 747,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Jun 29 00:14:49 +0000 2017",
+		"id": 880217958278213600,
+		"id_str": "880217958278213636",
+		"text": "RT @flyosity: Hardbound couldn't get to escape velocity. Man, what a bummer. Such a smart app. https://t.co/40VoFq3tz4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flyosity",
+					"name": "Mike Rundle",
+					"id": 10545,
+					"id_str": "10545",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/40VoFq3tz4",
+					"expanded_url": "https://twitter.com/nbashaw/status/880168396599570432",
+					"display_url": "twitter.com/nbashaw/status…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 426,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 747,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 28 22:17:42 +0000 2017",
+			"id": 880188485939978200,
+			"id_str": "880188485939978240",
+			"text": "Hardbound couldn't get to escape velocity. Man, what a bummer. Such a smart app. https://t.co/40VoFq3tz4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/40VoFq3tz4",
+						"expanded_url": "https://twitter.com/nbashaw/status/880168396599570432",
+						"display_url": "twitter.com/nbashaw/status…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10545,
+				"id_str": "10545",
+				"name": "Mike Rundle",
+				"screen_name": "flyosity",
+				"location": "Computers",
+				"description": "Designer, developer, Dad, dog lover, golfer, Hackintosh aficionado, foosball master. Currently 90% politics, 10% tech.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28196,
+				"friends_count": 975,
+				"listed_count": 2461,
+				"created_at": "Thu Oct 26 06:18:10 +0000 2006",
+				"favourites_count": 44146,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 67381,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "34393D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540518316775727104/tUfzPN4o.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540518316775727104/tUfzPN4o.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/602900681050169345/IzexW5Sy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/602900681050169345/IzexW5Sy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10545/1496640835",
+				"profile_link_color": "0564AD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "4B585E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 880168396599570400,
+			"quoted_status_id_str": "880168396599570432",
+			"quoted_status": {
+				"created_at": "Wed Jun 28 20:57:53 +0000 2017",
+				"id": 880168396599570400,
+				"id_str": "880168396599570432",
+				"text": "This was not easy to write https://t.co/oOnkInYcwh",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/oOnkInYcwh",
+							"expanded_url": "https://medium.com/@nbashaw/a-terrible-horrible-no-good-very-bad-hardbound-update-eacaf767db6a",
+							"display_url": "medium.com/@nbashaw/a-ter…",
+							"indices": [
+								27,
+								50
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 17424947,
+					"id_str": "17424947",
+					"name": "Nathan Bashaw",
+					"screen_name": "nbashaw",
+					"location": "New York, NY",
+					"description": "Founder of @Hardbound. Building a new form of reading.",
+					"url": "https://t.co/gRhl48WqGI",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gRhl48WqGI",
+									"expanded_url": "https://hardbound.co",
+									"display_url": "hardbound.co",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 8735,
+					"friends_count": 3043,
+					"listed_count": 445,
+					"created_at": "Sun Nov 16 17:24:49 +0000 2008",
+					"favourites_count": 22504,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 22717,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "E6E6E6",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/374069118/fabric.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/374069118/fabric.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/491659145209081856/f2KgYlQz_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/491659145209081856/f2KgYlQz_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/17424947/1405106207",
+					"profile_link_color": "D64545",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 37,
+				"favorite_count": 290,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 880168396599570400,
+		"quoted_status_id_str": "880168396599570432",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 29 00:00:23 +0000 2017",
+		"id": 880214326329651200,
+		"id_str": "880214326329651202",
+		"text": "44.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 426,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 747,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Jun 28 19:14:58 +0000 2017",
+		"id": 880142498638725100,
+		"id_str": "880142498638725120",
+		"text": "So much time is being wasted in congress on a bill that should have never been.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 426,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 747,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d7ebfe7dc362c944",
+			"url": "https://api.twitter.com/1.1/geo/id/d7ebfe7dc362c944.json",
+			"place_type": "admin",
+			"name": "Madison WI",
+			"full_name": "Madison WI",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-91.156812,
+							42.447882
+						],
+						[
+							-88.949059,
+							42.447882
+						],
+						[
+							-88.949059,
+							44.24947
+						],
+						[
+							-91.156812,
+							44.24947
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 28 15:13:01 +0000 2017",
+		"id": 880081610498076700,
+		"id_str": "880081610498076672",
+		"text": "RT @viticci: “It won’t replace your laptop.” https://t.co/DtoVIPLB0F",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "viticci",
+					"name": "Federico Viticci",
+					"id": 20904050,
+					"id_str": "20904050",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 880081416305901600,
+					"id_str": "880081416305901568",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DDatYqBWAAA_L5J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDatYqBWAAA_L5J.jpg",
+					"url": "https://t.co/DtoVIPLB0F",
+					"display_url": "pic.twitter.com/DtoVIPLB0F",
+					"expanded_url": "https://twitter.com/viticci/status/880081459331178498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 880081459331178500,
+					"source_status_id_str": "880081459331178498",
+					"source_user_id": 20904050,
+					"source_user_id_str": "20904050"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 880081416305901600,
+					"id_str": "880081416305901568",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DDatYqBWAAA_L5J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDatYqBWAAA_L5J.jpg",
+					"url": "https://t.co/DtoVIPLB0F",
+					"display_url": "pic.twitter.com/DtoVIPLB0F",
+					"expanded_url": "https://twitter.com/viticci/status/880081459331178498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 880081459331178500,
+					"source_status_id_str": "880081459331178498",
+					"source_user_id": 20904050,
+					"source_user_id_str": "20904050"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 426,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 747,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 28 15:12:25 +0000 2017",
+			"id": 880081459331178500,
+			"id_str": "880081459331178498",
+			"text": "“It won’t replace your laptop.” https://t.co/DtoVIPLB0F",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 880081416305901600,
+						"id_str": "880081416305901568",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/DDatYqBWAAA_L5J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDatYqBWAAA_L5J.jpg",
+						"url": "https://t.co/DtoVIPLB0F",
+						"display_url": "pic.twitter.com/DtoVIPLB0F",
+						"expanded_url": "https://twitter.com/viticci/status/880081459331178498/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 880081416305901600,
+						"id_str": "880081416305901568",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/DDatYqBWAAA_L5J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDatYqBWAAA_L5J.jpg",
+						"url": "https://t.co/DtoVIPLB0F",
+						"display_url": "pic.twitter.com/DtoVIPLB0F",
+						"expanded_url": "https://twitter.com/viticci/status/880081459331178498/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20904050,
+				"id_str": "20904050",
+				"name": "Federico Viticci",
+				"screen_name": "viticci",
+				"location": "In your web browser.",
+				"description": "Founder and Editor-in-Chief of @MacStoriesNet & @ClubMacStories. Co-host of @AppStoriesNet. Italian accent on @_RelayFM.  Email: viticci@macstories.net",
+				"url": "https://t.co/8eXD1ETiUi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8eXD1ETiUi",
+								"expanded_url": "https://www.macstories.net/",
+								"display_url": "macstories.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51225,
+				"friends_count": 882,
+				"listed_count": 3279,
+				"created_at": "Sun Feb 15 10:52:33 +0000 2009",
+				"favourites_count": 15244,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 97014,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "062039",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590296157911273473/5MGIgy31.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590296157911273473/5MGIgy31.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/854328515939926016/OQ8mun9e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/854328515939926016/OQ8mun9e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20904050/1492522863",
+				"profile_link_color": "0081C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7F7F7",
+				"profile_text_color": "191A19",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 69,
+			"favorite_count": 401,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 28 15:05:29 +0000 2017",
+		"id": 880079715683385300,
+		"id_str": "880079715683385345",
+		"text": "@nahumck Silly @twitter.\n\nhttps://t.co/b1ogWz8LE0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nahumck",
+					"name": "Tim Nahumck",
+					"id": 230260383,
+					"id_str": "230260383",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/b1ogWz8LE0",
+					"expanded_url": "https://nahumck.me/",
+					"display_url": "nahumck.me",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 880079598620479500,
+		"in_reply_to_status_id_str": "880079598620479488",
+		"in_reply_to_user_id": 10434612,
+		"in_reply_to_user_id_str": "10434612",
+		"in_reply_to_screen_name": "JayRay",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 426,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 747,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d7ebfe7dc362c944",
+			"url": "https://api.twitter.com/1.1/geo/id/d7ebfe7dc362c944.json",
+			"place_type": "admin",
+			"name": "Madison WI",
+			"full_name": "Madison WI",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-91.156812,
+							42.447882
+						],
+						[
+							-88.949059,
+							42.447882
+						],
+						[
+							-88.949059,
+							44.24947
+						],
+						[
+							-91.156812,
+							44.24947
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 28 15:05:02 +0000 2017",
+		"id": 880079598620479500,
+		"id_str": "880079598620479488",
+		"text": "Favorite new person: @nahumck. \n\nGreat content here: nahumck.me",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nahumck",
+					"name": "Tim Nahumck",
+					"id": 230260383,
+					"id_str": "230260383",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 426,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 747,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d7ebfe7dc362c944",
+			"url": "https://api.twitter.com/1.1/geo/id/d7ebfe7dc362c944.json",
+			"place_type": "admin",
+			"name": "Madison WI",
+			"full_name": "Madison WI",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-91.156812,
+							42.447882
+						],
+						[
+							-88.949059,
+							42.447882
+						],
+						[
+							-88.949059,
+							44.24947
+						],
+						[
+							-91.156812,
+							44.24947
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 28 14:57:25 +0000 2017",
+		"id": 880077684994453500,
+		"id_str": "880077684994453505",
+		"text": "Follow @rjonesy for all of my feelings on iOS design oddities… https://t.co/GMuFmqy4XM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rjonesy",
+					"name": "Ryan Jones",
+					"id": 14710664,
+					"id_str": "14710664",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GMuFmqy4XM",
+					"expanded_url": "https://twitter.com/rjonesy/status/880074532031254533",
+					"display_url": "twitter.com/rjonesy/status…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 880074532031254500,
+		"in_reply_to_status_id_str": "880074532031254533",
+		"in_reply_to_user_id": 14710664,
+		"in_reply_to_user_id_str": "14710664",
+		"in_reply_to_screen_name": "rjonesy",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 426,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 747,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d7ebfe7dc362c944",
+			"url": "https://api.twitter.com/1.1/geo/id/d7ebfe7dc362c944.json",
+			"place_type": "admin",
+			"name": "Madison WI",
+			"full_name": "Madison WI",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-91.156812,
+							42.447882
+						],
+						[
+							-88.949059,
+							42.447882
+						],
+						[
+							-88.949059,
+							44.24947
+						],
+						[
+							-91.156812,
+							44.24947
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 880074532031254500,
+		"quoted_status_id_str": "880074532031254533",
+		"quoted_status": {
+			"created_at": "Wed Jun 28 14:44:54 +0000 2017",
+			"id": 880074532031254500,
+			"id_str": "880074532031254533",
+			"text": "How to open iOS 11 lock screen notification:\n\n1. 3D Touch it\n2. Then Tap that\n3. Then TouchID to open \n\nWhat?!? 🤦‍♂️",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 880072588541792300,
+			"in_reply_to_status_id_str": "880072588541792256",
+			"in_reply_to_user_id": 14710664,
+			"in_reply_to_user_id_str": "14710664",
+			"in_reply_to_screen_name": "rjonesy",
+			"user": {
+				"id": 14710664,
+				"id_str": "14710664",
+				"name": "Ryan Jones",
+				"screen_name": "rjonesy",
+				"location": "Austin, TX",
+				"description": "EIR & Director of Technology at @McGarrahJessee. @DukeU, ex-Apple, Founder of @weatherlineapp.",
+				"url": "https://t.co/mT5QNMi7yM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mT5QNMi7yM",
+								"expanded_url": "http://weatherlineapp.com/get",
+								"display_url": "weatherlineapp.com/get",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10599,
+				"friends_count": 355,
+				"listed_count": 210,
+				"created_at": "Fri May 09 06:47:24 +0000 2008",
+				"favourites_count": 1707,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 40314,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DDE9F0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3155009884/2b0b1b23f255c31ddffa17473bb36a08_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3155009884/2b0b1b23f255c31ddffa17473bb36a08_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14710664/1436632435",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 28 11:28:28 +0000 2017",
+		"id": 880025101487321100,
+		"id_str": "880025101487321089",
+		"text": "What are you waiting for? Enter to win a red iPhone 7 from iMore right now! https://t.co/Yt1qbOPAPW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yt1qbOPAPW",
+					"expanded_url": "https://wn.nr/6qv6mZ",
+					"display_url": "wn.nr/6qv6mZ",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://gleam.io\" rel=\"nofollow\">Gleam Competition App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 426,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 747,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 28 03:48:10 +0000 2017",
 		"id": 879909259647045600,
 		"id_str": "879909259647045632",
