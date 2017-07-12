@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 12 01:51:50 +0000 2017",
+		"id": 884953414559563800,
+		"id_str": "884953414559563776",
+		"text": "I see you @wbm312!\n\nhttps://t.co/QTsdoOgfC2 https://t.co/G8JpG6H3Gg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wbm312",
+					"name": "Whitney Merrill",
+					"id": 180493678,
+					"id_str": "180493678",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QTsdoOgfC2",
+					"expanded_url": "https://motherboard.vice.com/en_us/article/evdbdz/why-security-experts-are-pissed-that-1password-is-pushing-users-to-the-cloud",
+					"display_url": "motherboard.vice.com/en_us/article/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 884953406590398500,
+					"id_str": "884953406590398470",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DEf8b0KXsAYQqI5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEf8b0KXsAYQqI5.jpg",
+					"url": "https://t.co/G8JpG6H3Gg",
+					"display_url": "pic.twitter.com/G8JpG6H3Gg",
+					"expanded_url": "https://twitter.com/JayRay/status/884953414559563776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 685,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 685,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 621,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 884953406590398500,
+					"id_str": "884953406590398470",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DEf8b0KXsAYQqI5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEf8b0KXsAYQqI5.jpg",
+					"url": "https://t.co/G8JpG6H3Gg",
+					"display_url": "pic.twitter.com/G8JpG6H3Gg",
+					"expanded_url": "https://twitter.com/JayRay/status/884953414559563776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 685,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 685,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 621,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 428,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 773,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9097,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 12 00:00:34 +0000 2017",
+		"id": 884925413042139100,
+		"id_str": "884925413042139136",
+		"text": "44.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 428,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 773,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9097,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Jul 11 15:32:20 +0000 2017",
+		"id": 884797512510574600,
+		"id_str": "884797512510574593",
+		"text": "@rjonesy @dcurtis @vernalkick Frankly, the upper left corner has always been wasted with the carrier id. Get rid of… https://t.co/K6geVApnZX",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rjonesy",
+					"name": "Ryan Jones",
+					"id": 14710664,
+					"id_str": "14710664",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "dcurtis",
+					"name": "dustin curtis",
+					"id": 9395832,
+					"id_str": "9395832",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "vernalkick",
+					"name": "Kevin Clark",
+					"id": 32622651,
+					"id_str": "32622651",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K6geVApnZX",
+					"expanded_url": "https://twitter.com/i/web/status/884797512510574593",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 884796582914388000,
+		"in_reply_to_status_id_str": "884796582914387971",
+		"in_reply_to_user_id": 14710664,
+		"in_reply_to_user_id_str": "14710664",
+		"in_reply_to_screen_name": "rjonesy",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 428,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 773,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9097,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 11 13:48:09 +0000 2017",
+		"id": 884771293618479100,
+		"id_str": "884771293618479105",
+		"text": "@rjonesy @dcurtis @vernalkick Concentric circles perhaps?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rjonesy",
+					"name": "Ryan Jones",
+					"id": 14710664,
+					"id_str": "14710664",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "dcurtis",
+					"name": "dustin curtis",
+					"id": 9395832,
+					"id_str": "9395832",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "vernalkick",
+					"name": "Kevin Clark",
+					"id": 32622651,
+					"id_str": "32622651",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 884764830770626600,
+		"in_reply_to_status_id_str": "884764830770626560",
+		"in_reply_to_user_id": 14710664,
+		"in_reply_to_user_id_str": "14710664",
+		"in_reply_to_screen_name": "rjonesy",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technology Manager, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/wHxeFn3mK4  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 428,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 773,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9097,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615929419/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1475156454",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 11 00:00:21 +0000 2017",
 		"id": 884562973699780600,
 		"id_str": "884562973699780614",
