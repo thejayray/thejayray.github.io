@@ -1,6 +1,695 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 05 00:00:12 +0000 2017",
+		"id": 893622628576931800,
+		"id_str": "893622628576931844",
+		"text": "44.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/caFntbj1D5  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/caFntbj1D5",
+							"expanded_url": "http://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 430,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 825,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Aug 04 19:29:03 +0000 2017",
+		"id": 893554392909131800,
+		"id_str": "893554392909131776",
+		"text": "RT @OhNoSheTwitnt: Cannot wait for the all-woman reboot of the US government. https://t.co/wTVg29lXNJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhNoSheTwitnt",
+					"name": "Twitnter is Coming",
+					"id": 149249831,
+					"id_str": "149249831",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wTVg29lXNJ",
+					"expanded_url": "https://twitter.com/buzzfeednews/status/893476504914546688",
+					"display_url": "twitter.com/buzzfeednews/s…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/caFntbj1D5  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/caFntbj1D5",
+							"expanded_url": "http://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 430,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 825,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 04 14:36:27 +0000 2017",
+			"id": 893480756756009000,
+			"id_str": "893480756756008960",
+			"text": "Cannot wait for the all-woman reboot of the US government. https://t.co/wTVg29lXNJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wTVg29lXNJ",
+						"expanded_url": "https://twitter.com/buzzfeednews/status/893476504914546688",
+						"display_url": "twitter.com/buzzfeednews/s…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 149249831,
+				"id_str": "149249831",
+				"name": "Twitnter is Coming",
+				"screen_name": "OhNoSheTwitnt",
+				"location": "",
+				"description": "Jewish American Disney Princess",
+				"url": "https://t.co/f01fkCsKLm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/f01fkCsKLm",
+								"expanded_url": "https://theberry.com/2016/08/23/times-ohnoshetwitnt-was-funny-on-twitter-lr-2/amp/",
+								"display_url": "theberry.com/2016/08/23/tim…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 161984,
+				"friends_count": 1066,
+				"listed_count": 2604,
+				"created_at": "Fri May 28 20:24:09 +0000 2010",
+				"favourites_count": 284877,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 63507,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A4DBAA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/447970706/dead_shoes.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/447970706/dead_shoes.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/886733055922229248/O3YyVFKg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/886733055922229248/O3YyVFKg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/149249831/1468627577",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A89B9B",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 893476504914546700,
+			"quoted_status_id_str": "893476504914546688",
+			"quoted_status": {
+				"created_at": "Fri Aug 04 14:19:33 +0000 2017",
+				"id": 893476504914546700,
+				"id_str": "893476504914546688",
+				"text": "# of women who have reached out to EMILY's List on running for office:\n\n2015-2016 - 920\nSince 2016 election - 16,000 https://t.co/Im2QhHKzIi",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/Im2QhHKzIi",
+							"expanded_url": "https://www.buzzfeed.com/rubycramer/emilys-list-expands-after-16000-women-reach-out-about?utm_term=4ldqpgc&bftwnews#4ldqpgc",
+							"display_url": "buzzfeed.com/rubycramer/emi…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1020058453,
+					"id_str": "1020058453",
+					"name": "BuzzFeed News",
+					"screen_name": "BuzzFeedNews",
+					"location": "",
+					"description": "The most trusted @ username in news. Download the BuzzFeed News App:\n\niOS: https://t.co/00gxs1sUXe\n\nAndroid: https://t.co/tufohzgWtp",
+					"url": "https://t.co/I6ADKX77mj",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/I6ADKX77mj",
+									"expanded_url": "http://www.buzzfeed.com/news",
+									"display_url": "buzzfeed.com/news",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/00gxs1sUXe",
+									"expanded_url": "http://bzfd.it/2mAOorw",
+									"display_url": "bzfd.it/2mAOorw",
+									"indices": [
+										75,
+										98
+									]
+								},
+								{
+									"url": "https://t.co/tufohzgWtp",
+									"expanded_url": "http://bzfd.it/2n0Pf03",
+									"display_url": "bzfd.it/2n0Pf03",
+									"indices": [
+										109,
+										132
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 967853,
+					"friends_count": 4943,
+					"listed_count": 9649,
+					"created_at": "Tue Dec 18 15:46:37 +0000 2012",
+					"favourites_count": 1367,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 110727,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/796353157576138752/H2xr-NkC_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/796353157576138752/H2xr-NkC_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1020058453/1493406455",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 458,
+				"favorite_count": 980,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 740,
+			"favorite_count": 3069,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 893476504914546700,
+		"quoted_status_id_str": "893476504914546688",
+		"retweet_count": 740,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 04 12:58:14 +0000 2017",
+		"id": 893456040670490600,
+		"id_str": "893456040670490625",
+		"text": "And now we need a company to invent a way to filter out the emojis I never use(d)... https://t.co/MImDhS1BBi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MImDhS1BBi",
+					"expanded_url": "https://twitter.com/MacRumors/status/893446392034742273",
+					"display_url": "twitter.com/MacRumors/stat…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/caFntbj1D5  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/caFntbj1D5",
+							"expanded_url": "http://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 430,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 825,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 893446392034742300,
+		"quoted_status_id_str": "893446392034742273",
+		"quoted_status": {
+			"created_at": "Fri Aug 04 12:19:53 +0000 2017",
+			"id": 893446392034742300,
+			"id_str": "893446392034742273",
+			"text": "Frowning Poo and 66 Other New Emojis Proposed for Potential Release in 2018’s Unicode 11 https://t.co/ChUBa5sY1j by… https://t.co/UbHW5SL8I5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ChUBa5sY1j",
+						"expanded_url": "https://www.macrumors.com/2017/08/04/frowning-poo-unicode-11/",
+						"display_url": "macrumors.com/2017/08/04/fro…",
+						"indices": [
+							89,
+							112
+						]
+					},
+					{
+						"url": "https://t.co/UbHW5SL8I5",
+						"expanded_url": "https://twitter.com/i/web/status/893446392034742273",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.macrumors.com\" rel=\"nofollow\">MacRumors.com Web</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14861285,
+				"id_str": "14861285",
+				"name": "MacRumors.com",
+				"screen_name": "MacRumors",
+				"location": "",
+				"description": "Apple, Mac, iPhone and iPad News and Rumors. Got a tip? Email it to tips@macrumors.com - YouTube: https://t.co/uSQf3HSpc3 - Facebook: https://t.co/tUCnKIJ4R4",
+				"url": "https://t.co/ei8cMSbN5a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ei8cMSbN5a",
+								"expanded_url": "http://www.macrumors.com",
+								"display_url": "macrumors.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/uSQf3HSpc3",
+								"expanded_url": "https://www.youtube.com/user/macrumors?sub_confirmation=1",
+								"display_url": "youtube.com/user/macrumors…",
+								"indices": [
+									98,
+									121
+								]
+							},
+							{
+								"url": "https://t.co/tUCnKIJ4R4",
+								"expanded_url": "https://www.facebook.com/MacRumors/",
+								"display_url": "facebook.com/MacRumors/",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 821721,
+				"friends_count": 47,
+				"listed_count": 18396,
+				"created_at": "Wed May 21 20:01:19 +0000 2008",
+				"favourites_count": 392,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 27133,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C2D6F2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168665032/-XdMWMPy.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168665032/-XdMWMPy.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2611360072/uoza6k5toiy51th66jlj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2611360072/uoza6k5toiy51th66jlj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14861285/1399010969",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 74,
+			"favorite_count": 147,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 04 03:48:53 +0000 2017",
 		"id": 893317793105555500,
 		"id_str": "893317793105555456",
