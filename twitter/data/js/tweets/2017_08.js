@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 15 01:25:14 +0000 2017",
+		"id": 897267908556054500,
+		"id_str": "897267908556054529",
+		"text": "RT @gte: Why? Space Nazis. I hate those guys. https://t.co/n4G6ZQklsS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gte",
+					"name": "Guy English",
+					"id": 7125712,
+					"id_str": "7125712",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n4G6ZQklsS",
+					"expanded_url": "https://twitter.com/variety_dmcnary/status/897160844181504000",
+					"display_url": "twitter.com/variety_dmcnar…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/caFntbj1D5  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/caFntbj1D5",
+							"expanded_url": "http://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 432,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 848,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 14 18:22:26 +0000 2017",
+			"id": 897161507053727700,
+			"id_str": "897161507053727746",
+			"text": "Why? Space Nazis. I hate those guys. https://t.co/n4G6ZQklsS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/n4G6ZQklsS",
+						"expanded_url": "https://twitter.com/variety_dmcnary/status/897160844181504000",
+						"display_url": "twitter.com/variety_dmcnar…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7125712,
+				"id_str": "7125712",
+				"name": "Guy English",
+				"screen_name": "gte",
+				"location": "Montreal",
+				"description": "Union.",
+				"url": "http://t.co/66Hc0ZtXgD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/66Hc0ZtXgD",
+								"expanded_url": "http://kickingbear.com",
+								"display_url": "kickingbear.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14978,
+				"friends_count": 604,
+				"listed_count": 904,
+				"created_at": "Thu Jun 28 05:26:54 +0000 2007",
+				"favourites_count": 51008,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 51073,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/548578156131528704/1qLtK_CW_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/548578156131528704/1qLtK_CW_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7125712/1469056660",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "38d5974e82ed1a6c",
+				"url": "https://api.twitter.com/1.1/geo/id/38d5974e82ed1a6c.json",
+				"place_type": "city",
+				"name": "Ottawa",
+				"full_name": "Ottawa, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-76.353876,
+								44.961937
+							],
+							[
+								-75.246407,
+								44.961937
+							],
+							[
+								-75.246407,
+								45.5356446
+							],
+							[
+								-76.353876,
+								45.5356446
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 897160844181504000,
+			"quoted_status_id_str": "897160844181504000",
+			"quoted_status": {
+				"created_at": "Mon Aug 14 18:19:48 +0000 2017",
+				"id": 897160844181504000,
+				"id_str": "897160844181504000",
+				"text": "Star Wars: The Last Jedi’ Leads Social Media Buzz With New Details https://t.co/aFkh3WiJB2",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/aFkh3WiJB2",
+							"expanded_url": "http://dlvr.it/Pf2mV4",
+							"display_url": "dlvr.it/Pf2mV4",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 76790861,
+					"id_str": "76790861",
+					"name": "Dave McNary",
+					"screen_name": "Variety_DMcNary",
+					"location": "",
+					"description": "Dave McNary has covered film and labor for Variety since 1999.",
+					"url": "https://t.co/Q1sAlOzBwS",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Q1sAlOzBwS",
+									"expanded_url": "https://variety.com/author/dave-mcnary/",
+									"display_url": "variety.com/author/dave-mc…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 8991,
+					"friends_count": 1267,
+					"listed_count": 381,
+					"created_at": "Wed Sep 23 23:25:50 +0000 2009",
+					"favourites_count": 2301,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 23474,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F21818",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/39409698/Variety-Twitter.JPG",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/39409698/Variety-Twitter.JPG",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/527981563615514626/YXygcOMm_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/527981563615514626/YXygcOMm_normal.jpeg",
+					"profile_link_color": "3B94D9",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "E3E3E3",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 897160844181504000,
+		"quoted_status_id_str": "897160844181504000",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 14 04:01:17 +0000 2017",
 		"id": 896944789995884500,
 		"id_str": "896944789995884544",
