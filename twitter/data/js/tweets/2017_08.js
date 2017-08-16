@@ -1,6 +1,908 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 16 03:52:53 +0000 2017",
+		"id": 897667452347330600,
+		"id_str": "897667452347330561",
+		"text": "RT @gte: To deny our guilt is to be complicit in crimes against humanity nobody has truly been held accountable for.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gte",
+					"name": "Guy English",
+					"id": 7125712,
+					"id_str": "7125712",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/caFntbj1D5  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/caFntbj1D5",
+							"expanded_url": "http://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 432,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 852,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 03:41:34 +0000 2017",
+			"id": 897664605023031300,
+			"id_str": "897664605023031296",
+			"text": "To deny our guilt is to be complicit in crimes against humanity nobody has truly been held accountable for.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 897664434272960500,
+			"in_reply_to_status_id_str": "897664434272960512",
+			"in_reply_to_user_id": 7125712,
+			"in_reply_to_user_id_str": "7125712",
+			"in_reply_to_screen_name": "gte",
+			"user": {
+				"id": 7125712,
+				"id_str": "7125712",
+				"name": "Guy English",
+				"screen_name": "gte",
+				"location": "Montreal",
+				"description": "Union.",
+				"url": "http://t.co/66Hc0ZtXgD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/66Hc0ZtXgD",
+								"expanded_url": "http://kickingbear.com",
+								"display_url": "kickingbear.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14980,
+				"friends_count": 605,
+				"listed_count": 903,
+				"created_at": "Thu Jun 28 05:26:54 +0000 2007",
+				"favourites_count": 51167,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 51129,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/548578156131528704/1qLtK_CW_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/548578156131528704/1qLtK_CW_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7125712/1469056660",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "38d5974e82ed1a6c",
+				"url": "https://api.twitter.com/1.1/geo/id/38d5974e82ed1a6c.json",
+				"place_type": "city",
+				"name": "Ottawa",
+				"full_name": "Ottawa, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-76.353876,
+								44.961937
+							],
+							[
+								-75.246407,
+								44.961937
+							],
+							[
+								-75.246407,
+								45.5356446
+							],
+							[
+								-76.353876,
+								45.5356446
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 03:52:39 +0000 2017",
+		"id": 897667393379586000,
+		"id_str": "897667393379586048",
+		"text": "RT @gte: The experience of racism on the receiving end ranges from highly limited opportunities to systemic rape and murder. Never forget t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gte",
+					"name": "Guy English",
+					"id": 7125712,
+					"id_str": "7125712",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/caFntbj1D5  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/caFntbj1D5",
+							"expanded_url": "http://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 432,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 852,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 03:39:48 +0000 2017",
+			"id": 897664160456200200,
+			"id_str": "897664160456200195",
+			"text": "The experience of racism on the receiving end ranges from highly limited opportunities to systemic rape and murder. Never forget that. Ever.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 897663785405739000,
+			"in_reply_to_status_id_str": "897663785405739009",
+			"in_reply_to_user_id": 7125712,
+			"in_reply_to_user_id_str": "7125712",
+			"in_reply_to_screen_name": "gte",
+			"user": {
+				"id": 7125712,
+				"id_str": "7125712",
+				"name": "Guy English",
+				"screen_name": "gte",
+				"location": "Montreal",
+				"description": "Union.",
+				"url": "http://t.co/66Hc0ZtXgD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/66Hc0ZtXgD",
+								"expanded_url": "http://kickingbear.com",
+								"display_url": "kickingbear.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14980,
+				"friends_count": 605,
+				"listed_count": 903,
+				"created_at": "Thu Jun 28 05:26:54 +0000 2007",
+				"favourites_count": 51167,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 51129,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/548578156131528704/1qLtK_CW_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/548578156131528704/1qLtK_CW_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7125712/1469056660",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "38d5974e82ed1a6c",
+				"url": "https://api.twitter.com/1.1/geo/id/38d5974e82ed1a6c.json",
+				"place_type": "city",
+				"name": "Ottawa",
+				"full_name": "Ottawa, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-76.353876,
+								44.961937
+							],
+							[
+								-75.246407,
+								44.961937
+							],
+							[
+								-75.246407,
+								45.5356446
+							],
+							[
+								-76.353876,
+								45.5356446
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 03:41:50 +0000 2017",
+		"id": 897664673172082700,
+		"id_str": "897664673172082691",
+		"text": "RT @sirmitchell: Here's a high res copy which I'm allowing for personal use (signs, shirts, buttons). Spread it far and wide: https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sirmitchell",
+					"name": "Mike Mitchell",
+					"id": 15814666,
+					"id_str": "15814666",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/caFntbj1D5  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/caFntbj1D5",
+							"expanded_url": "http://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 432,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 852,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 01:18:29 +0000 2017",
+			"id": 897266210563383300,
+			"id_str": "897266210563383296",
+			"text": "Here's a high res copy which I'm allowing for personal use (signs, shirts, buttons). Spread it far and wide:… https://t.co/YqdANHI9qv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YqdANHI9qv",
+						"expanded_url": "https://twitter.com/i/web/status/897266210563383296",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15814666,
+				"id_str": "15814666",
+				"name": "Mike Mitchell",
+				"screen_name": "sirmitchell",
+				"location": "Austin, TX",
+				"description": "Artist/Idiot/Voice of a Generation. You may recognize my work from such places as the internet.",
+				"url": "https://t.co/C7zrnBHX4B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C7zrnBHX4B",
+								"expanded_url": "http://www.sirmikeofmitchell.com",
+								"display_url": "sirmikeofmitchell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30471,
+				"friends_count": 653,
+				"listed_count": 990,
+				"created_at": "Mon Aug 11 22:12:17 +0000 2008",
+				"favourites_count": 16850,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19440,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/535813511/JustLikeUs_1920x1200_copy_copy.PNG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/535813511/JustLikeUs_1920x1200_copy_copy.PNG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882541054129446913/_aX3KMoA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882541054129446913/_aX3KMoA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15814666/1470683032",
+				"profile_link_color": "F8B629",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7366,
+			"favorite_count": 13393,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7366,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 21:04:21 +0000 2017",
+		"id": 897564644986019800,
+		"id_str": "897564644986019840",
+		"text": "@rjonesy No.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rjonesy",
+					"name": "Ryan Jones",
+					"id": 14710664,
+					"id_str": "14710664",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 897499114325164000,
+		"in_reply_to_status_id_str": "897499114325164032",
+		"in_reply_to_user_id": 14710664,
+		"in_reply_to_user_id_str": "14710664",
+		"in_reply_to_screen_name": "rjonesy",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/caFntbj1D5  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/caFntbj1D5",
+							"expanded_url": "http://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 432,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 852,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Aug 15 13:03:47 +0000 2017",
+		"id": 897443702565687300,
+		"id_str": "897443702565687296",
+		"text": "@gte 44.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gte",
+					"name": "Guy English",
+					"id": 7125712,
+					"id_str": "7125712",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 897307018297573400,
+		"in_reply_to_status_id_str": "897307018297573378",
+		"in_reply_to_user_id": 7125712,
+		"in_reply_to_user_id_str": "7125712",
+		"in_reply_to_screen_name": "gte",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/caFntbj1D5  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/caFntbj1D5",
+							"expanded_url": "http://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 432,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 852,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Aug 15 01:25:14 +0000 2017",
 		"id": 897267908556054500,
 		"id_str": "897267908556054529",
