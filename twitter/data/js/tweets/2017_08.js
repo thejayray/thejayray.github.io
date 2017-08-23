@@ -1,6 +1,843 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 23 03:29:01 +0000 2017",
+		"id": 900198160995418100,
+		"id_str": "900198160995418113",
+		"text": "@sippey @gte 44.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sippey",
+					"name": "Michael Sippey",
+					"id": 4711,
+					"id_str": "4711",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "gte",
+					"name": "Guy English",
+					"id": 7125712,
+					"id_str": "7125712",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 900186846092709900,
+		"in_reply_to_status_id_str": "900186846092709888",
+		"in_reply_to_user_id": 4711,
+		"in_reply_to_user_id_str": "4711",
+		"in_reply_to_screen_name": "sippey",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/caFntbj1D5  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/caFntbj1D5",
+							"expanded_url": "http://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 432,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 872,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9259,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Aug 22 17:36:37 +0000 2017",
+		"id": 900049082072399900,
+		"id_str": "900049082072399873",
+		"text": "RT @SparkMailApp: Spark + @2Do = 🔥 Retweet for chance to win one of 20 2Do promo codes for Mac &amp; iOS https://t.co/Ad3oenLslF https://t.co/R…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SparkMailApp",
+					"name": "SparkMail",
+					"id": 3290013352,
+					"id_str": "3290013352",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "2do",
+					"name": "2do",
+					"id": 2970131,
+					"id_str": "2970131",
+					"indices": [
+						26,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ad3oenLslF",
+					"expanded_url": "https://buff.ly/2v1F7gc",
+					"display_url": "buff.ly/2v1F7gc",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/caFntbj1D5  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/caFntbj1D5",
+							"expanded_url": "http://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 432,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 872,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9259,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 22 15:37:02 +0000 2017",
+			"id": 900018984346636300,
+			"id_str": "900018984346636289",
+			"text": "Spark + @2Do = 🔥 Retweet for chance to win one of 20 2Do promo codes for Mac &amp; iOS https://t.co/Ad3oenLslF https://t.co/R3R3z3isRG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "2do",
+						"name": "2do",
+						"id": 2970131,
+						"id_str": "2970131",
+						"indices": [
+							8,
+							12
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ad3oenLslF",
+						"expanded_url": "https://buff.ly/2v1F7gc",
+						"display_url": "buff.ly/2v1F7gc",
+						"indices": [
+							87,
+							110
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 900018981481926700,
+						"id_str": "900018981481926656",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DH2CfsJW0AAhnzc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH2CfsJW0AAhnzc.jpg",
+						"url": "https://t.co/R3R3z3isRG",
+						"display_url": "pic.twitter.com/R3R3z3isRG",
+						"expanded_url": "https://twitter.com/SparkMailApp/status/900018984346636289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 900018981481926700,
+						"id_str": "900018981481926656",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DH2CfsJW0AAhnzc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH2CfsJW0AAhnzc.jpg",
+						"url": "https://t.co/R3R3z3isRG",
+						"display_url": "pic.twitter.com/R3R3z3isRG",
+						"expanded_url": "https://twitter.com/SparkMailApp/status/900018984346636289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3290013352,
+				"id_str": "3290013352",
+				"name": "SparkMail",
+				"screen_name": "SparkMailApp",
+				"location": "Your Dock. ",
+				"description": "Love your email again. The @Readdle team made me intelligent and powerful. I also learn fast.",
+				"url": "https://t.co/d1ROSC0bSN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/d1ROSC0bSN",
+								"expanded_url": "http://sparkmailapp.com",
+								"display_url": "sparkmailapp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14485,
+				"friends_count": 7,
+				"listed_count": 605,
+				"created_at": "Tue May 19 12:50:47 +0000 2015",
+				"favourites_count": 7040,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14307,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/628543121970728960/p7vRyN3E_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/628543121970728960/p7vRyN3E_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3290013352/1493825842",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 478,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 478,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 22 13:57:59 +0000 2017",
+		"id": 899994059506417700,
+		"id_str": "899994059506417664",
+		"text": "RT @Unpersuaded112: FLINT MI HAS BEEN WITHOUT CLEAN DRINKING WATER SINCE 2014 PLEASE KEEP RETWEETING THIS. #FlintWaterCrisis https://t.co/B…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FlintWaterCrisis",
+					"indices": [
+						107,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Unpersuaded112",
+					"name": "Rob",
+					"id": 42447494,
+					"id_str": "42447494",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/caFntbj1D5  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/caFntbj1D5",
+							"expanded_url": "http://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 432,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 872,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9259,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 20 20:33:44 +0000 2017",
+			"id": 899368875892060200,
+			"id_str": "899368875892060161",
+			"text": "FLINT MI HAS BEEN WITHOUT CLEAN DRINKING WATER SINCE 2014 PLEASE KEEP RETWEETING THIS. #FlintWaterCrisis https://t.co/BP5KF1lNXP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FlintWaterCrisis",
+						"indices": [
+							87,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 899368873186742300,
+						"id_str": "899368873186742278",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DHszOaBW0AYsi97.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHszOaBW0AYsi97.jpg",
+						"url": "https://t.co/BP5KF1lNXP",
+						"display_url": "pic.twitter.com/BP5KF1lNXP",
+						"expanded_url": "https://twitter.com/Unpersuaded112/status/899368875892060161/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 702,
+								"h": 722,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 661,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 702,
+								"h": 722,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 899368873186742300,
+						"id_str": "899368873186742278",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DHszOaBW0AYsi97.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHszOaBW0AYsi97.jpg",
+						"url": "https://t.co/BP5KF1lNXP",
+						"display_url": "pic.twitter.com/BP5KF1lNXP",
+						"expanded_url": "https://twitter.com/Unpersuaded112/status/899368875892060161/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 702,
+								"h": 722,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 661,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 702,
+								"h": 722,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://11081920.com\" rel=\"nofollow\">Electoral Reform 2017 V46</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42447494,
+				"id_str": "42447494",
+				"name": "Rob",
+				"screen_name": "Unpersuaded112",
+				"location": "",
+				"description": "Unpersuaded Writer | #1P1V | Religion is a bet some will lose | Truth is absolute | Love can not be destroyed | Time is a human creation, use it wisely",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34043,
+				"friends_count": 35440,
+				"listed_count": 172,
+				"created_at": "Mon May 25 17:34:20 +0000 2009",
+				"favourites_count": 11967,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18023,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/819010752/fc9331eedc3641643ed63ea99956a01c.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/819010752/fc9331eedc3641643ed63ea99956a01c.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/892728364141871104/KCNAgl4R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/892728364141871104/KCNAgl4R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42447494/1497923909",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "0084B4",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29957,
+			"favorite_count": 14469,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 29957,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 22 11:42:55 +0000 2017",
+		"id": 899960070749945900,
+		"id_str": "899960070749945856",
+		"text": "@gte 44.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gte",
+					"name": "Guy English",
+					"id": 7125712,
+					"id_str": "7125712",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+		"in_reply_to_status_id": 899921275916869600,
+		"in_reply_to_status_id_str": "899921275916869633",
+		"in_reply_to_user_id": 7125712,
+		"in_reply_to_user_id_str": "7125712",
+		"in_reply_to_screen_name": "gte",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseurous.  It gets crowded in my head, so I write things down… https://t.co/caFntbj1D5  All ellipses are my own.",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/caFntbj1D5",
+							"expanded_url": "http://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 432,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 872,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9259,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Aug 21 17:04:45 +0000 2017",
 		"id": 899678671623127000,
 		"id_str": "899678671623127041",
