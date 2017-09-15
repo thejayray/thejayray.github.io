@@ -1,6 +1,676 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 14 21:15:54 +0000 2017",
+		"id": 908439183575961600,
+		"id_str": "908439183575961601",
+		"text": "Microblog: I finished David Hewson’s adaptation of Romeo and Juliet and I cannot recommend it enough.\n\nFrom my reading page, where I keep t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseur of Everything.\n\nI’m trying something new: all tweets are automatically generated from my blog.\n\nAll ellipses are my own…",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 433,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 884,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9358,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 14 21:14:36 +0000 2017",
+		"id": 908438860534829000,
+		"id_str": "908438860534829058",
+		"text": "Romeo and Juliet: A Novel by David Hewson https://t.co/c5wH2FzFSt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c5wH2FzFSt",
+					"expanded_url": "http://bit.ly/2x5q8Bc",
+					"display_url": "bit.ly/2x5q8Bc",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseur of Everything.\n\nI’m trying something new: all tweets are automatically generated from my blog.\n\nAll ellipses are my own…",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 433,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 884,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9358,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 14 13:31:03 +0000 2017",
+		"id": 908322202407370800,
+		"id_str": "908322202407370752",
+		"text": "RT @concreteniche: Hello old friend @SusanKare https://t.co/tpvbH1DyEJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "concreteniche",
+					"name": "Patrick Smith",
+					"id": 1667831797,
+					"id_str": "1667831797",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "SusanKare",
+					"name": "Susan Kare",
+					"id": 215456428,
+					"id_str": "215456428",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 907700045423804400,
+					"id_str": "907700045423804419",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DJjMYdIXgAMKb7M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJjMYdIXgAMKb7M.jpg",
+					"url": "https://t.co/tpvbH1DyEJ",
+					"display_url": "pic.twitter.com/tpvbH1DyEJ",
+					"expanded_url": "https://twitter.com/concreteniche/status/907700055817289728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 907700055817289700,
+					"source_status_id_str": "907700055817289728",
+					"source_user_id": 1667831797,
+					"source_user_id_str": "1667831797"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 907700045423804400,
+					"id_str": "907700045423804419",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DJjMYdIXgAMKb7M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJjMYdIXgAMKb7M.jpg",
+					"url": "https://t.co/tpvbH1DyEJ",
+					"display_url": "pic.twitter.com/tpvbH1DyEJ",
+					"expanded_url": "https://twitter.com/concreteniche/status/907700055817289728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 907700055817289700,
+					"source_status_id_str": "907700055817289728",
+					"source_user_id": 1667831797,
+					"source_user_id_str": "1667831797"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseur of Everything.\n\nI’m trying something new: all tweets are automatically generated from my blog.\n\nAll ellipses are my own…",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 433,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 884,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9358,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 12 20:18:52 +0000 2017",
+			"id": 907700055817289700,
+			"id_str": "907700055817289728",
+			"text": "Hello old friend @SusanKare https://t.co/tpvbH1DyEJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SusanKare",
+						"name": "Susan Kare",
+						"id": 215456428,
+						"id_str": "215456428",
+						"indices": [
+							17,
+							27
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 907700045423804400,
+						"id_str": "907700045423804419",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DJjMYdIXgAMKb7M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJjMYdIXgAMKb7M.jpg",
+						"url": "https://t.co/tpvbH1DyEJ",
+						"display_url": "pic.twitter.com/tpvbH1DyEJ",
+						"expanded_url": "https://twitter.com/concreteniche/status/907700055817289728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1334,
+								"h": 750,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 907700045423804400,
+						"id_str": "907700045423804419",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DJjMYdIXgAMKb7M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJjMYdIXgAMKb7M.jpg",
+						"url": "https://t.co/tpvbH1DyEJ",
+						"display_url": "pic.twitter.com/tpvbH1DyEJ",
+						"expanded_url": "https://twitter.com/concreteniche/status/907700055817289728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1334,
+								"h": 750,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1667831797,
+				"id_str": "1667831797",
+				"name": "Patrick Smith",
+				"screen_name": "concreteniche",
+				"location": "Melbourne, Australia",
+				"description": "Maker of design tools @RoyalIcing · Lead educator @CoderAcademy_au · formerly @InfinityList",
+				"url": "https://t.co/hnileNAeRs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hnileNAeRs",
+								"expanded_url": "http://www.burntcaramel.com",
+								"display_url": "burntcaramel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 386,
+				"friends_count": 1328,
+				"listed_count": 38,
+				"created_at": "Tue Aug 13 13:27:20 +0000 2013",
+				"favourites_count": 6861,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3778,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181167233/IXOwlwjW.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181167233/IXOwlwjW.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/678036925500887041/iQN4KMV3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/678036925500887041/iQN4KMV3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1667831797/1450490018",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2828,
+			"favorite_count": 7026,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2828,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 14 11:52:46 +0000 2017",
+		"id": 908297469632634900,
+		"id_str": "908297469632634880",
+		"text": "@Laterthan8 So you’re advocating a move to the iPhone X. 😉",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Laterthan8",
+					"name": "JT",
+					"id": 45501443,
+					"id_str": "45501443",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 908065085859483600,
+		"in_reply_to_status_id_str": "908065085859483649",
+		"in_reply_to_user_id": 45501443,
+		"in_reply_to_user_id_str": "45501443",
+		"in_reply_to_screen_name": "Laterthan8",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseur of Everything.\n\nI’m trying something new: all tweets are automatically generated from my blog.\n\nAll ellipses are my own…",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 433,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 884,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9358,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 13 18:14:14 +0000 2017",
 		"id": 908031078656561200,
 		"id_str": "908031078656561152",
