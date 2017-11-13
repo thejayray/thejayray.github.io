@@ -10,11 +10,9 @@ The site now runs on <a href="http://blot.im">Blot</a>. I transitioned from Tumb
 <div class="about-follow">
 <h2>Follow and Contact</h2>
 
-Email: <a href="mailto:jayray@engineeredeloquence.com">jayray@engineeredeloquence.com</a><br/>
+Email: <a href="mailto:jayray@engineeredeloquence.com">jayray at engineeredeloquence dot com</a><br/>
 Twitter: <a href="https://twitter.com/jayray">@JayRay</a><br/>
 Twitter Feed: <a href="https://twitter.com/eloquentfeed">@EloquentFeed</a><br/>
-App.Net: <a href="https://alpha.app.net/jayray">@JayRay</a><br/>
-App.Net Feed: <a href="https://alpha.app.net/engineeredeloquence">@EngineeredEloquence</a><br/>
 GitHub: <a href="https://github.com/thejayray/">TheJayRay</a>
 <br />
 <br />
