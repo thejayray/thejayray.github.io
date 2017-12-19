@@ -1,6 +1,848 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Mon Dec 18 21:30:21 +0000 2017",
+		"id": 942869669567975400,
+		"id_str": "942869669567975424",
+		"text": "Now it’ll be stuck in my head all day. https://t.co/wGjE8JQYc0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wGjE8JQYc0",
+					"expanded_url": "https://twitter.com/BerniceKing/status/942868406671429633",
+					"display_url": "twitter.com/BerniceKing/st…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseur of Everything.\n\nI’m trying something new: all tweets are automatically generated from my blog.\n\nAll ellipses are my own…",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 514,
+			"friends_count": 356,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 915,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9491,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d7ebfe7dc362c944",
+			"url": "https://api.twitter.com/1.1/geo/id/d7ebfe7dc362c944.json",
+			"place_type": "admin",
+			"name": "Madison WI",
+			"full_name": "Madison WI",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-91.156812,
+							42.447882
+						],
+						[
+							-88.949059,
+							42.447882
+						],
+						[
+							-88.949059,
+							44.24947
+						],
+						[
+							-91.156812,
+							44.24947
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 942868406671429600,
+		"quoted_status_id_str": "942868406671429633",
+		"quoted_status": {
+			"created_at": "Mon Dec 18 21:25:20 +0000 2017",
+			"id": 942868406671429600,
+			"id_str": "942868406671429633",
+			"text": "“Facing the rising sun \nOf our new day begun, \nLet us march on \nTill victory is won.”\n\n‘Lift Every Voice and Sing’ #MarchOn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MarchOn",
+						"indices": [
+							115,
+							123
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54617733,
+				"id_str": "54617733",
+				"name": "Be A King",
+				"screen_name": "BerniceKing",
+				"location": "Atlanta, GA",
+				"description": "Bernice A. King is a global thought leader, orator, CEO of @TheKingCenter, daughter of legendary influencers. Raise the standard. #Nonviolence365™",
+				"url": "https://t.co/zq0VeoIg6H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zq0VeoIg6H",
+								"expanded_url": "http://www.BerniceKing.com",
+								"display_url": "BerniceKing.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 118637,
+				"friends_count": 245,
+				"listed_count": 926,
+				"created_at": "Tue Jul 07 17:30:48 +0000 2009",
+				"favourites_count": 6378,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8400,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54617733/1501429983",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 202,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 18 21:14:36 +0000 2017",
+		"id": 942865705963327500,
+		"id_str": "942865705963327493",
+		"text": "RT @BlackboxPuzzles: I love seeing you all come together to solve puzzles! ☺️\nCheers to our global community! 🎊✴️✳️✴️🎉 https://t.co/O3kBXEe…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlackboxPuzzles",
+					"name": "Blackbox",
+					"id": 3090487386,
+					"id_str": "3090487386",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseur of Everything.\n\nI’m trying something new: all tweets are automatically generated from my blog.\n\nAll ellipses are my own…",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 514,
+			"friends_count": 356,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 915,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9491,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 18 20:28:42 +0000 2017",
+			"id": 942854155067994100,
+			"id_str": "942854155067994112",
+			"text": "I love seeing you all come together to solve puzzles! ☺️\nCheers to our global community! 🎊✴️✳️✴️🎉 https://t.co/O3kBXEeM2X",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/O3kBXEeM2X",
+						"expanded_url": "https://twitter.com/konukito/status/942839652234465280",
+						"display_url": "twitter.com/konukito/statu…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3090487386,
+				"id_str": "3090487386",
+				"name": "Blackbox",
+				"screen_name": "BlackboxPuzzles",
+				"location": "Your brain",
+				"description": "📲 https://t.co/xJYnRU5mZ1 — Think outside the box. Turn on the lights. Tweets by @warpling",
+				"url": "https://t.co/Yc7AQiBzhI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Yc7AQiBzhI",
+								"expanded_url": "http://battleforthenet.com",
+								"display_url": "battleforthenet.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xJYnRU5mZ1",
+								"expanded_url": "http://blackbox.app.link",
+								"display_url": "blackbox.app.link",
+								"indices": [
+									2,
+									25
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 20026,
+				"friends_count": 4663,
+				"listed_count": 40,
+				"created_at": "Mon Mar 16 18:24:49 +0000 2015",
+				"favourites_count": 9589,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6388,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/941362525324550144/C10z9o9y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/941362525324550144/C10z9o9y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3090487386/1513273340",
+				"profile_link_color": "4DABBB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 942839652234465300,
+			"quoted_status_id_str": "942839652234465280",
+			"quoted_status": {
+				"created_at": "Mon Dec 18 19:31:04 +0000 2017",
+				"id": 942839652234465300,
+				"id_str": "942839652234465280",
+				"text": "@daveconour @BlackboxPuzzles How is it supposed to work? I keep scanning images and can’t get the box 🙈... Here is… https://t.co/UUgOTkryOD",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "daveconour",
+							"name": "Dave Conour",
+							"id": 68411984,
+							"id_str": "68411984",
+							"indices": [
+								0,
+								11
+							]
+						},
+						{
+							"screen_name": "BlackboxPuzzles",
+							"name": "Blackbox",
+							"id": 3090487386,
+							"id_str": "3090487386",
+							"indices": [
+								12,
+								28
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/UUgOTkryOD",
+							"expanded_url": "https://twitter.com/i/web/status/942839652234465280",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": 942568146199875600,
+				"in_reply_to_status_id_str": "942568146199875584",
+				"in_reply_to_user_id": 68411984,
+				"in_reply_to_user_id_str": "68411984",
+				"in_reply_to_screen_name": "daveconour",
+				"user": {
+					"id": 75847819,
+					"id_str": "75847819",
+					"name": "Anni Bolotin",
+					"screen_name": "konukito",
+					"location": "Venezuela en Resistencia",
+					"description": "Bio-agradable. Ando en las nubes, tomando #FotosVolando, practicando #agriCOOLtura.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2502,
+					"friends_count": 220,
+					"listed_count": 30,
+					"created_at": "Sun Sep 20 18:45:01 +0000 2009",
+					"favourites_count": 1993,
+					"utc_offset": -14400,
+					"time_zone": "Caracas",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 4287,
+					"lang": "es",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1A1B1F",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/651954906878877697/RElpgfJa_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/651954906878877697/RElpgfJa_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/75847819/1486307859",
+					"profile_link_color": "2FC2EF",
+					"profile_sidebar_border_color": "181A1E",
+					"profile_sidebar_fill_color": "252429",
+					"profile_text_color": "666666",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 942839652234465300,
+		"quoted_status_id_str": "942839652234465280",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 18 19:58:55 +0000 2017",
+		"id": 942846660635451400,
+		"id_str": "942846660635451393",
+		"text": "RT @EllaTschopik: Me in meeting: let's put our chairs in a circle.\nMan in meeting: oh! I know! Let's put our chairs in a circle!\nMe: https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EllaTschopik",
+					"name": "Ella",
+					"id": 22310828,
+					"id_str": "22310828",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseur of Everything.\n\nI’m trying something new: all tweets are automatically generated from my blog.\n\nAll ellipses are my own…",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 514,
+			"friends_count": 356,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 915,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9491,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6849098/nahkpaper1280x1024.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 18 19:57:52 +0000 2017",
+			"id": 942846395828097000,
+			"id_str": "942846395828097025",
+			"text": "Me in meeting: let's put our chairs in a circle.\nMan in meeting: oh! I know! Let's put our chairs in a circle!\nMe: https://t.co/OEH0dFjxJo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 942846384788602900,
+						"id_str": "942846384788602880",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DRWpyqMWAAAg1-u.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DRWpyqMWAAAg1-u.jpg",
+						"url": "https://t.co/OEH0dFjxJo",
+						"display_url": "pic.twitter.com/OEH0dFjxJo",
+						"expanded_url": "https://twitter.com/EllaTschopik/status/942846395828097025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 194,
+								"h": 228,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 194,
+								"h": 228,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 194,
+								"h": 228,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 942846384788602900,
+						"id_str": "942846384788602880",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DRWpyqMWAAAg1-u.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DRWpyqMWAAAg1-u.jpg",
+						"url": "https://t.co/OEH0dFjxJo",
+						"display_url": "pic.twitter.com/OEH0dFjxJo",
+						"expanded_url": "https://twitter.com/EllaTschopik/status/942846395828097025/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 194,
+								"h": 228,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 194,
+								"h": 228,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 194,
+								"h": 228,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								97,
+								114
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DRWpyqMWAAAg1-u.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22310828,
+				"id_str": "22310828",
+				"name": "Ella",
+				"screen_name": "EllaTschopik",
+				"location": "",
+				"description": "Live, Love, Learn",
+				"url": "https://t.co/5Qc158P6Zr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5Qc158P6Zr",
+								"expanded_url": "http://Instagram.com/ellatschopik",
+								"display_url": "Instagram.com/ellatschopik",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 231,
+				"friends_count": 386,
+				"listed_count": 27,
+				"created_at": "Sat Feb 28 23:56:11 +0000 2009",
+				"favourites_count": 13449,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20034,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/508809470848561152/bu9Jp4pP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/508809470848561152/bu9Jp4pP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22310828/1410183642",
+				"profile_link_color": "5A8282",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 17 21:27:19 +0000 2017",
 		"id": 942506516707393500,
 		"id_str": "942506516707393536",
