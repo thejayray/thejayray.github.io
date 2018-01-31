@@ -22,14 +22,14 @@ jobs:
           name: install dependencies
           command: |
             bundle install --jobs=4 --retry=3 --path vendor/bundle
-      -run:
-	  name: Build site
-	  command: |
-	  bundle exec jekyll build
-      -run:
-	  name:Run HTML checks
-	  command: |
-	  bundle exec rake test
+      #-run:
+#	  name: Build site
+#	  command: |
+#	    bundle exec jekyll build
+ #     -run:
+#	  name:Run HTML checks
+#	  command: |
+#	    bundle exec rake test
 
       - save_cache:
           paths:
