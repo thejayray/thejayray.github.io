@@ -1,1 +1,0 @@
-<amount><bottle something="yes" .label="oops" data-something="yup">'</bottle></amount>
