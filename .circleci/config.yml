@@ -19,18 +19,17 @@ jobs:
     steps:
       - checkout
       - run:
-          name: install dependencies
+          name: Install dependencies
           command: |
-            bundle install --jobs=4 --retry=3 --path vendor/bundle
-      - run:
-	  name: Build site
-	  command: |
-	    bundle exec jekyll build
-      - run:
-	  name:Run HTML checks
-	  command: |
-	    bundle exec rake test
-
+            bundle install --jobs=4
+      - run: 
+          name: Build site
+          command: |
+            bundle exec jekyll build
+      - run: 
+          name: Run HTML checks
+          command: |
+            bundle exec rake test
       - save_cache:
           paths:
             - ./vendor/bundle
