@@ -16,6 +16,6 @@ Twitter Feed: <a href="https://twitter.com/eloquentfeed">@EloquentFeed</a><br/>
 GitHub: <a href="https://github.com/thejayray/">TheJayRay</a>
 <br />
 <br />
-The above content has been directly copied from [https://engineeredeloquence.com/about](https://engineeredeloquence.com/about)<br />
-As I play with this site and test things out, changes will occur at [http://thejayray.github.io](http://thejayray.github.io)
+The above content has been directly copied from <a href="https://engineeredeloquence.com/about">https://engineeredeloquence.com/about</a><br />
+As I play with this site and test things out, changes will occur at <a href="http://thejayray.github.io">http://thejayray.github.io</a>.
 </div>
