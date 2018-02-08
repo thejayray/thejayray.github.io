@@ -1,7 +1,38 @@
 ---
+# Site
 title: Engineered Eloquence
+long_title: Engineered Eloquence
+url: https://engineeredeloquence.com
+description: A blog about life, food, and technology, written by Jay Ray.
+markdown_url: https://raw.githubusercontent.com/
+repository: thejayray/thejayray.github.io
+logo: /assets/images/logo.png
+
+# Extra URLs
+rss: https://feed.engineeredeloquence.com
+json: https://engineeredeloquence.com/feed/index.json
+blog_rss: https://feed.engineeredeloquence.com/blog
+blog_json: https://engineeredeloquence.com/feed/blog.json
+micro_rss: https://feed.engineeredeloquence.com/micro
+micro_json: https://engineeredeloquence.com/feed/micro.json
+twitter: https://twitter.com/eloquentfeed
+
+# Authentication
+key_fingerprint: 12BF36155110E71432713FB8DE961DEEB6935B41
+key_path: /keys/key.txt
+key_path_friendly: /publickey/
+
+# Layout
+spacer: "&nbsp;&middot;&nbsp;"
+primary_colour: crimson;
+
 timezone: 'America/Chicago'
+
+# Organisation
 collections:
+  fiction:
+    output: true
+    permalink: /:collection/:slug/
   posts:
     title: Posts
     output: true
@@ -12,17 +43,67 @@ collections:
     title: Projects
     output: true
     permalink: /:collection/:name
+permalink: /:slug/
+paginate_path: /archive/:num/
+images_path: /images/
+pdf_path: /ebooks/
+epub_path: /ebooks/
+content_root: articles
+micro_root: micro
+photo_root: photo
+
+# Contact
+twitter:
+  username: jayray
+author: jayray
+social:
+  name: Jay Ray
+  links:
+    - https://twitter.com/jayray
+    - https://micro.blog/jayray
+    - https://github.com/thejayray
 email: jayray@engineeredeloquence.com
-description: A blog about life, food, and technology, written by Jay Ray.
-baseurl: 
-url: http://engineeredeloquence.com
-rss: http://feed.engineeredeloquence.com
-json: http://engineeredeloquence.com/feed/index.json
-blog_rss: http://feed.engineeredeloquence.com/blog
-blog_json: http://engineeredeloquence.com/feed/blog.json
-micro_rss: http://feed.engineeredeloquence.com/micro
-micro_json: http://engineeredeloquence.com/feed/micro.json
-twitter: http://twitter.com/eloquentfeed
+
+# Build
+lang: en
+defaults:
+  -
+    scope:
+      path: "" 
+    values:
+      layout: default
+      author: jayray
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - CNAME
+paginate: 10
+small_image_threshold: 500w
+micro_length: 280
+inline_article_length: 1000
+
+# Plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+jekyll-mentions:
+  base_url: 'https://twitter.com'
+compress_html:
+  comments: all
+  clippings: none
+  endings: none
+  startings: none
+
+# Other For Github
 twitter_username: jayray
 github_username: thejayray
 permalink: "/:categories/:title/"
@@ -35,6 +116,3 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-gems:
-- jekyll-paginate
-theme: jekyll-theme-tactile
