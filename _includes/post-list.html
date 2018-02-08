@@ -1,0 +1,89 @@
+{% include post-type.liquid %}
+
+<!-- Assign post text excerpt -->
+{% if post.description %}
+  {% assign post_text = post.description %}
+{% else %}
+  {% assign post_text = post.content | truncatewords:site.inline_article_length %}
+{% endif %}
+
+{% if is_micro_post %}
+  <!-- Begin article excerpt -->
+  <section class="h-entry micro-excerpt">
+{% else %}
+  <!-- Begin micro post excerpt -->
+  <section class="h-entry article-excerpt{% if post.collection %} {{ post.collection }}{% endif %}">
+{% endif %}
+
+<!-- Post date -->
+<h4>
+  <a href="{{ post.url }}" class="u-url dt-published{% if is_micro_post %} p-name{% endif %}">{{ post.date | date: '%-d %B %Y, %H:%M' }}</a>
+
+  <!-- 'Read More' placeholder & workaround for lack of Array element addition in Liquid -->
+  {% assign read_more_elements = "" %}
+  {% if post.images or post.image %}
+    {% assign read_more_elements = read_more_elements | append: "image" %}
+    {% if post.image %}
+      {% assign non_featured_images = post.images | join: "," %}
+      {% assign image_collection = post.image | append: "," | append: non_featured_images | split: "," %}
+    {% else %}
+      {% assign image_collection = post.images %}
+    {% endif %}
+    {% if image_collection.size > 1 %}{% assign read_more_elements = read_more_elements | append: "s" %}{% endif %}
+    {% assign read_more_elements = read_more_elements | append: "," %}
+  {% endif %}
+  {% if post.link %}
+    {% assign read_more_elements = read_more_elements | append: "link," %}
+  {% endif %}
+  {% if post.categories contains "aggregated" %}
+    {% assign read_more_elements = read_more_elements | append: "aggregated," %}
+  {% endif %}
+  {% if raw.size > post_text.size %}
+    {% assign read_more_elements = read_more_elements | append: "read more," %}
+  {% endif %}
+
+  {% unless read_more_elements == "" %}
+    {% assign read_more_array = read_more_elements | split: "," %}
+    {% capture read_more_text %}{% for element in read_more_array %}{{ element }}{% unless forloop.last %} & {% endunless %}{% endfor %}{% endcapture %}
+    <a href="{{ post.url }}">({{ read_more_text }})</a>
+  {% endunless %}
+</h4>
+
+<!-- Article title -->
+{% unless is_micro_post %}
+<h2>
+  <a href="{{ post.url }}" class="p-name">{% if post.genre %}{{ post.genre | capitalize }}{% if post.type %} {{ post.type }}{% endif %}: <em>{% endif %}{{ post.title }}</a>{% if post.genre %}</em>{% endif %}
+</h2>
+{% endunless %}
+
+<!-- Add attribution, if present -->
+{% if post.link %}
+  <p>Via <a class="u-in-reply-to" href="{{ post.link }}" title="Source Link">{{ post.attribution }}:</a></p>
+{% endif %}
+
+<!-- Display post text excerpt -->
+{{ post_text }} 
+
+<!-- Display hashtags for micro posts -->
+{% if is_micro_post %}
+  {% assign category_array = "" %}
+
+  {% for category in post.categories %}
+    {% unless category == site.content_root or category == site.micro_root or category == site.photo_root %}
+      {% assign category_array = category_array | append: category | append: "," %}
+    {% endunless %}
+  {% endfor %}
+
+  {% assign filtered_categories = category_array | split: "," %}
+
+  {% if filtered_categories.size > 0 %}
+    <p class="categories">
+    {% for category in filtered_categories | split: "," %}
+      #{{ category }} 
+    {% endfor %}
+    </p>
+  {% endif %}
+{% endif %}
+
+<!-- Close separators -->
+</section>

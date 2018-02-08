@@ -1,0 +1,15 @@
+---
+layout: none
+---
+/* TEAM */
+{% for entry in site.data.authors %}{% assign author_id = entry | first %}{% assign author = site.data.authors[author_id] %}
+Author: {{ author.name }}{% if author.key %}
+PGP Key: {{ author.key }}{% endif %}{% for url in author.urls %}
+Site: {{ url }}{% endfor %}
+Twitter: @{{ author.twitter }}
+Location: {{ author.location }}
+{% endfor %}
+/* SITE */
+
+Last update: {{ site.time | date: '%Y/%m/%d' }} 
+Components: {% for component in site.data.components %}{{ component.name }}{% if forloop.last %}.{% else %}, {% endif %}{% endfor %}

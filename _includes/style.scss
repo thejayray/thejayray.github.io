@@ -1,0 +1,328 @@
+/* Third Party Includes */
+
+{% include normalize.css %}
+{% include solarized.css %}
+
+/* Variables */
+
+{% assign site-colour = site.primary_colour %}
+{% assign site-font = "Source Sans Pro" %}
+{% assign site-font-code = "Source Code Pro" %}
+{% assign site-font-web-regular = "https://fonts.gstatic.com/s/sourcesanspro/v9/ODelI1aHBYDBqgeIAH2zlJbPFduIYtoLzwST68uhz_Y.woff2" %}
+{% assign site-font-web-bold = "https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGJkF8H8ye47wsfpWywda8og.woff2" %}
+{% assign site-font-web-code = "https://fonts.gstatic.com/s/sourcecodepro/v6/mrl8jkM18OlOQN8JLgasD5bPFduIYtoLzwST68uhz_Y.woff2" %}
+{% assign site-small = "42rem" %}
+{% assign site-medium = "48rem" %}
+{% assign site-large = "64rem" %}
+{% assign fiction-inset = "40rem" %}
+{% assign top-spacing = "15vh" %}
+{% assign bottom-spacing = "10rem" %}
+
+/* Web Fonts */
+
+@font-face {
+  font-family: '{{ site-font }}';
+  font-style: normal;
+  font-weight: 400;
+  src: local('{{ site-font }}'), local('{{ site-font | replace: ' ', '' }}-Regular'), url({{ site-font-web-regular }}) format('woff2');
+}
+
+@font-face {
+  font-family: '{{ site-font }}';
+  font-style: normal;
+  font-weight: 700;
+  src: local('{{ site-font }} Bold'), local('{{ site-font | replace: ' ', '' }}-Bold'), url({{ site-font-web-bold }}) format('woff2');
+}
+
+@font-face {
+  font-family: '{{ site-font-code }}';
+  font-style: normal;
+  font-weight: 400;
+  src: local('{{ site-font-code }}'), local('{{ site-font-code | replace: ' ', '' }}-Regular'), url({{ site-font-web-code }}) format('woff2');
+}
+
+/* Functions */
+
+@mixin respond-to($breakpoint) {
+  @media only screen and (max-width: $breakpoint) {
+    @content;
+  }
+}
+
+@mixin headings-all($from: 1, $to: 6) {
+  @for $i from $from through $to {
+    h#{$i}{
+      @content;
+    }
+  }
+}
+
+/* Styles */
+
+@include headings-all(){
+  text-align: left;
+  font-weight: normal;
+  line-height: 1.3;
+  color: {{ site-colour }};
+  @extend %headings !optional;
+}
+
+html {
+  height: 100%;
+}
+
+body { 
+  color: black; 
+  padding: 0; 
+  line-height: 1.5;
+  font-size: 1.2rem;
+  font-family: {{ site-font }}, sans-serif; 
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  min-height: 100%;
+}
+
+p {
+  /* Browser-specific Hyphenation Fix */
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+pre { 
+  word-wrap: normal; 
+  padding: 2rem 1rem;
+}
+
+pre, code {
+  font-family: {{ site-font-code }}, monospace; 
+  font-size: smaller;
+}
+
+header svg {
+  height: 4rem;
+}
+
+header %headings, footer { 
+  padding: 4rem 2rem;
+  text-align: center; 
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+a {
+	color: {{ site-colour }};
+  text-decoration: none;
+}
+
+a:hover { 
+  text-decoration: underline;
+}
+
+img {
+  width: 100%;
+  max-width: {{ site-large }};
+  margin: 2rem auto;
+  display: block;
+}
+
+%headings img, p img {
+  width: auto;
+  margin: auto;
+  display: inline;
+  vertical-align: middle;
+}
+
+li {
+  margin-right: 1rem;
+}
+
+svg {
+  width: auto;
+  height: 1rem;
+  vertical-align: middle;
+  fill: crimson;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+}
+
+section > :not(img), article > :not(img) {
+  max-width: {{ site-medium }};
+  margin: 1rem auto;
+}
+
+section + footer {
+  position: relative;
+}
+
+blockquote {
+  padding: 0 1rem;
+  font-style: italic;
+}
+
+blockquote, .micro-excerpt > :not(img) {
+  margin: 0 auto;
+  border-style: solid;
+  border-width: 0px 0px 0px 6px;
+  border-color: {{ site-colour }};
+}
+
+article {
+  padding: {{ top-spacing }} 0 {{ bottom-spacing }} 0;
+}
+
+article p + %headings {
+  margin-top: 2rem;
+}
+
+article %headings + p, .fiction %headings + p {
+  margin-top: 2rem;
+}
+
+article > %headings, .micro-excerpt > %headings, .article-excerpt > %headings, {
+  margin: 0 auto; 
+  padding: 0 2rem;
+}
+
+.micro-excerpt > :not(img):not(%headings) {
+  padding: 1rem 2rem;
+}
+
+.micro-excerpt ul {
+  list-style-type: none;
+}
+
+.micro-excerpt blockquote, .article-excerpt blockquote,   {
+  padding: 0;
+  border-style: none;
+}
+
+.micro-excerpt > .categories {
+  color: gray;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.article-excerpt {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.image-list {
+  white-space: nowrap;
+  overflow: auto;
+}
+
+.image-list img, {
+  display: inline;
+  margin: auto;
+  padding: 1rem;
+  max-height: 50vh;
+  width: auto;
+  vertical-align: middle;
+}
+
+.highlight {
+  border-radius: 15px;
+}
+
+.fiction p {
+  line-height: 1.6;
+  margin: 0 auto;
+  padding: 0;
+  max-width: {{ fiction-inset }};
+}
+
+.fiction p + p {
+  text-indent: 1rem;
+}
+
+.tagline {
+  text-align: right;
+}
+
+.navigation-element {
+  display: inline;
+  margin-right: 0.5rem;
+}
+
+a.navigation-element:hover, header a:hover {
+  text-decoration: none;
+}
+
+#genre {
+  font-weight: bold;
+}
+
+/* Responsive Overrides */
+
+@include respond-to({{ site-large }}) {
+
+  section > :not(img), article > :not(img) {
+    max-width: 70%;
+  }
+
+  .fiction p {
+    max-width: 62%;
+  }
+
+}
+
+@include respond-to({{ site-medium }}) {
+
+  body {
+    text-align: left;
+  }
+
+}
+
+@include respond-to({{ site-small }}) {
+
+  body {
+    font-size: 1rem;
+  }
+
+  header %headings, footer {
+    padding: 3rem 1rem;
+  }
+
+  header svg {
+    height: 3rem;
+  }
+
+  section > :not(img), article > :not(img) {
+    max-width: 80%;
+  }
+
+  blockquote {
+    border-width: 0px 0px 0px 3px;
+  }
+
+  .micro-excerpt > :not(img) {
+    border-width: 0px 0px 0px 0px;
+  }
+
+  .article-excerpt {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .fiction p {
+    max-width: 80%;
+  }
+
+}
