@@ -1,12 +1,13 @@
 jayray:
   name: Jay Ray
   location: Midwestern US
-  avatar: https://engineeredeloquence.com/images/avatar.jpg
+  avatar: https://thejayray.github.io/images/avatar.jpg
   twitter: jayray
   email: jayray@engineeredeloquence.com
-  key: https://engineeredeloquence.com/publickey/
+  key: https://thejayray.github.io/publickey/
   urls: 
     - https://engineeredeloquence.com
     - https://twitter.com/jayray
     - https://github.com/thejayray
     - https://micro.blog/jayray
+    - https://thejayray.github.io
