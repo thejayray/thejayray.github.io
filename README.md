@@ -5,10 +5,10 @@ categories:
     - meta
 ---
 
-## fernseed.org [![CircleCI](https://circleci.com/gh/dmcgk/dmcgk.github.io.svg?style=svg)](https://circleci.com/gh/dmcgk/dmcgk.github.io)
+## MicroEngineered, a Microblog for [Engineered Eloquence](https://engineeredeloquence.com)
 
-Technology and fiction writing miscellanea. You can also find the author at:
+I'm still learning... You can also find the author at these places, though not actively:
 
-- [Twitter](https://twitter.com/dmcgk)
-- [Micro.blog](https://micro.blog/dmcgk)
-- [GitHub](https://github.com/dmcgk)
+- [Twitter](https://twitter.com/jayray)
+- [Micro.blog](https://micro.blog/jayray)
+- [GitHub](https://github.com/thejayray)
