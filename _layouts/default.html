@@ -38,7 +38,7 @@ layout: compress
   <body>
       {% if page.layout == "index" %}
       <header>
-        <h2><a class="u-url" href="/">{% include logo.svg %}</a></h2>
+        <h2><a class="h-card u-url" href="/">{% include logo.svg %}</a></h2>
         {% if site.data.navigation.size > 0 %}
         <nav>
           {% for nav_item in site.data.navigation %}
@@ -68,8 +68,7 @@ layout: compress
       {% unless page.layout == "index" %}
         {% include images.html %}
         {% unless page.categories contains "meta" %}
-        <h4 class="tagline h-card"><span class="p-author p-nickname">@{{ author.twitter }}</span>{{ site.spacer }}<a href="{{ site.url }}">{{ site.long_title }}</a>{% unless is_micro_post %}{{ site.spacer }}<time class="dt-published" datetime="{{ display_date | date: '%Y-%m-%d %H:%M:%S' }}">{{ display_date | date: '%Y-%m-%d' }}</time>{% endunless %}</h4>{% if page.prompt %}<h4 class="tagline"><a href="/random/"><em>{{ page.prompt }}{% endif %}</em></a></h4>
-        {% endunless %}
+        <h4 class="tagline h-card"><span class="p-author p-nickname">@{{ author.twitter }}</span>{{ site.spacer }}<a href="{{ site.url }}">{{ site.long_title }}</a>{% unless is_micro_post %}{{ site.spacer }}<time class="dt-published" datetime="{{ display_date | date_to_xmlschema }}">{{ display_date | date: '%Y-%m-%d' }}</time>{% endunless %}</h4>{% if page.prompt %}<h4 class="tagline"><a href="/random/"><em>{{ page.prompt }}{% endif %}</em></a></h4>{% if page.competition %}<h4 class="tagline"><a href="{{ page.source }}">{{ page.competition }}</a></h4>{% endif %}{% endunless %}
         </article>
       {% endunless %}
     <footer>
@@ -82,17 +81,6 @@ layout: compress
           {% unless page.categories contains 'aggregated' %}&nbsp;{% if page.collection == "fiction" %}<a href="{{ site.epub_path }}{{ page.title }}.epub" title="ePub">{% include document.svg %}</a>&nbsp;{% endif %}<a href="{{ site.markdown_url }}{{ site.github.repository_nwo }}/master/{{ page.path }}" title="Markdown (Plain Text)">{% include markdown.svg %}</a>{% if page.collection == "fiction" %}&nbsp;<a href="{{ site.pdf_path }}{{ page.title }}.pdf" title="PDF">{% include document-inverted.svg %}</a>{% endif %}{% endunless %}<br />
         {% endif %}
         &copy;&nbsp;{{ site.time | date: '%Y' }}
-      </p>
-      <p>
-        <a href="https://github.com/thejayray" rel="me"></a>
-        <a href="https://instagram.com/thejayray" rel="me"></a>
-        <a href="https://twitter.com/jayray" rel="me"></a>
-        <a href="https://facebook.com/thejayray" rel="me"></a>
-        <a href="https://instagram.com/thejayray" rel="me"></a>
-        <a href="https://github.com/thejayray" rel="me"></a>
-        <a href="https://www.linkedin.com/in/jay-ray-b5431384" rel="me"></a>
-        <a href="https://keybase.io/jayray/" rel="me"></a>
-        <a href="mailto:jayray@engineeredeloquence.com" rel="me"></a>
       </p>
     </footer>
   </body>

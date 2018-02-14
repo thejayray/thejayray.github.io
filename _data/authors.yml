@@ -1,13 +1,12 @@
-jayray:
-  name: Jay Ray
-  location: Midwestern US
-  avatar: https://thejayray.github.io/images/avatar.jpg
-  twitter: jayray
-  email: jayray@engineeredeloquence.com
-  key: https://thejayray.github.io/publickey/
+darren:
+  name: Darren McGuicken
+  location: Northern Ireland
+  avatar: https://fernseed.org/images/avatar.jpg
+  twitter: dmcgk
+  email: feedback@fernseed.org
+  key: https://fernseed.org/publickey/
   urls: 
-    - https://engineeredeloquence.com
-    - https://twitter.com/jayray
-    - https://github.com/thejayray
-    - https://micro.blog/jayray
-    - https://thejayray.github.io
+    - /
+    - https://twitter.com/dmcgk
+    - https://github.com/dmcgk
+    - https://micro.blog/dmcgk
