@@ -13,7 +13,7 @@ key_path_friendly: /publickey/
 
 # Layout
 spacer: "&nbsp;&middot;&nbsp;"
-primary_colour: crimson;
+primary_colour: red;
 
 # Organisation
 collections:
