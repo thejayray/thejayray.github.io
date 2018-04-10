@@ -1,80 +1,23 @@
-# Site
-title: MicroEngineered
-long_title: Engineered Eloquence Microblog
-url: https://thejayray.github.io
-markdown_url: https://raw.githubusercontent.com/
-repository: thejayray/thejayray.github.io
-logo: /assets/images/logo.png
+# Site settings
+title: Pudhina
+description: >
+  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
-# Authentication
-key_fingerprint: 6391E804
-key_path: /keys/6391E804.txt
-key_path_friendly: /publickey/
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://thejayray.github.io" # the base hostname & protocol for your site
 
-# Layout
-spacer: "&nbsp;&middot;&nbsp;"
-primary_colour: red;
+author:
+  fullname: Jay Ray
+  github: thejayray
+  linkedin: thejayray
+  email: jayray@engineeredeloquence.com
 
-# Organisation
-collections:
-  fiction:
-    output: true
-    permalink: /:collection/:slug/
-permalink: /:slug/
-paginate_path: /archive/:num/
-images_path: /images/
-pdf_path: /ebooks/
-epub_path: /ebooks/
-content_root: articles
-micro_root: micro
-photo_root: photo
 
-# Contact
-twitter:
-  username: jayray
-author: jayray
-social:
-  name: Jay Ray
-  links:
-    - https://twitter.com/jayray
-    - https://micro.blog/jayray
-    - https://github.com/thejayray
+# Syntax highlighting
+highlightstyle: 'agate'
+styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.light, atelier-dune.dark, atelier-dune.light, atelier-estuary.dark, atelier-estuary.light, atelier-forest.dark, atelier-forest.light, atelier-heath.dark, atelier-heath.light, atelier-lakeside.dark, atelier-lakeside.light, atelier-plateau.dark, atelier-plateau.light, atelier-savanna.dark, atelier-savanna.light, atelier-seaside.dark, atelier-seaside.light, atelier-sulphurpool.dark, atelier-sulphurpool.light, brown_paper, codepen-embed, color-brewer, dark, darkula, default, docco, far, foundation, github, github-gist, googlecode, grayscale, hopscotch, hybrid, idea, ir_black, kimbie.dark, kimbie.light, magula, mono-blue, monokai, monokai_sublime, obsidian, paraiso.dark, paraiso.light, pojoaque, railscast, rainbow, school_book, solarized_dark, solarized_light, styles_list.txt, sunburst, tomorrow, tomorrow-night-blue, tomorrow-night-bright, tomorrow-night, tomorrow-night-eightie, v, xcode, zenburn]
 
-# Build
-lang: en
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: default
-      author: darren
+
+# Build settings
+highlighter: null
 markdown: kramdown
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - Rakefile
-  - CNAME
-paginate: 20
-small_image_threshold: 500w
-micro_length: 280
-inline_article_length: 1000
-
-# Plugins
-plugins:
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-mentions
-  - jekyll-paginate
-  - jekyll-optional-front-matter
-  - jekyll-relative-links
-  - jekyll-titles-from-headings
-jekyll-mentions:
-  base_url: 'https://twitter.com'
-compress_html:
-  comments: all
-  clippings: none
-  endings: none
-  startings: none

@@ -1,9 +1,0 @@
----
-layout: index
----
-
-{% assign posts_and_collections = site.posts | concat: site.fiction | sort: 'date' | reverse %}
-
-{% for post in posts_and_collections limit: site.paginate  %}
-  {% include post-list.html %}
-{% endfor %}
