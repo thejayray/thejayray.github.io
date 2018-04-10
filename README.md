@@ -1,10 +1,3 @@
----
-title: About
-permalink: /about/
-categories:
-    - meta
----
-
 ## MicroEngineered, a Microblog for [Engineered Eloquence](https://engineeredeloquence.com)
 
 I'm still learning... You can also find the author at these places, though not actively:
