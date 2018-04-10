@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jayray
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thejayray.github.io
+  * I am jayray (https://keybase.io/jayray) on keybase.
+  * I have a public key ASDQCDL0yq19VpwsOr6VEXMKpbkXJeSm1mM0WQXN7k_0gwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015545945fc5b5a702b7ae5091955766dcbeb00d3d96afb35e4ed3456b0655058c0a",
+      "host": "keybase.io",
+      "kid": "0120d00832f4caad7d569c2c3abe9511730aa5b91725e4a6d663345905cdee4ff4830a",
+      "uid": "0994aa7f8f340912aef0c769e7554f19",
+      "username": "jayray"
+    },
+    "merkle_root": {
+      "ctime": 1513199084,
+      "hash": "ae970db720a66968f27a03aefdaf8e3062c691a150be73a44a26fbf0e018ba76a67933e4e753dc27a32d987cb9ae9ed84902395986ce412bbf2feaa0d2166cd8",
+      "hash_meta": "70f32d408e697a47f1ce3d4fc8f64a5f751a118932b8208ee53cf6aef4cd7e56",
+      "seqno": 1814944
+    },
+    "service": {
+      "hostname": "thejayray.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1513199095,
+  "expire_in": 504576000,
+  "prev": "b6da09b632531946bb6640233fbc1d64440aa74f1c1d443581f15c3cd53a759a",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0Agy9MqtfVacLDq+lRFzCqW5FyXkptZjNFkFze5P9IMKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNTU0NTk0NWZjNWI1YTcwMmI3YWU1MDkxOTU1NzY2ZGNiZWIwMGQzZDk2YWZiMzVlNGVkMzQ1NmIwNjU1MDU4YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDAwODMyZjRjYWFkN2Q1NjljMmMzYWJlOTUxMTczMGFhNWI5MTcyNWU0YTZkNjYzMzQ1OTA1Y2RlZTRmZjQ4MzBhIiwidWlkIjoiMDk5NGFhN2Y4ZjM0MDkxMmFlZjBjNzY5ZTc1NTRmMTkiLCJ1c2VybmFtZSI6ImpheXJheSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMzE5OTA4NCwiaGFzaCI6ImFlOTcwZGI3MjBhNjY5NjhmMjdhMDNhZWZkYWY4ZTMwNjJjNjkxYTE1MGJlNzNhNDRhMjZmYmYwZTAxOGJhNzZhNjc5MzNlNGU3NTNkYzI3YTMyZDk4N2NiOWFlOWVkODQ5MDIzOTU5ODZjZTQxMmJiZjJmZWFhMGQyMTY2Y2Q4IiwiaGFzaF9tZXRhIjoiNzBmMzJkNDA4ZTY5N2E0N2YxY2UzZDRmYzhmNjRhNWY3NTFhMTE4OTMyYjgyMDhlZTUzY2Y2YWVmNGNkN2U1NiIsInNlcW5vIjoxODE0OTQ0fSwic2VydmljZSI6eyJob3N0bmFtZSI6InRoZWpheXJheS5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNyJ9LCJjdGltZSI6MTUxMzE5OTA5NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJiNmRhMDliNjMyNTMxOTQ2YmI2NjQwMjMzZmJjMWQ2NDQ0MGFhNzRmMWMxZDQ0MzU4MWYxNWMzY2Q1M2E3NTlhIiwic2Vxbm8iOjI3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFf3U9l+awKego7CROkxeXOhVRXoE5NKDhUWatH39+yn8+iKmLrcnLKFB23kfA+DUn+7jJgmwYgXZZJHyeL5UQuoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCsDSf8bI3NHGGzXuQxK+ucYTwI5lG5ioDVbgrAn8qSUqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jayray
+
+==================================================================
