@@ -1,0 +1,12 @@
+---
+layout: feed
+comment: "This feed lists only the article-length items posted to the site."
+---
+{% assign posts_and_collections = site.posts | concat: site.fiction | sort: 'date' | reverse %}
+{% for post in posts_and_collections limit: site.paginate %}
+	{% include post-type.liquid %}
+	{% unless is_micro_post %}
+		{% if beyond_first_post %},{% else %}{% assign beyond_first_post = true %}{% endif %}
+	    {% include post-list.json %}
+	{% endunless %}
+{% endfor %}

@@ -1,40 +1,80 @@
----
-title: Engineered Eloquence
-timezone: 'America/Chicago'
+# Site
+title: MicroEngineered
+long_title: Engineered Eloquence Microblog
+url: https://thejayray.github.io
+markdown_url: https://raw.githubusercontent.com/
+repository: thejayray/thejayray.github.io
+logo: /assets/images/logo.png
+
+# Authentication
+key_fingerprint: 6391E804
+key_path: /keys/6391E804.txt
+key_path_friendly: /publickey/
+
+# Layout
+spacer: "&nbsp;&middot;&nbsp;"
+primary_colour: red;
+
+# Organisation
 collections:
-  posts:
-    title: Posts
+  fiction:
     output: true
-  uploads:
-    title: Uploads
-    output: false
-  projects:
-    title: Projects
-    output: true
-    permalink: /:collection/:name
-email: jayray@engineeredeloquence.com
-description: Written by Jay Ray.
-baseurl: 
-url: http://engineeredeloquence.com
-rss: http://feed.engineeredeloquence.com
-json: http://engineeredeloquence.com/feed/index.json
-blog_rss: http://feed.engineeredeloquence.com/blog
-blog_json: http://engineeredeloquence.com/feed/blog.json
-micro_rss: http://feed.engineeredeloquence.com/micro
-micro_json: http://engineeredeloquence.com/feed/micro.json
-twitter: http://twitter.com/eloquentfeed
-twitter_username: jayray
-github_username: thejayray
-permalink: "/:categories/:title/"
+    permalink: /:collection/:slug/
+permalink: /:slug/
+paginate_path: /archive/:num/
+images_path: /images/
+pdf_path: /ebooks/
+epub_path: /ebooks/
+content_root: articles
+micro_root: micro
+photo_root: photo
+
+# Contact
+twitter:
+  username: jayray
+author: jayray
+social:
+  name: Jay Ray
+  links:
+    - https://twitter.com/jayray
+    - https://micro.blog/jayray
+    - https://github.com/thejayray
+
+# Build
+lang: en
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+      author: darren
 markdown: kramdown
-markdown_ext: markdown,mkdown,mkdn,mkd,md
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-gems:
-- jekyll-paginate
-theme: jekyll-theme-merlot
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - CNAME
+paginate: 20
+small_image_threshold: 500w
+micro_length: 280
+inline_article_length: 1000
+
+# Plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+jekyll-mentions:
+  base_url: 'https://twitter.com'
+compress_html:
+  comments: all
+  clippings: none
+  endings: none
+  startings: none

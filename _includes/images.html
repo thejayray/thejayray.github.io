@@ -1,0 +1,68 @@
+{% if page.images or page.image %}
+
+  <!-- Combine the total set of featured and normal images -->
+  {% if page.image %}
+    {% assign non_featured_images = page.images | join: "," %}
+    {% assign image_collection = page.image | append: "," | append: non_featured_images | split: "," %}
+  {% else %}
+    {% assign image_collection = page.images %}
+  {% endif %}
+
+  <!-- Image Accessibility Text-->
+  {% if page.image_description %}
+    {% assign image_text = page.image_description %}
+  {% else %}
+    {% assign image_text = page.title %}
+  {% endif %}
+
+  <!-- Carousel -->
+  {% if image_collection.size > 1 %}
+    <figure>
+      <section class="image-list">
+        {% for image in image_collection %}
+          {% assign image_counter = " #" | append: forloop.index %}
+          {% assign image_display_text = image_text | append: image_counter %}
+          {% if image contains site.images_path %}
+            {% assign image_location = image %}
+          {% else %}
+            {% assign image_location = site.images_path | append: image %}
+          {% endif %}
+          <a href="{{ image_location }}">
+
+            <!-- Single Raw Image -->
+            {% if image_location contains '-raw.' %}
+              <img class="u-photo" alt="{{ image_display_text }}" src="{{ image_location }}" />
+
+            <!-- Image with small and large variations -->
+            {% else %}
+              {% assign picture_elements = image_location | split: '.' %}
+              <img class="u-photo" alt="{{ image_display_text }}" src="{{ image_location }}" srcset="{{ picture_elements.first }}-small.{{ picture_elements.last }} {{ site.small_image_threshold }}, {{ image_location }}" />
+            {% endif %}
+          </a>
+        {% endfor %}
+      </section>
+      <figcaption>{{ image_collection.size }} images</figcaption>
+    </figure>
+
+  <!-- Single Feature Image -->
+  {% else %}
+    {% if image_collection.first contains site.images_path %}
+      {% assign image_location = image_collection.first %}
+    {% else %}
+      {% assign image_location = site.images_path | append: image_collection.first %}
+    {% endif %}
+    <a href="{{ image_location }}">
+
+      <!-- Single Raw Image -->
+      {% if image_location contains '-raw.' %}
+        <img class="u-photo" alt="{{ image_text }}" src="{{ image_location }}" />
+
+      <!-- Image with small and large variations -->
+      {% else %}
+        {% assign picture_elements = image_location | split: '.' %}
+        <img class="u-photo" alt="{{ image_text }}" src="{{ image_location }}" srcset="{{ picture_elements.first }}-small.{{ picture_elements.last }} {{ site.small_image_threshold }}, {{ image_location }}" />
+      {% endif %}
+    </a>
+  {% endif %}
+
+{% endif %}

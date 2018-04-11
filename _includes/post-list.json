@@ -1,0 +1,50 @@
+{% include post-type.liquid %}
+{
+    "id": "{{ site.url }}{{ post.url }}",
+    {% unless is_micro_post %}
+    "title": "{% if post.genre %}{{ post.genre | capitalize }}{% if post.type %} {{ post.type }}{% endif %}: {% endif %}{{ post.title }}",
+    {% endunless %}
+    {% if post.description %}
+    "summary": {{ post.description | jsonify }},
+    {% endif %}
+    "url": "{{ site.url }}{{ post.url }}",
+    {% if post.link %}
+    "external_url": "{{ post.link }}",
+    {% endif %}
+    {% include images-list.html %}
+    {% if main_image && main_image != "" %}
+    "image": "{{ site.url }}{{ main_image }}",
+    {% endif %}
+    {% if post.link %}
+    {% capture link_attribution %}<p>Via <a href='{{ post.link }}' title='Source Link'>{{ post.attribution }}:</a></p>{% endcapture %}
+    {% else %}
+    {% assign link_attribution = "" %}
+    {% endif %}
+    {% if is_micro_post %}
+    {% capture category_string %}<p>{% for category in post.categories %}{% unless category == site.content_root or category == site.micro_root or category == site.photo_root %}#{{ category }} {% endunless %}{% endfor %}</p>{% endcapture %}
+    {% else %}
+    {% assign category_string = "" %}
+    {% endif %}
+    "content_html": {{ link_attribution | append: post.content | append: image_string | append: category_string | jsonify }},
+    {% if post.link %}
+    "external_url": "{{ post.link }}",
+    {% endif %}
+    {% if post.banner %}
+    "banner_image": "{{ site.url }}{{ post.banner }}",
+    {% endif %}
+    "date_published": "{{ post.date | date_to_xmlschema }}"
+    {% if post.collection == "fiction" %}
+    , "attachments": [
+        {
+            "url": "{{ site.url }}{{ site.epub_path }}{{ post.title }}.epub",
+            "mime_type": "application/epub+zip",
+            "title": "{{ post.title }}"
+        }, 
+        {
+            "url": "{{ site.url }}{{ site.pdf_path }}{{ post.title }}.pdf",
+            "mime_type": "application/pdf",
+            "title": "{{ post.title }}"
+        }
+    ]
+    {% endif %}
+}

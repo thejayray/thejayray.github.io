@@ -1,0 +1,9 @@
+---
+layout: index
+---
+
+{% for story in site.fiction %}
+	<section class="h-entry archive-excerpt">
+	  <p><em><a class="u-url p-name" href="{{ story.url }}">{{ story.title }}</a></em>, a {{ story.genre }} {{ story.type }} completed in <span class="dt-published">{{ story.date | date: '%B %Y' }}</span>.</p>
+	</section>
+{% endfor %}
