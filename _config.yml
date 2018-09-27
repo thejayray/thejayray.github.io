@@ -1,57 +1,80 @@
-site: Jay Ray
+# Site
+title: MicroEngineered
+long_title: Engineered Eloquence Microblog
+url: https://thejayray.github.io
+markdown_url: https://raw.githubusercontent.com/
+repository: thejayray/thejayray.github.io
+logo: /assets/images/logo.png
 
+# Authentication
+key_fingerprint: 6391E804
+key_path: /keys/6391E804.txt
+key_path_friendly: /publickey/
+
+# Layout
+spacer: "&nbsp;&middot;&nbsp;"
+primary_colour: red;
+
+# Organisation
 collections:
-  pages:
+  fiction:
     output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /blog/:slug
-  projects:
-    output: true
-    permalink: /project/:slug
+    permalink: /:collection/:slug/
+permalink: /:slug/
+paginate_path: /archive/:num/
+images_path: /images/
+pdf_path: /ebooks/
+epub_path: /ebooks/
+content_root: articles
+micro_root: micro
+photo_root: photo
 
+# Contact
+twitter:
+  username: jayray
+author: jayray
+social:
+  name: Jay Ray
+  links:
+    - https://twitter.com/jayray
+    - https://micro.blog/jayray
+    - https://github.com/thejayray
+
+# Build
+lang: en
 defaults:
   -
     scope:
       path: ""
     values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-
+      layout: default
+      author: darren
 markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - CNAME
+paginate: 20
+small_image_threshold: 500w
+micro_length: 280
+inline_article_length: 1000
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  
-sass:
-  style: compressed
-
-# Gems
-gems: [jekyll-paginate]
-
-plugins_dir:
-  - jekyll-paginate
+# Plugins
+plugins:
+  - jekyll-redirect-from
   - jekyll-sitemap
-
-paginate: 6
-paginate_path: "/blog/page:num/"
-  
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+jekyll-mentions:
+  base_url: 'https://twitter.com'
+compress_html:
+  comments: all
+  clippings: none
+  endings: none
+  startings: none

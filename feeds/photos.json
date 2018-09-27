@@ -1,0 +1,10 @@
+---
+layout: feed
+comment: "This feed lists only the photos posted to the site."
+---
+{% for post in site.categories.photo limit: site.paginate %}
+	{% if post.author == "darren" %}
+	   {% if beyond_first_post %},{% else %}{% assign beyond_first_post = true %}{% endif %}
+	   {% include post-list.json %}
+	{% endif %}
+{% endfor %}

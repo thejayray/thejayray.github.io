@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.8.3'
+# GitHub Pages
+gem 'github-pages', '>=100', group: :jekyll_plugins
 
-group :jekyll_plugins do
-  gem 'jekyll-paginate'
-  gem 'jekyll-sitemap'
+# HTML Testing
+group :test do
+  gem 'rake'
+  gem 'html-proofer'
 end

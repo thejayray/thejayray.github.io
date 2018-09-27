@@ -1,0 +1,10 @@
+---
+layout: index
+sitemap: false
+---
+
+<section>
+{% for page in site.categories.photo %}
+  {% include images.html %}
+{% endfor %}
+</section>

@@ -1,0 +1,12 @@
+---
+layout: feed-atom
+---
+{% assign posts_and_collections = site.posts | concat: site.fiction | sort: 'date' | reverse %}
+{% for post in posts_and_collections limit: site.paginate %}
+	{% if post.author == "darren" %}
+		{% include post-type.liquid %}
+		{% if is_micro_post %}
+	    	{% include post-list.xml %}
+		{% endif %}
+	{% endif %}
+{% endfor %}
