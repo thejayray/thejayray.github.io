@@ -1,14 +1,11 @@
-jayray:
+# Sample Authors
+# Remove file or replace with your own
+
+Jay Ray:
   name: Jay Ray
-  location: Midwest US
-  avatar: https://thejayray.github.io/images/avatar.jpg
-  twitter: jayray
-  email: jayray@engineeredeloquence.com
-  key: https://thejayray.github.io/publickey/
-  urls:
-    - /
-    - https://twitter.com/jayray
-    - https://github.com/thejayray
-    - https://micro.blog/jayray
-    - https://engineeredeloquence.com
-    - https://thejayray.github.io
+  picture: /images/bio-photo-2.jpg
+  twitter: "@jayray"
+  links:
+    - title: Twitter
+      url: https://twitter.com/jayray
+      icon: fab fa-twitter-square
