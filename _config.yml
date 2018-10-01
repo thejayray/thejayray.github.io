@@ -1,10 +1,10 @@
 # Site
-title: MicroEngineered
-long_title: Engineered Eloquence Microblog
+title: Engineered Eloquence
+long_title: Engineered Eloquence
 url: https://thejayray.github.io
 markdown_url: https://raw.githubusercontent.com/
 repository: thejayray/thejayray.github.io
-logo: /assets/images/logo.png
+logo: /images/mainprofile.png
 
 # Authentication
 key_fingerprint: 6391E804
