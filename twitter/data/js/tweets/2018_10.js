@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 24 01:52:08 +0000 2018",
+		"id": 1054913399451197400,
+		"id_str": "1054913399451197441",
+		"full_text": "As A Man Who Respects Women, I Thought I’d Never Crossed A Line. I Was Wrong.  https://t.co/hNuW4RJdSe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hNuW4RJdSe",
+					"expanded_url": "http://bit.ly/2S97qBg",
+					"display_url": "bit.ly/2S97qBg",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseur of Everything.\n\nI’m trying something new: all tweets are automatically generated from my blog.\n\nAll ellipses are my own…",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 479,
+			"friends_count": 369,
+			"listed_count": 16,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As A Man Who Respects Women, I Thought I’d Never Crossed A Line. I Was Wrong.  https://t.co/hNuW4RJdSe"
+	},
+	{
+		"created_at": "Wed Oct 24 01:52:08 +0000 2018",
+		"id": 1054913397781860400,
+		"id_str": "1054913397781860353",
+		"full_text": "Voyager 2 Is Getting Close to Interstellar Space  https://t.co/zZEo6TPcmE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zZEo6TPcmE",
+					"expanded_url": "http://bit.ly/2yxuT75",
+					"display_url": "bit.ly/2yxuT75",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseur of Everything.\n\nI’m trying something new: all tweets are automatically generated from my blog.\n\nAll ellipses are my own…",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 479,
+			"friends_count": 369,
+			"listed_count": 16,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Voyager 2 Is Getting Close to Interstellar Space  https://t.co/zZEo6TPcmE"
+	},
+	{
+		"created_at": "Wed Oct 24 01:52:07 +0000 2018",
+		"id": 1054913395072344000,
+		"id_str": "1054913395072344064",
+		"full_text": "iPhone XS (Max)  https://t.co/zpTkLSYEU8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zpTkLSYEU8",
+					"expanded_url": "http://bit.ly/2JczMXp",
+					"display_url": "bit.ly/2JczMXp",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseur of Everything.\n\nI’m trying something new: all tweets are automatically generated from my blog.\n\nAll ellipses are my own…",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 479,
+			"friends_count": 369,
+			"listed_count": 16,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iPhone XS (Max)  https://t.co/zpTkLSYEU8"
+	},
+	{
+		"created_at": "Wed Oct 24 01:22:06 +0000 2018",
+		"id": 1054905843064496100,
+		"id_str": "1054905843064496129",
+		"full_text": "I’m Reading “Daring Fireball: The iPhone XR”  https://t.co/zKhxSU980a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zKhxSU980a",
+					"expanded_url": "http://bit.ly/2PRUtu7",
+					"display_url": "bit.ly/2PRUtu7",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseur of Everything.\n\nI’m trying something new: all tweets are automatically generated from my blog.\n\nAll ellipses are my own…",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 479,
+			"friends_count": 369,
+			"listed_count": 16,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m Reading “Daring Fireball: The iPhone XR”  https://t.co/zKhxSU980a"
+	},
+	{
+		"created_at": "Tue Oct 23 13:22:10 +0000 2018",
+		"id": 1054724662947668000,
+		"id_str": "1054724662947667968",
+		"full_text": "I’m Reading “Stages of Sleep: The Definitive Guide for the Curious | Oura Ring”  https://t.co/TMZCMhLxNR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TMZCMhLxNR",
+					"expanded_url": "http://bit.ly/2PdcXbx",
+					"display_url": "bit.ly/2PdcXbx",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray 📎",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "Technologist, Father, Connoisseur of Everything.\n\nI’m trying something new: all tweets are automatically generated from my blog.\n\nAll ellipses are my own…",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 479,
+			"friends_count": 369,
+			"listed_count": 16,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891830913797160960/SN4cgFnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1501464070",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m Reading “Stages of Sleep: The Definitive Guide for the Curious | Oura Ring”  https://t.co/TMZCMhLxNR"
+	},
+	{
 		"created_at": "Mon Oct 22 14:32:26 +0000 2018",
 		"id": 1054379958271967200,
 		"id_str": "1054379958271967234",
