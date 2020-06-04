@@ -1,6 +1,1341 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 03:58:50 +0000 2020",
+		"id": 1268335370518892500,
+		"id_str": "1268391736205860864",
+		"full_text": "We want police to stop killing us completely, not just kill us less.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183915239,
+			"id_str": "183915239",
+			"name": "William C.",
+			"screen_name": "williamcson",
+			"location": "Nowhere ",
+			"description": "“Everybody has to die Firdaus. I will die and you will die. The important thing is how to live until you die.”— Nawal El Saadawi",
+			"url": "https://t.co/mwiQIetXnN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mwiQIetXnN",
+							"expanded_url": "https://twitter.com/williamcson/status/1238898474323755008?s=20",
+							"display_url": "twitter.com/williamcson/st…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28546,
+			"friends_count": 987,
+			"listed_count": 249,
+			"created_at": "Sat Aug 28 05:43:58 +0000 2010",
+			"favourites_count": 41216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1236803924704792578/E3bltPHo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236803924704792578/E3bltPHo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183915239/1407086753",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6224,
+		"favorite_count": 23503,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We want police to stop killing us completely, not just kill us less."
+	},
+	{
+		"created_at": "Thu Jun 04 03:56:59 +0000 2020",
+		"id": 1268231406351614000,
+		"id_str": "1268391272642985984",
+		"full_text": "It is so exhausting being everybody’s one black friend right now",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14642495,
+			"id_str": "14642495",
+			"name": "Sarah Cooper",
+			"screen_name": "sarahcpr",
+			"location": "Brooklyn, NY",
+			"description": "writer / comedian / #blockedbytrump / wrote 100 Tricks to Appear Smart in Meetings & How to Be Successful Without Hurting Men's Feelings",
+			"url": "https://t.co/SSzNovmSrb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SSzNovmSrb",
+							"expanded_url": "http://sarahcpr.com",
+							"display_url": "sarahcpr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1068936,
+			"friends_count": 2743,
+			"listed_count": 2978,
+			"created_at": "Sat May 03 23:30:29 +0000 2008",
+			"favourites_count": 135626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 37064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256381928246296578/yPPL34Um_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256381928246296578/yPPL34Um_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14642495/1581527591",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10072,
+		"favorite_count": 163542,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It is so exhausting being everybody’s one black friend right now"
+	},
+	{
+		"created_at": "Thu Jun 04 03:54:34 +0000 2020",
+		"id": 1268345513398730800,
+		"id_str": "1268390664833847297",
+		"full_text": "letter from the provost https://t.co/XdmYgFfFU9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XdmYgFfFU9",
+					"expanded_url": "https://twitter.com/elisechenier/status/1268314328605749248",
+					"display_url": "twitter.com/elisechenier/s…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15270585,
+			"id_str": "15270585",
+			"name": "walter been michael",
+			"screen_name": "proseb4bros",
+			"location": "Chicago",
+			"description": "asst professor of english @ northwestern u / WHITE NEGROES @BeaconPressBks; next: BACK from @AmistadBooks/@HarperCollins",
+			"url": "https://t.co/HgJ8X1Hd7W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HgJ8X1Hd7W",
+							"expanded_url": "http://laurjackson.com",
+							"display_url": "laurjackson.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7370,
+			"friends_count": 675,
+			"listed_count": 64,
+			"created_at": "Sun Jun 29 13:46:46 +0000 2008",
+			"favourites_count": 130919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167200391706173440/jKMFkBn9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167200391706173440/jKMFkBn9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15270585/1418394003",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B8ECFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1268314328605749200,
+		"quoted_status_id_str": "1268314328605749248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XdmYgFfFU9",
+			"expanded": "https://twitter.com/elisechenier/status/1268314328605749248",
+			"display": "twitter.com/elisechenier/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 03 22:51:14 +0000 2020",
+			"id": 1268314328605749200,
+			"id_str": "1268314328605749248",
+			"full_text": "What is the academic version of 'thoughts and prayers'?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 73325001,
+				"id_str": "73325001",
+				"name": "Apropos of Nothing",
+				"screen_name": "elisechenier",
+				"location": "",
+				"description": "From Outlaws to Inlaws: Critical Same-Sex Marriage Historical Research for Everyone",
+				"url": "https://t.co/7FiR1vdfkT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7FiR1vdfkT",
+								"expanded_url": "http://echenier.wordpress.com",
+								"display_url": "echenier.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 975,
+				"friends_count": 1788,
+				"listed_count": 21,
+				"created_at": "Fri Sep 11 06:26:27 +0000 2009",
+				"favourites_count": 11945,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2934,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1166123593056436224/eiMlbVSw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166123593056436224/eiMlbVSw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/73325001/1442824799",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 30,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "letter from the provost https://t.co/XdmYgFfFU9"
+	},
+	{
+		"created_at": "Thu Jun 04 00:47:36 +0000 2020",
+		"id": 1268150279431741400,
+		"id_str": "1268343613542580225",
+		"full_text": "Good morning. A reminder: Protesters are protesting. Looters are looting. Stop conflating the two.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16187815,
+			"id_str": "16187815",
+			"name": "Errin Haines 🧼🧴🙏🏾",
+			"screen_name": "emarvelous",
+			"location": "City of Sisterly Affection",
+			"description": "Editor at Large for @19thnews. @IWMF 2020 squad. Ask me about Peppa Pig — but only if you can handle the truth. John 17:7",
+			"url": "https://t.co/R6vZ5qrkHr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R6vZ5qrkHr",
+							"expanded_url": "http://19thnews.org/",
+							"display_url": "19thnews.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37945,
+			"friends_count": 5469,
+			"listed_count": 790,
+			"created_at": "Mon Sep 08 17:36:54 +0000 2008",
+			"favourites_count": 25203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 39482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263334772451008515/mZ9pjujT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263334772451008515/mZ9pjujT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16187815/1580130593",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "5C91B9",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2278,
+		"favorite_count": 11046,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Good morning. A reminder: Protesters are protesting. Looters are looting. Stop conflating the two."
+	},
+	{
+		"created_at": "Wed Jun 03 19:49:15 +0000 2020",
+		"id": 1267523353289474000,
+		"id_str": "1268268529280790529",
+		"full_text": "This is probably the most impactful picture I have ever taken. \n\n#JusticeForGeorgeFloyd #LongBeach #LongBeachProtest #BlackLivesMatter https://t.co/blPWQonGwO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JusticeForGeorgeFloyd",
+					"indices": [
+						65,
+						87
+					]
+				},
+				{
+					"text": "LongBeach",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "LongBeachProtest",
+					"indices": [
+						99,
+						116
+					]
+				},
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						117,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267523335115567000,
+					"id_str": "1267523335115567105",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EZclwfYU8AEGx-d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZclwfYU8AEGx-d.jpg",
+					"url": "https://t.co/blPWQonGwO",
+					"display_url": "pic.twitter.com/blPWQonGwO",
+					"expanded_url": "https://twitter.com/richardgrant88/status/1267523353289474048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1688,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 560,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 989,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267523335115567000,
+					"id_str": "1267523335115567105",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EZclwfYU8AEGx-d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZclwfYU8AEGx-d.jpg",
+					"url": "https://t.co/blPWQonGwO",
+					"display_url": "pic.twitter.com/blPWQonGwO",
+					"expanded_url": "https://twitter.com/richardgrant88/status/1267523353289474048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1688,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 560,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 989,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1379301174,
+			"id_str": "1379301174",
+			"name": "Richard Grant",
+			"screen_name": "richardgrant88",
+			"location": "California, USA",
+			"description": "Army Veteran. Aspiring Journalist and Photographer. \nFor professional inquires please contact me by Richard@rhgphotos.com",
+			"url": "https://t.co/TTugU1ApxB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TTugU1ApxB",
+							"expanded_url": "http://rhgphotos.com",
+							"display_url": "rhgphotos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6766,
+			"friends_count": 334,
+			"listed_count": 34,
+			"created_at": "Thu Apr 25 12:09:37 +0000 2013",
+			"favourites_count": 1400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205947234178584578/0d6fsds2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205947234178584578/0d6fsds2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1379301174/1568902416",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01c060cf466c6ce3",
+			"url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json",
+			"place_type": "city",
+			"name": "Long Beach",
+			"full_name": "Long Beach, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.250227,
+							33.732905
+						],
+						[
+							-118.0631938,
+							33.732905
+						],
+						[
+							-118.0631938,
+							33.885438
+						],
+						[
+							-118.250227,
+							33.885438
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136039,
+		"favorite_count": 316541,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is probably the most impactful picture I have ever taken. \n\n#JusticeForGeorgeFloyd #LongBeach #LongBeachProtest #BlackLivesMatter https://t.co/blPWQonGwO"
+	},
+	{
+		"created_at": "Wed Jun 03 19:47:25 +0000 2020",
+		"id": 1267997823955538000,
+		"id_str": "1268268068456857603",
+		"full_text": "say his name https://t.co/isqxvxHRY1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267997819744530400,
+					"id_str": "1267997819744530433",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EZjVTIXXsAEypqW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZjVTIXXsAEypqW.jpg",
+					"url": "https://t.co/isqxvxHRY1",
+					"display_url": "pic.twitter.com/isqxvxHRY1",
+					"expanded_url": "https://twitter.com/dionysiiac/status/1267997823955537920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267997819744530400,
+					"id_str": "1267997819744530433",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EZjVTIXXsAEypqW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZjVTIXXsAEypqW.jpg",
+					"url": "https://t.co/isqxvxHRY1",
+					"display_url": "pic.twitter.com/isqxvxHRY1",
+					"expanded_url": "https://twitter.com/dionysiiac/status/1267997823955537920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1105685685791588400,
+			"id_str": "1105685685791588352",
+			"name": "raine",
+			"screen_name": "dionysiiac",
+			"location": "",
+			"description": "assalamualaikum, no oink for me",
+			"url": "https://t.co/hGAFIe1k5M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGAFIe1k5M",
+							"expanded_url": "https://docs.google.com/spreadsheets/u/0/d/1ZIvDZpHqvNZkf8dGFXVjfk-Wq0Y9FTG410NJbH_8K8M/htmlview",
+							"display_url": "docs.google.com/spreadsheets/u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376,
+			"friends_count": 166,
+			"listed_count": 1,
+			"created_at": "Wed Mar 13 04:23:04 +0000 2019",
+			"favourites_count": 2267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266587548425629702/QKtchVeI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266587548425629702/QKtchVeI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105685685791588352/1590788196",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59168,
+		"favorite_count": 74167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "say his name https://t.co/isqxvxHRY1"
+	},
+	{
+		"created_at": "Wed Jun 03 15:57:16 +0000 2020",
+		"id": 1268196201909936000,
+		"id_str": "1268210148734009344",
+		"full_text": "Remember #BreonnaTaylor. \nDon’t allow this grave injustice to be overlooked or forgotten.\nNo officers have been charged or arrested. @louisvillemayor \n\nRT to demand #JusticeForBre.\n\n#JusticeforBreonnaTaylor https://t.co/quJI8Qwl70",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BreonnaTaylor",
+					"indices": [
+						9,
+						23
+					]
+				},
+				{
+					"text": "JusticeForBre",
+					"indices": [
+						165,
+						179
+					]
+				},
+				{
+					"text": "JusticeforBreonnaTaylor",
+					"indices": [
+						182,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "louisvillemayor",
+					"name": "Mayor Greg Fischer",
+					"id": 244123121,
+					"id_str": "244123121",
+					"indices": [
+						133,
+						149
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268196197786845200,
+					"id_str": "1268196197786845184",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EZmJuQKWAAA1hHl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZmJuQKWAAA1hHl.jpg",
+					"url": "https://t.co/quJI8Qwl70",
+					"display_url": "pic.twitter.com/quJI8Qwl70",
+					"expanded_url": "https://twitter.com/BerniceKing/status/1268196201909936130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 1230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1188,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268196197786845200,
+					"id_str": "1268196197786845184",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EZmJuQKWAAA1hHl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZmJuQKWAAA1hHl.jpg",
+					"url": "https://t.co/quJI8Qwl70",
+					"display_url": "pic.twitter.com/quJI8Qwl70",
+					"expanded_url": "https://twitter.com/BerniceKing/status/1268196201909936130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 1230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1188,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54617733,
+			"id_str": "54617733",
+			"name": "Be A King",
+			"screen_name": "BerniceKing",
+			"location": "Atlanta, GA",
+			"description": "Bernice A. King is a connector, communicator, community builder, CEO of @TheKingCenter, and child of great global influencers.",
+			"url": "https://t.co/zq0VeoIg6H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zq0VeoIg6H",
+							"expanded_url": "http://www.BerniceKing.com",
+							"display_url": "BerniceKing.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408907,
+			"friends_count": 507,
+			"listed_count": 1500,
+			"created_at": "Tue Jul 07 17:30:48 +0000 2009",
+			"favourites_count": 22722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54617733/1588367210",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4136,
+		"favorite_count": 4705,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Remember #BreonnaTaylor. \nDon’t allow this grave injustice to be overlooked or forgotten.\nNo officers have been charged or arrested. @louisvillemayor \n\nRT to demand #JusticeForBre.\n\n#JusticeforBreonnaTaylor https://t.co/quJI8Qwl70"
+	},
+	{
+		"created_at": "Wed Jun 03 15:05:48 +0000 2020",
+		"id": 1267870492368699400,
+		"id_str": "1268197197851643905",
+		"full_text": "Good Kids | \"How To Raise Anti-Racist Kids\" with @naharrisonmd\n\nhttps://t.co/cndnDSXEto https://t.co/2RxuVS3wH6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "naharrisonmd",
+					"name": "Nzinga Harrison, MD",
+					"id": 260571890,
+					"id_str": "260571890",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cndnDSXEto",
+					"expanded_url": "http://smarturl.it/goodkids",
+					"display_url": "smarturl.it/goodkids",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1267870397342638000,
+					"id_str": "1267870397342638080",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267870397342638080/pu/img/BCSwLWn6uF42168M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267870397342638080/pu/img/BCSwLWn6uF42168M.jpg",
+					"url": "https://t.co/2RxuVS3wH6",
+					"display_url": "pic.twitter.com/2RxuVS3wH6",
+					"expanded_url": "https://twitter.com/LemonadaMedia/status/1267870492368699392/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267870397342638000,
+					"id_str": "1267870397342638080",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267870397342638080/pu/img/BCSwLWn6uF42168M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267870397342638080/pu/img/BCSwLWn6uF42168M.jpg",
+					"url": "https://t.co/2RxuVS3wH6",
+					"display_url": "pic.twitter.com/2RxuVS3wH6",
+					"expanded_url": "https://twitter.com/LemonadaMedia/status/1267870492368699392/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15875,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267870397342638080/pu/vid/720x720/aifkQL22NDu2WeaR.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267870397342638080/pu/vid/480x480/TP3ouGbNgVMKe9sq.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1267870397342638080/pu/pl/HnRJi61QmKI46u4_.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267870397342638080/pu/vid/320x320/62iTcm5ajOntxVkr.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1101958384541032400,
+			"id_str": "1101958384541032448",
+			"name": "Lemonada Media",
+			"screen_name": "LemonadaMedia",
+			"location": "In your ears",
+			"description": "Turning 🍋🍋🍋 into lemonade. One podcast at a time.",
+			"url": "https://t.co/kPyvVaKXFJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kPyvVaKXFJ",
+							"expanded_url": "http://lemonadamedia.com",
+							"display_url": "lemonadamedia.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2307,
+			"friends_count": 329,
+			"listed_count": 7,
+			"created_at": "Sat Mar 02 21:32:07 +0000 2019",
+			"favourites_count": 615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143188958597263360/yg-schrk_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143188958597263360/yg-schrk_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1101958384541032448/1561392219",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good Kids | \"How To Raise Anti-Racist Kids\" with @naharrisonmd\n\nhttps://t.co/cndnDSXEto https://t.co/2RxuVS3wH6"
+	},
+	{
 		"created_at": "Wed Jun 03 03:44:25 +0000 2020",
 		"id": 1267844465701515300,
 		"id_str": "1268025723828256768",
@@ -814,7 +2149,7 @@ Grailbird.data.tweets_2020_06 =
 		"user": {
 			"id": 32760218,
 			"id_str": "32760218",
-			"name": "anthony c. ocampo, ph.d. 🇵🇭🏳️‍🌈",
+			"name": "anthony c. ocampo, ph.d. 🇵🇭🏳️🌈",
 			"screen_name": "anthonyocampo",
 			"location": "Eagle Rock, Los Angeles",
 			"description": "author, THE LATINOS OF ASIA | writin’ BROWN & GAY IN LA | VONA & @jackjoneslitart fellow | @nyupress asian am series editor | @calpolypomona professor | he/siya",
