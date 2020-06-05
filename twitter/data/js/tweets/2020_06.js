@@ -1,6 +1,1418 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 01:44:15 +0000 2020",
+		"id": 1268713616192221200,
+		"id_str": "1268720254928199680",
+		"full_text": "I would love to see my timeline flooded with support for #BirthdayForBreonna \n\nSketch by: @Ena_Walker https://t.co/2k49twMtyv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BirthdayForBreonna",
+					"indices": [
+						57,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ena_Walker",
+					"name": "Ena",
+					"id": 170455507,
+					"id_str": "170455507",
+					"indices": [
+						90,
+						101
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268713612295778300,
+					"id_str": "1268713612295778305",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtgTvaXsAEiMC3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtgTvaXsAEiMC3.jpg",
+					"url": "https://t.co/2k49twMtyv",
+					"display_url": "pic.twitter.com/2k49twMtyv",
+					"expanded_url": "https://twitter.com/pearson_ality/status/1268713616192221184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1131,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1131,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268713612295778300,
+					"id_str": "1268713612295778305",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtgTvaXsAEiMC3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtgTvaXsAEiMC3.jpg",
+					"url": "https://t.co/2k49twMtyv",
+					"display_url": "pic.twitter.com/2k49twMtyv",
+					"expanded_url": "https://twitter.com/pearson_ality/status/1268713616192221184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1131,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1131,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 148243810,
+			"id_str": "148243810",
+			"name": "pearson",
+			"screen_name": "pearson_ality",
+			"location": "",
+			"description": "God-loving, black woman (she/her) Ph.D student—aspiring to be the tatted, pierced, lipstick wearing, Miranda Bailey of Student Affairs | #SApro + #SAdoc",
+			"url": "https://t.co/pzZ68NYTbZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pzZ68NYTbZ",
+							"expanded_url": "https://notyouraveragepearson.wordpress.com/",
+							"display_url": "notyouraveragepearson.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1596,
+			"friends_count": 1136,
+			"listed_count": 21,
+			"created_at": "Wed May 26 06:03:56 +0000 2010",
+			"favourites_count": 30402,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258991074502160385/NnXEaHC__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258991074502160385/NnXEaHC__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/148243810/1545896178",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I would love to see my timeline flooded with support for #BirthdayForBreonna \n\nSketch by: @Ena_Walker https://t.co/2k49twMtyv"
+	},
+	{
+		"created_at": "Fri Jun 05 01:32:23 +0000 2020",
+		"id": 1268679560545083400,
+		"id_str": "1268717270999670784",
+		"full_text": "What about it bih? https://t.co/HWYwsmGH1R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268679557181329400,
+					"id_str": "1268679557181329409",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtBVeOX0AEyfK9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtBVeOX0AEyfK9.jpg",
+					"url": "https://t.co/HWYwsmGH1R",
+					"display_url": "pic.twitter.com/HWYwsmGH1R",
+					"expanded_url": "https://twitter.com/engineering_bae/status/1268679560545083392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1238,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268679557181329400,
+					"id_str": "1268679557181329409",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtBVeOX0AEyfK9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtBVeOX0AEyfK9.jpg",
+					"url": "https://t.co/HWYwsmGH1R",
+					"display_url": "pic.twitter.com/HWYwsmGH1R",
+					"expanded_url": "https://twitter.com/engineering_bae/status/1268679560545083392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1238,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 876448351268380700,
+			"id_str": "876448351268380672",
+			"name": "Taylor Poindexter",
+			"screen_name": "engineering_bae",
+			"location": "",
+			"description": "Back End Engineer . Black Code Collective Co-founder - @blkCodeCollctve. UVA Alum. Traveler . Scuba Diver. Snowboarder. All Around Badass.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3646,
+			"friends_count": 942,
+			"listed_count": 70,
+			"created_at": "Sun Jun 18 14:35:45 +0000 2017",
+			"favourites_count": 10355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268330066926358528/hrJBKjwx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268330066926358528/hrJBKjwx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/876448351268380672/1518401057",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What about it bih? https://t.co/HWYwsmGH1R"
+	},
+	{
+		"created_at": "Thu Jun 04 21:36:29 +0000 2020",
+		"id": 1268653188153929700,
+		"id_str": "1268657905492021254",
+		"full_text": "Take time to celebrate today y’all. We’re winning. ♥️\n\n#DefundPolice #DefendBlackLife https://t.co/BFmRVaWIHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DefundPolice",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"text": "DefendBlackLife",
+					"indices": [
+						69,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268653131300106200,
+					"id_str": "1268653131300106240",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268653131300106240/pu/img/0BEr3i9oUvHjwhox.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268653131300106240/pu/img/0BEr3i9oUvHjwhox.jpg",
+					"url": "https://t.co/BFmRVaWIHA",
+					"display_url": "pic.twitter.com/BFmRVaWIHA",
+					"expanded_url": "https://twitter.com/Mvmnt4BlkLives/status/1268653188153929728/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268653131300106200,
+					"id_str": "1268653131300106240",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268653131300106240/pu/img/0BEr3i9oUvHjwhox.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268653131300106240/pu/img/0BEr3i9oUvHjwhox.jpg",
+					"url": "https://t.co/BFmRVaWIHA",
+					"display_url": "pic.twitter.com/BFmRVaWIHA",
+					"expanded_url": "https://twitter.com/Mvmnt4BlkLives/status/1268653188153929728/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 32085,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268653131300106240/pu/pl/e0dLkhn6ARfrXQdc.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268653131300106240/pu/vid/320x320/a72cYntKar5cSaQy.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268653131300106240/pu/vid/720x720/8YxL0xV7QsaB7_-e.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268653131300106240/pu/vid/480x480/yYqqdL6yLgSCV_yj.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3186878430,
+			"id_str": "3186878430",
+			"name": "Movement 4 Black Lives",
+			"screen_name": "Mvmnt4BlkLives",
+			"location": "Worldwide",
+			"description": "",
+			"url": "https://t.co/vi0VtyCXXa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vi0VtyCXXa",
+							"expanded_url": "https://m4bl.org",
+							"display_url": "m4bl.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40521,
+			"friends_count": 655,
+			"listed_count": 317,
+			"created_at": "Wed May 06 18:00:58 +0000 2015",
+			"favourites_count": 2502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267284072360902658/2IFrh7kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267284072360902658/2IFrh7kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3186878430/1431125825",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 381,
+		"favorite_count": 1291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Take time to celebrate today y’all. We’re winning. ♥️\n\n#DefundPolice #DefendBlackLife https://t.co/BFmRVaWIHA"
+	},
+	{
+		"created_at": "Thu Jun 04 13:59:45 +0000 2020",
+		"id": 1003868177489539100,
+		"id_str": "1268542962880954368",
+		"full_text": "Great movie title if they ever make this into a film: Before Dawn.\n#BlackExcellence https://t.co/DHcocZxdg5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackExcellence",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DHcocZxdg5",
+					"expanded_url": "https://twitter.com/HistoryHeroes/status/630078375390908416",
+					"display_url": "twitter.com/HistoryHeroes/…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323020327,
+			"id_str": "323020327",
+			"name": "#SaveKevinCooper",
+			"screen_name": "NolanHack",
+			"location": "Los Angeles",
+			"description": "Black revolutionary. #NativePeopleAreStillHere nolanawhack@gmail.com Sample of my work below. Patreon: https://t.co/bBl57ie8TU…",
+			"url": "https://t.co/qPuFXsi595",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qPuFXsi595",
+							"expanded_url": "https://youtu.be/GDZeFq1RQ3E",
+							"display_url": "youtu.be/GDZeFq1RQ3E",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bBl57ie8TU",
+							"expanded_url": "http://patreon.com/nolantheangryn",
+							"display_url": "patreon.com/nolantheangryn",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2591,
+			"friends_count": 1444,
+			"listed_count": 201,
+			"created_at": "Fri Jun 24 03:43:17 +0000 2011",
+			"favourites_count": 11762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 319207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134581959529644032/SOrlASna_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134581959529644032/SOrlASna_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323020327/1468160500",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 630078375390908400,
+		"quoted_status_id_str": "630078375390908416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DHcocZxdg5",
+			"expanded": "https://twitter.com/HistoryHeroes/status/630078375390908416",
+			"display": "twitter.com/HistoryHeroes/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 08 18:09:25 +0000 2015",
+			"id": 630078375390908400,
+			"id_str": "630078375390908416",
+			"full_text": "Great Escape: Did you know that just before dawn on 5/13/1862, Robert Smalls stole a Confederate ship? #BlackHistory http://t.co/I4227UYe9g",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BlackHistory",
+						"indices": [
+							103,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 630078374774353900,
+						"id_str": "630078374774353920",
+						"indices": [
+							117,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CL588Y0UsAA6Vce.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CL588Y0UsAA6Vce.jpg",
+						"url": "http://t.co/I4227UYe9g",
+						"display_url": "pic.twitter.com/I4227UYe9g",
+						"expanded_url": "https://twitter.com/HistoryHeroes/status/630078375390908416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 882,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 882,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 630078374774353900,
+						"id_str": "630078374774353920",
+						"indices": [
+							117,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CL588Y0UsAA6Vce.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CL588Y0UsAA6Vce.jpg",
+						"url": "http://t.co/I4227UYe9g",
+						"display_url": "pic.twitter.com/I4227UYe9g",
+						"expanded_url": "https://twitter.com/HistoryHeroes/status/630078375390908416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 882,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 882,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 630078371498561500,
+						"id_str": "630078371498561537",
+						"indices": [
+							117,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CL588MnUEAEcfEO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CL588MnUEAEcfEO.jpg",
+						"url": "http://t.co/I4227UYe9g",
+						"display_url": "pic.twitter.com/I4227UYe9g",
+						"expanded_url": "https://twitter.com/HistoryHeroes/status/630078375390908416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 427,
+								"h": 268,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 427,
+								"h": 268,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 427,
+								"h": 268,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 156829965,
+				"id_str": "156829965",
+				"name": "Black History Heroes",
+				"screen_name": "HistoryHeroes",
+				"location": "Los Angeles, CA",
+				"description": "BLACK HISTORY HEROES BLOG™ provides info on historic African people, places & events. Be a patron! https://t.co/8ifZwIw7s0",
+				"url": "http://t.co/uPavw8UbCN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/uPavw8UbCN",
+								"expanded_url": "http://www.blackhistoryheroes.com",
+								"display_url": "blackhistoryheroes.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8ifZwIw7s0",
+								"expanded_url": "https://www.patreon.com/historyheroes",
+								"display_url": "patreon.com/historyheroes",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 63147,
+				"friends_count": 4831,
+				"listed_count": 637,
+				"created_at": "Fri Jun 18 01:59:06 +0000 2010",
+				"favourites_count": 48111,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 79233,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1000492342/sankofa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000492342/sankofa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/156829965/1406001960",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 17,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great movie title if they ever make this into a film: Before Dawn.\n#BlackExcellence https://t.co/DHcocZxdg5"
+	},
+	{
+		"created_at": "Thu Jun 04 12:24:34 +0000 2020",
+		"id": 1268505039548579800,
+		"id_str": "1268519010381029376",
+		"full_text": "If you’re hiring someone who will have to manage people, part of the interview process should be asking the candidate for an example of what it should look like when you apologize to an employee from a position of authority.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 214622133,
+			"id_str": "214622133",
+			"name": "Ashley C. Ford",
+			"screen_name": "iSmashFizzle",
+			"location": "Indiana -- Brooklyn -- ???",
+			"description": "Life is brief, but when it’s gone, love goes on and on. Writer. Host. My tweets are mostly me talking to myself. She/Her. rep'd by @beotiscreative",
+			"url": "https://t.co/pxEmQunBMB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pxEmQunBMB",
+							"expanded_url": "http://www.ashleycford.net",
+							"display_url": "ashleycford.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 182499,
+			"friends_count": 1584,
+			"listed_count": 1598,
+			"created_at": "Thu Nov 11 21:03:46 +0000 2010",
+			"favourites_count": 36430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235963220806053888/glYV2kg7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235963220806053888/glYV2kg7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/214622133/1576070779",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12049,
+		"favorite_count": 67833,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you’re hiring someone who will have to manage people, part of the interview process should be asking the candidate for an example of what it should look like when you apologize to an employee from a position of authority."
+	},
+	{
+		"created_at": "Thu Jun 04 12:22:26 +0000 2020",
+		"id": 1268475077445779500,
+		"id_str": "1268518472629223424",
+		"full_text": "22-year-old Sean Monterrosa, a Latino man, was shot and killed on Tuesday.\nHe was on his knees when the police shot him 5 times. They had suspected Sean of being a looter. The Vallejo police did not disclose the circumstances until Wednesday. Rest in power Sean. https://t.co/8ChDfEKlnm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268420102174773200,
+					"id_str": "1268420102174773248",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpVXNAXkAAyZFO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpVXNAXkAAyZFO.jpg",
+					"url": "https://t.co/8ChDfEKlnm",
+					"display_url": "pic.twitter.com/8ChDfEKlnm",
+					"expanded_url": "https://twitter.com/TheAffinityMag/status/1268475077445779457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 586,
+							"h": 847,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 586,
+							"h": 847,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268420102174773200,
+					"id_str": "1268420102174773248",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EZpVXNAXkAAyZFO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZpVXNAXkAAyZFO.jpg",
+					"url": "https://t.co/8ChDfEKlnm",
+					"display_url": "pic.twitter.com/8ChDfEKlnm",
+					"expanded_url": "https://twitter.com/TheAffinityMag/status/1268475077445779457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 586,
+							"h": 847,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 586,
+							"h": 847,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22515874,
+			"id_str": "22515874",
+			"name": "Affinity Magazine",
+			"screen_name": "TheAffinityMag",
+			"location": "International",
+			"description": "Introducing the next generation of leaders and thinkers. Exclusively by teens for teens. ~YOU LOVE TO SEE IT~.",
+			"url": "https://t.co/QDfe5c2zfK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QDfe5c2zfK",
+							"expanded_url": "http://affinitymagazine.us",
+							"display_url": "affinitymagazine.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48249,
+			"friends_count": 15348,
+			"listed_count": 418,
+			"created_at": "Mon Mar 02 18:30:13 +0000 2009",
+			"favourites_count": 25101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 76737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201897848356442112/n5X9XA87_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201897848356442112/n5X9XA87_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22515874/1590809609",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "2D75F0",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 571,
+		"favorite_count": 600,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "22-year-old Sean Monterrosa, a Latino man, was shot and killed on Tuesday.\nHe was on his knees when the police shot him 5 times. They had suspected Sean of being a looter. The Vallejo police did not disclose the circumstances until Wednesday. Rest in power Sean. https://t.co/8ChDfEKlnm"
+	},
+	{
+		"created_at": "Thu Jun 04 12:13:44 +0000 2020",
+		"id": 1268293771705417700,
+		"id_str": "1268516285102657536",
+		"full_text": "There is no fence for any of us to stand on; either you are fighting racism or you are supporting racism. That’s it. That’s all there will ever be.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15649438,
+			"id_str": "15649438",
+			"name": "Saeed Jones",
+			"screen_name": "theferocity",
+			"location": "Columbus, OH",
+			"description": "Bad bitch, journeyman, bon vivant, poet. Books: HOW WE FIGHT FOR OUR LIVES and PRELUDE TO BRUISE. He/him. Represented by @TuesdayAgency and @SheedyLit.",
+			"url": "https://t.co/01ElNoFpbY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/01ElNoFpbY",
+							"expanded_url": "http://saeedjones.substack.com",
+							"display_url": "saeedjones.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157549,
+			"friends_count": 705,
+			"listed_count": 1516,
+			"created_at": "Tue Jul 29 18:39:26 +0000 2008",
+			"favourites_count": 36588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 208731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210554164964679680/oqkzp2n5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210554164964679680/oqkzp2n5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15649438/1585791287",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3206,
+		"favorite_count": 11363,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "There is no fence for any of us to stand on; either you are fighting racism or you are supporting racism. That’s it. That’s all there will ever be."
+	},
+	{
+		"created_at": "Thu Jun 04 12:13:27 +0000 2020",
+		"id": 1268502778571362300,
+		"id_str": "1268516210288799745",
+		"full_text": "An autopsy has found that Manuel Ellis, a black man who died in police custody in March in Tacoma, Washington, was killed as a result of oxygen deprivation and the physical restraint used in his arrest https://t.co/z7S3DM7pzm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z7S3DM7pzm",
+					"expanded_url": "https://nyti.ms/2U7WrdT",
+					"display_url": "nyti.ms/2U7WrdT",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807095,
+			"id_str": "807095",
+			"name": "The New York Times",
+			"screen_name": "nytimes",
+			"location": "New York City",
+			"description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+			"url": "http://t.co/ahvuWqicF9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ahvuWqicF9",
+							"expanded_url": "http://www.nytimes.com/",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ghL9OoYKMM",
+							"expanded_url": "http://nyti.ms/2FVHq9v",
+							"display_url": "nyti.ms/2FVHq9v",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 46784976,
+			"friends_count": 906,
+			"listed_count": 199471,
+			"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+			"favourites_count": 18494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 397813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1584666392",
+			"profile_link_color": "607696",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9980,
+		"favorite_count": 15416,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An autopsy has found that Manuel Ellis, a black man who died in police custody in March in Tacoma, Washington, was killed as a result of oxygen deprivation and the physical restraint used in his arrest https://t.co/z7S3DM7pzm"
+	},
+	{
 		"created_at": "Thu Jun 04 03:58:50 +0000 2020",
 		"id": 1268335370518892500,
 		"id_str": "1268391736205860864",
