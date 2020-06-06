@@ -1,6 +1,869 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 17:29:02 +0000 2020",
+		"id": 1268916115809489000,
+		"id_str": "1268958020861558786",
+		"full_text": "#BlackLivesMatter https://t.co/OQg6977n5r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268916074109636600,
+					"id_str": "1268916074109636608",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268916074109636608/pu/img/sBKU_IzLxcEcsyDR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268916074109636608/pu/img/sBKU_IzLxcEcsyDR.jpg",
+					"url": "https://t.co/OQg6977n5r",
+					"display_url": "pic.twitter.com/OQg6977n5r",
+					"expanded_url": "https://twitter.com/MurielBowser/status/1268916115809488896/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268916074109636600,
+					"id_str": "1268916074109636608",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268916074109636608/pu/img/sBKU_IzLxcEcsyDR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268916074109636608/pu/img/sBKU_IzLxcEcsyDR.jpg",
+					"url": "https://t.co/OQg6977n5r",
+					"display_url": "pic.twitter.com/OQg6977n5r",
+					"expanded_url": "https://twitter.com/MurielBowser/status/1268916115809488896/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 12878,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268916074109636608/pu/vid/720x1280/x0PzzT9vWsYtSMhX.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268916074109636608/pu/pl/0fsjfUTslYklMJZM.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268916074109636608/pu/vid/360x640/yEHumoFPqrt5nBax.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268916074109636608/pu/vid/320x568/HRqSVy5dlslrJPR7.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245571881,
+			"id_str": "245571881",
+			"name": "Muriel Bowser #StayHomeDC",
+			"screen_name": "MurielBowser",
+			"location": "Washington DC",
+			"description": "I’m the Mayor of my hometown & soon to be the 51st State: Washington DC. A #fairshot for every single D.C. resident. Period. #pathwaytothemiddleclass",
+			"url": "https://t.co/Jvoyca5JCH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jvoyca5JCH",
+							"expanded_url": "http://Murielourmayor.com",
+							"display_url": "Murielourmayor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106391,
+			"friends_count": 1001,
+			"listed_count": 960,
+			"created_at": "Tue Feb 01 00:28:10 +0000 2011",
+			"favourites_count": 10846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/911246015780524040/KQSaQcVN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/911246015780524040/KQSaQcVN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245571881/1474731383",
+			"profile_link_color": "00A669",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121221,
+		"favorite_count": 348961,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#BlackLivesMatter https://t.co/OQg6977n5r"
+	},
+	{
+		"created_at": "Fri Jun 05 12:24:50 +0000 2020",
+		"id": 1268703402814562300,
+		"id_str": "1268881465875599361",
+		"full_text": "My favorite thing is to see Black people laughing. I never did this before, but can we make a thread of your favorite videos of Black people laughing? 🥺 Here’s one of mine. https://t.co/t11UZqjw6b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268703390139404300,
+					"id_str": "1268703390139404288",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268703390139404288/pu/img/1UCi1TaoWwqM16Wo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268703390139404288/pu/img/1UCi1TaoWwqM16Wo.jpg",
+					"url": "https://t.co/t11UZqjw6b",
+					"display_url": "pic.twitter.com/t11UZqjw6b",
+					"expanded_url": "https://twitter.com/domthefurious/status/1268703402814562306/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 208,
+							"h": 208,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 208,
+							"h": 208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 208,
+							"h": 208,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268703390139404300,
+					"id_str": "1268703390139404288",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268703390139404288/pu/img/1UCi1TaoWwqM16Wo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268703390139404288/pu/img/1UCi1TaoWwqM16Wo.jpg",
+					"url": "https://t.co/t11UZqjw6b",
+					"display_url": "pic.twitter.com/t11UZqjw6b",
+					"expanded_url": "https://twitter.com/domthefurious/status/1268703402814562306/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 208,
+							"h": 208,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 208,
+							"h": 208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 208,
+							"h": 208,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 5598,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268703390139404288/pu/pl/FoLUQwIiImAmxhWV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268703390139404288/pu/vid/208x208/qaFoi8XyZFGI3cXl.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2905765971,
+			"id_str": "2905765971",
+			"name": "the foot on your neck, M.A.",
+			"screen_name": "domthefurious",
+			"location": "tx trill",
+			"description": "Δ woman | sociologist in training | race&ethnicity/fat studies/blk feminist thought | i just be tweetin what i be thinkin. do i have to say RT =/= endorsements?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1170,
+			"friends_count": 1057,
+			"listed_count": 7,
+			"created_at": "Fri Dec 05 00:45:42 +0000 2014",
+			"favourites_count": 109411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223648830517805057/z6ijq6aA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223648830517805057/z6ijq6aA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2905765971/1581383205",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My favorite thing is to see Black people laughing. I never did this before, but can we make a thread of your favorite videos of Black people laughing? 🥺 Here’s one of mine. https://t.co/t11UZqjw6b"
+	},
+	{
+		"created_at": "Fri Jun 05 11:57:10 +0000 2020",
+		"id": 1268784495844524000,
+		"id_str": "1268874500831133697",
+		"full_text": "Today is #BreonnaTaylor’s birthday.\n#SayHerName. Think of and pray for those closest to her. Dedicate time to work for #JusticeforBreonnaTaylor. Here’s how. RT. Share. https://t.co/LutzLKgjZH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BreonnaTaylor",
+					"indices": [
+						9,
+						23
+					]
+				},
+				{
+					"text": "SayHerName",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"text": "JusticeforBreonnaTaylor",
+					"indices": [
+						119,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268784474629775400,
+					"id_str": "1268784474629775361",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EZugweLWoAEseHJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZugweLWoAEseHJ.jpg",
+					"url": "https://t.co/LutzLKgjZH",
+					"display_url": "pic.twitter.com/LutzLKgjZH",
+					"expanded_url": "https://twitter.com/BerniceKing/status/1268784495844524032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 822,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268784474629775400,
+					"id_str": "1268784474629775361",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EZugweLWoAEseHJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZugweLWoAEseHJ.jpg",
+					"url": "https://t.co/LutzLKgjZH",
+					"display_url": "pic.twitter.com/LutzLKgjZH",
+					"expanded_url": "https://twitter.com/BerniceKing/status/1268784495844524032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 822,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54617733,
+			"id_str": "54617733",
+			"name": "Be A King",
+			"screen_name": "BerniceKing",
+			"location": "Atlanta, GA",
+			"description": "Connector • Communicator • Community builder • CEO of Martin Luther King Jr. Center for Nonviolent Social Change • Coretta Scott King matters",
+			"url": "https://t.co/F6iloyK1sI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6iloyK1sI",
+							"expanded_url": "https://thekingcenter.org/onlineprotest/",
+							"display_url": "thekingcenter.org/onlineprotest/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420666,
+			"friends_count": 507,
+			"listed_count": 1516,
+			"created_at": "Tue Jul 07 17:30:48 +0000 2009",
+			"favourites_count": 22826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54617733/1588367210",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12667,
+		"favorite_count": 15714,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is #BreonnaTaylor’s birthday.\n#SayHerName. Think of and pray for those closest to her. Dedicate time to work for #JusticeforBreonnaTaylor. Here’s how. RT. Share. https://t.co/LutzLKgjZH"
+	},
+	{
+		"created_at": "Fri Jun 05 11:55:33 +0000 2020",
+		"id": 1268761577366438000,
+		"id_str": "1268874094499545090",
+		"full_text": "#BlackLivesMatter is defending a 75 year old white guy while the \"ALL LIVES MATTER\" crowd are defending the cops who shoved him down and concussed him. In case you were wondering who actually believes all lives matter and who just wants to defend police brutality.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1034651904490565600,
+			"id_str": "1034651904490565632",
+			"name": "EZPZ",
+			"screen_name": "NahNotFeelinIt",
+			"location": "",
+			"description": "He/him.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1258,
+			"friends_count": 339,
+			"listed_count": 1,
+			"created_at": "Wed Aug 29 04:00:11 +0000 2018",
+			"favourites_count": 54310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258851312403451905/sd5HxU2X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258851312403451905/sd5HxU2X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1034651904490565632/1591331859",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11990,
+		"favorite_count": 26740,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#BlackLivesMatter is defending a 75 year old white guy while the \"ALL LIVES MATTER\" crowd are defending the cops who shoved him down and concussed him. In case you were wondering who actually believes all lives matter and who just wants to defend police brutality."
+	},
+	{
+		"created_at": "Fri Jun 05 11:34:47 +0000 2020",
+		"id": 1268762792317911000,
+		"id_str": "1268868868543578112",
+		"full_text": "#SayHerName https://t.co/VFXGPGZQEB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SayHerName",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268762784617107500,
+					"id_str": "1268762784617107456",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuNB8lWkAAuWit.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuNB8lWkAAuWit.jpg",
+					"url": "https://t.co/VFXGPGZQEB",
+					"display_url": "pic.twitter.com/VFXGPGZQEB",
+					"expanded_url": "https://twitter.com/BerniceKing/status/1268762792317911051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1142,
+							"h": 1158,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1142,
+							"h": 1158,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 671,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268762784617107500,
+					"id_str": "1268762784617107456",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuNB8lWkAAuWit.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuNB8lWkAAuWit.jpg",
+					"url": "https://t.co/VFXGPGZQEB",
+					"display_url": "pic.twitter.com/VFXGPGZQEB",
+					"expanded_url": "https://twitter.com/BerniceKing/status/1268762792317911051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1142,
+							"h": 1158,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1142,
+							"h": 1158,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 671,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54617733,
+			"id_str": "54617733",
+			"name": "Be A King",
+			"screen_name": "BerniceKing",
+			"location": "Atlanta, GA",
+			"description": "Connector • Communicator • Community builder • CEO of Martin Luther King Jr. Center for Nonviolent Social Change • Coretta Scott King matters",
+			"url": "https://t.co/F6iloyK1sI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6iloyK1sI",
+							"expanded_url": "https://thekingcenter.org/onlineprotest/",
+							"display_url": "thekingcenter.org/onlineprotest/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420666,
+			"friends_count": 507,
+			"listed_count": 1516,
+			"created_at": "Tue Jul 07 17:30:48 +0000 2009",
+			"favourites_count": 22826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54617733/1588367210",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1753,
+		"favorite_count": 3724,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#SayHerName https://t.co/VFXGPGZQEB"
+	},
+	{
 		"created_at": "Fri Jun 05 01:44:15 +0000 2020",
 		"id": 1268713616192221200,
 		"id_str": "1268720254928199680",
