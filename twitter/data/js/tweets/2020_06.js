@@ -1,6 +1,643 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 19:55:02 +0000 2020",
+		"id": 1269733575374647300,
+		"id_str": "1270081924443394048",
+		"full_text": "I'm in a surreal universe where my everyday rant has reached the world and is being shared by my IDOLS! https://t.co/UAX1S2IJxw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UAX1S2IJxw",
+					"expanded_url": "https://twitter.com/Trevornoah/status/1269291643842289666",
+					"display_url": "twitter.com/Trevornoah/sta…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093741367162036200,
+			"id_str": "1093741367162036224",
+			"name": "Kimberly Jones",
+			"screen_name": "kimlatricejones",
+			"location": "Atlanta, GA",
+			"description": "NAACP Image Award Nominated Author of I'm Not Dying With You Tonight Hosts ATL chapter of @wellreadblackgirl CHI ✈ATL Agent: @glameditor_girl",
+			"url": "https://t.co/8N7Pf0ygMs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8N7Pf0ygMs",
+							"expanded_url": "http://www.kimjoneswrites.com",
+							"display_url": "kimjoneswrites.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79349,
+			"friends_count": 308,
+			"listed_count": 155,
+			"created_at": "Fri Feb 08 05:20:37 +0000 2019",
+			"favourites_count": 2426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163700215528022016/-dGBbeO0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163700215528022016/-dGBbeO0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093741367162036224/1578970247",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1269291643842289700,
+		"quoted_status_id_str": "1269291643842289666",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UAX1S2IJxw",
+			"expanded": "https://twitter.com/Trevornoah/status/1269291643842289666",
+			"display": "twitter.com/Trevornoah/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 06 15:34:44 +0000 2020",
+			"id": 1269291643842289700,
+			"id_str": "1269291643842289666",
+			"full_text": "This! 🙌🏾  IG: kimberlylatricejones &amp; djonesmedia https://t.co/l8zX4CULEg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1269288732492017700,
+						"id_str": "1269288732492017664",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/EZ1t3U3XQAMsO27.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZ1t3U3XQAMsO27.jpg",
+						"url": "https://t.co/l8zX4CULEg",
+						"display_url": "pic.twitter.com/l8zX4CULEg",
+						"expanded_url": "https://twitter.com/Trevornoah/status/1269291643842289666/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1269288732492017700,
+						"id_str": "1269288732492017664",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/EZ1t3U3XQAMsO27.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZ1t3U3XQAMsO27.jpg",
+						"url": "https://t.co/l8zX4CULEg",
+						"display_url": "pic.twitter.com/l8zX4CULEg",
+						"expanded_url": "https://twitter.com/Trevornoah/status/1269291643842289666/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 399774,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1269288732492017664/vid/640x360/x5phhfK8HyDTaFEd.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1269288732492017664/vid/480x270/_EC-xb4tCcERVDp2.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1269288732492017664/vid/1280x720/vLud4CPpckYffm_o.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1269288732492017664/pl/O9_17WMB4K7lG-7s.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Kimberly Jones",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46335511,
+				"id_str": "46335511",
+				"name": "Trevor Noah",
+				"screen_name": "Trevornoah",
+				"location": "New York, NY",
+				"description": "Comedian from South Africa. I was in the crowd when Rafiki held Simba over the edge of the cliff, like an African Michael Jackson.",
+				"url": "https://t.co/5zKr0YPMa5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5zKr0YPMa5",
+								"expanded_url": "http://www.trevornoah.com",
+								"display_url": "trevornoah.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10706276,
+				"friends_count": 313,
+				"listed_count": 11012,
+				"created_at": "Thu Jun 11 07:03:48 +0000 2009",
+				"favourites_count": 1717,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11182,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1069797760696750080/Xtk6U_2R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069797760696750080/Xtk6U_2R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46335511/1589827006",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36728,
+			"favorite_count": 80222,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ht"
+		},
+		"retweet_count": 27088,
+		"favorite_count": 130549,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm in a surreal universe where my everyday rant has reached the world and is being shared by my IDOLS! https://t.co/UAX1S2IJxw"
+	},
+	{
+		"created_at": "Mon Jun 08 16:08:58 +0000 2020",
+		"id": 1269685619250380800,
+		"id_str": "1270025031419133952",
+		"full_text": "In case you still don’t know. \n https://t.co/xCCzlBEntQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269502553106067500,
+					"id_str": "1269502553106067457",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269502553106067457/pu/img/aS4NXy-nPie0sRz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269502553106067457/pu/img/aS4NXy-nPie0sRz0.jpg",
+					"url": "https://t.co/xCCzlBEntQ",
+					"display_url": "pic.twitter.com/xCCzlBEntQ",
+					"expanded_url": "https://twitter.com/adiammm/status/1269502666436153344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1269502666436153300,
+					"source_status_id_str": "1269502666436153344",
+					"source_user_id": 768693159484387300,
+					"source_user_id_str": "768693159484387328"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269502553106067500,
+					"id_str": "1269502553106067457",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269502553106067457/pu/img/aS4NXy-nPie0sRz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269502553106067457/pu/img/aS4NXy-nPie0sRz0.jpg",
+					"url": "https://t.co/xCCzlBEntQ",
+					"display_url": "pic.twitter.com/xCCzlBEntQ",
+					"expanded_url": "https://twitter.com/adiammm/status/1269502666436153344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1269502666436153300,
+					"source_status_id_str": "1269502666436153344",
+					"source_user_id": 768693159484387300,
+					"source_user_id_str": "768693159484387328",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 52485,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269502553106067457/pu/vid/320x568/QSkebVdVhxR0o7-j.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269502553106067457/pu/vid/360x640/GKK_EK8x13loYO7H.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1269502553106067457/pu/pl/7LjtSiNh9nD6t8J6.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269502553106067457/pu/vid/576x1024/IcR8HZosTJe0gWww.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 768693159484387300,
+							"id_str": "768693159484387328",
+							"name": ".",
+							"screen_name": "adiammm",
+							"location": "DMV",
+							"description": "Eritrean 🇪🇷 • Gemini ♊️ • Black Lives Matter ✊🏾 • she/her",
+							"url": "https://t.co/8FfxQxLCcC",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/8FfxQxLCcC",
+											"expanded_url": "http://instagram.com/adiamg",
+											"display_url": "instagram.com/adiamg",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 901,
+							"friends_count": 353,
+							"listed_count": 6,
+							"created_at": "Thu Aug 25 06:15:05 +0000 2016",
+							"favourites_count": 6857,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 34764,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1156790896412770304/UKkgKa7O_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156790896412770304/UKkgKa7O_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/768693159484387328/1554243613",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20724828,
+			"id_str": "20724828",
+			"name": "Erica L. Ayala, MPA",
+			"screen_name": "elindsay08",
+			"location": "ÜT: 40.926467,-73.833758",
+			"description": "#BlackLivesMatter\nBuilding a podcast empire: https://t.co/gfedhPUFty\nShe/her/Black Latina",
+			"url": "https://t.co/scyIAq564j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/scyIAq564j",
+							"expanded_url": "https://authory.com/EricaLAyala",
+							"display_url": "authory.com/EricaLAyala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gfedhPUFty",
+							"expanded_url": "https://www.youtube.com/channel/UCdUVhANyQSR3_B3Pcn6RyVw",
+							"display_url": "youtube.com/channel/UCdUVh…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4540,
+			"friends_count": 1682,
+			"listed_count": 173,
+			"created_at": "Thu Feb 12 22:09:26 +0000 2009",
+			"favourites_count": 60906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979126745923244034/b81vySPc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979126745923244034/b81vySPc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20724828/1590925297",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01a9a39529b27f36",
+			"url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+			"place_type": "city",
+			"name": "Manhattan",
+			"full_name": "Manhattan, NY",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.026675,
+							40.683935
+						],
+						[
+							-73.910408,
+							40.683935
+						],
+						[
+							-73.910408,
+							40.877483
+						],
+						[
+							-74.026675,
+							40.877483
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22170,
+		"favorite_count": 36767,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In case you still don’t know. \n https://t.co/xCCzlBEntQ"
+	},
+	{
 		"created_at": "Sat Jun 06 11:24:01 +0000 2020",
 		"id": 1269169682059268000,
 		"id_str": "1269228548306415616",
