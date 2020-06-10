@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 03:02:21 +0000 2020",
+		"id": 1270444737670058000,
+		"id_str": "1270551848999620610",
+		"full_text": "2017 vs 2020. Cherish your hairline fellas. Ya never know https://t.co/XJ7jWC6Ciq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270444727586955300,
+					"id_str": "1270444727586955271",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EaGGv6aWoAc2M4m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaGGv6aWoAc2M4m.jpg",
+					"url": "https://t.co/XJ7jWC6Ciq",
+					"display_url": "pic.twitter.com/XJ7jWC6Ciq",
+					"expanded_url": "https://twitter.com/AliefBlu/status/1270444737670057987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270444727586955300,
+					"id_str": "1270444727586955271",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EaGGv6aWoAc2M4m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaGGv6aWoAc2M4m.jpg",
+					"url": "https://t.co/XJ7jWC6Ciq",
+					"display_url": "pic.twitter.com/XJ7jWC6Ciq",
+					"expanded_url": "https://twitter.com/AliefBlu/status/1270444737670057987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270444729373728800,
+					"id_str": "1270444729373728768",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EaGGwBEWoAAeK7t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaGGwBEWoAAeK7t.jpg",
+					"url": "https://t.co/XJ7jWC6Ciq",
+					"display_url": "pic.twitter.com/XJ7jWC6Ciq",
+					"expanded_url": "https://twitter.com/AliefBlu/status/1270444737670057987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1147611649014190100,
+			"id_str": "1147611649014190080",
+			"name": "Big Daddy Cain",
+			"screen_name": "AliefBlu",
+			"location": "Houston",
+			"description": "Life is full circle. Black millennial. ΦΒΣ. Texas Southern University alumnus.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 742,
+			"friends_count": 634,
+			"listed_count": 0,
+			"created_at": "Sat Jul 06 21:01:53 +0000 2019",
+			"favourites_count": 5131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256360826249904128/YXSZPI5l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256360826249904128/YXSZPI5l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1147611649014190080/1580006281",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10122,
+		"favorite_count": 53555,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2017 vs 2020. Cherish your hairline fellas. Ya never know https://t.co/XJ7jWC6Ciq"
+	},
+	{
+		"created_at": "Wed Jun 10 02:59:21 +0000 2020",
+		"id": 1270466448503300000,
+		"id_str": "1270551096558268417",
+		"full_text": "I know I should be used to it by now but getting off a zoom call makes me feel like I was hit by a truck",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19166519,
+			"id_str": "19166519",
+			"name": "wikipedia brown, a tired person",
+			"screen_name": "eveewing",
+			"location": "chi city / shikaakwa",
+			"description": "writer+prof. #ElectricArches & #GhostsInTheSchoolyard & @Marvel & #1919poems. black girl from outer space. mgmt: @BeotisCreative. avi by hebru. she/her. 🚫DMs.",
+			"url": "https://t.co/fneGpDUVuE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fneGpDUVuE",
+							"expanded_url": "http://eveewing.com",
+							"display_url": "eveewing.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 227233,
+			"friends_count": 4331,
+			"listed_count": 1896,
+			"created_at": "Mon Jan 19 01:55:15 +0000 2009",
+			"favourites_count": 154604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 104496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019490069512503296/Tc0EdLrs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019490069512503296/Tc0EdLrs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19166519/1572930617",
+			"profile_link_color": "A61954",
+			"profile_sidebar_border_color": "E7E2B7",
+			"profile_sidebar_fill_color": "F7D2D2",
+			"profile_text_color": "A1350A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 1894,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I know I should be used to it by now but getting off a zoom call makes me feel like I was hit by a truck"
+	},
+	{
 		"created_at": "Mon Jun 08 19:55:02 +0000 2020",
 		"id": 1269733575374647300,
 		"id_str": "1270081924443394048",
