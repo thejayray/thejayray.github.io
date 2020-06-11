@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 03:59:10 +0000 2020",
+		"id": 1270894697309970400,
+		"id_str": "1270928536975613953",
+		"full_text": "I'm proud to give you an early look at this new film called #TheChoice from @ProcterGamble. Systemic racism is a very real issue affecting our country. We must all choose action over observation. Choose progress over perfection. The time is now. https://t.co/6ySWYXHzGy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheChoice",
+					"indices": [
+						60,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProcterGamble",
+					"name": "Procter & Gamble",
+					"id": 27025414,
+					"id_str": "27025414",
+					"indices": [
+						76,
+						90
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270894067271053300,
+					"id_str": "1270894067271053312",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270894067271053312/pu/img/Y6yQ0Mw6A1MeZNdk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270894067271053312/pu/img/Y6yQ0Mw6A1MeZNdk.jpg",
+					"url": "https://t.co/6ySWYXHzGy",
+					"display_url": "pic.twitter.com/6ySWYXHzGy",
+					"expanded_url": "https://twitter.com/ReignOfApril/status/1270894697309970433/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270894067271053300,
+					"id_str": "1270894067271053312",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270894067271053312/pu/img/Y6yQ0Mw6A1MeZNdk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270894067271053312/pu/img/Y6yQ0Mw6A1MeZNdk.jpg",
+					"url": "https://t.co/6ySWYXHzGy",
+					"display_url": "pic.twitter.com/6ySWYXHzGy",
+					"expanded_url": "https://twitter.com/ReignOfApril/status/1270894697309970433/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 75117,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270894067271053312/pu/vid/480x270/upvKu-6kkHGLhG7O.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270894067271053312/pu/vid/640x360/E9Dg_SuygspurhJz.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1270894067271053312/pu/pl/20-0jmpAVJ0jG7ti.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119972954,
+			"id_str": "119972954",
+			"name": "April",
+			"screen_name": "ReignOfApril",
+			"location": "Washington, DC",
+			"description": "#OscarsSoWhite & #ReignyDayJobs Creator. Diversity & Inclusion Advocate, Culture Commentator. @Sephora Equity Advisor. @sparksandhoney Advisory Board. She/Her.",
+			"url": "https://t.co/7R2wqKUWiP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7R2wqKUWiP",
+							"expanded_url": "https://spark.adobe.com/page/0X134IItMApVH/",
+							"display_url": "spark.adobe.com/page/0X134IItM…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 171993,
+			"friends_count": 2893,
+			"listed_count": 1564,
+			"created_at": "Fri Mar 05 03:12:21 +0000 2010",
+			"favourites_count": 25730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 536264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94D487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225822058401148928/xO1hzT1__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225822058401148928/xO1hzT1__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119972954/1540446620",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm proud to give you an early look at this new film called #TheChoice from @ProcterGamble. Systemic racism is a very real issue affecting our country. We must all choose action over observation. Choose progress over perfection. The time is now. https://t.co/6ySWYXHzGy"
+	},
+	{
+		"created_at": "Thu Jun 11 03:57:29 +0000 2020",
+		"id": 1270762739573678000,
+		"id_str": "1270928114865131520",
+		"full_text": "Black people have been calling out racism for generations.\nWe said it calmly.\nWe shouted it in the streets.\nWe put it in writing.\nWe put it in our music.\nIn our movies and our shows.\nWe put it on stages.\nIn our art.\n\nAnd you danced.\nYou laughed.\nYou clapped.\nBut you never heard.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1362730236,
+			"id_str": "1362730236",
+			"name": "Wyatt Cenac",
+			"screen_name": "wyattcenac",
+			"location": "Brooklyn",
+			"description": "contractually obligated to be here.",
+			"url": "https://t.co/3M9iUCa2Zp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3M9iUCa2Zp",
+							"expanded_url": "http://wyattcenac.com",
+							"display_url": "wyattcenac.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55709,
+			"friends_count": 1,
+			"listed_count": 692,
+			"created_at": "Thu Apr 18 19:39:23 +0000 2013",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141479120272023553/XK1e6J9Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141479120272023553/XK1e6J9Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1362730236/1564178980",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9545,
+		"favorite_count": 33476,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Black people have been calling out racism for generations.\nWe said it calmly.\nWe shouted it in the streets.\nWe put it in writing.\nWe put it in our music.\nIn our movies and our shows.\nWe put it on stages.\nIn our art.\n\nAnd you danced.\nYou laughed.\nYou clapped.\nBut you never heard."
+	},
+	{
+		"created_at": "Thu Jun 11 03:50:42 +0000 2020",
+		"id": 1270882718763516000,
+		"id_str": "1270926405350588417",
+		"full_text": "DEFEND. BLACK. LIVES.\n\nJoin in on Juneteenth weekend in front of the White House, in your homes, or in your communities to show our power and shout our demands. \n\n#SixNineteen sign-up: https://t.co/RHsxKjucTs https://t.co/3W1SERWpwC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SixNineteen",
+					"indices": [
+						163,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RHsxKjucTs",
+					"expanded_url": "http://www.sixnineteen.com",
+					"display_url": "sixnineteen.com",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270882626652397600,
+					"id_str": "1270882626652397568",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EaMVA_jU4AAGAhu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaMVA_jU4AAGAhu.jpg",
+					"url": "https://t.co/3W1SERWpwC",
+					"display_url": "pic.twitter.com/3W1SERWpwC",
+					"expanded_url": "https://twitter.com/Mvmnt4BlkLives/status/1270882718763515904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270882626652397600,
+					"id_str": "1270882626652397568",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EaMVA_jU4AAGAhu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaMVA_jU4AAGAhu.jpg",
+					"url": "https://t.co/3W1SERWpwC",
+					"display_url": "pic.twitter.com/3W1SERWpwC",
+					"expanded_url": "https://twitter.com/Mvmnt4BlkLives/status/1270882718763515904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3186878430,
+			"id_str": "3186878430",
+			"name": "Movement 4 Black Lives",
+			"screen_name": "Mvmnt4BlkLives",
+			"location": "Worldwide",
+			"description": "M4BL is a national network of over 150 organizations creating a broad political home for Black people to learn, organize, and take action.",
+			"url": "https://t.co/hOlFKD8lEM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hOlFKD8lEM",
+							"expanded_url": "https://www.sixnineteen.com/",
+							"display_url": "sixnineteen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48722,
+			"friends_count": 655,
+			"listed_count": 350,
+			"created_at": "Wed May 06 18:00:58 +0000 2015",
+			"favourites_count": 2510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267284072360902658/2IFrh7kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267284072360902658/2IFrh7kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3186878430/1591836776",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 264,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DEFEND. BLACK. LIVES.\n\nJoin in on Juneteenth weekend in front of the White House, in your homes, or in your communities to show our power and shout our demands. \n\n#SixNineteen sign-up: https://t.co/RHsxKjucTs https://t.co/3W1SERWpwC"
+	},
+	{
 		"created_at": "Wed Jun 10 03:02:21 +0000 2020",
 		"id": 1270444737670058000,
 		"id_str": "1270551848999620610",
