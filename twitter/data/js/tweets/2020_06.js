@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 01:48:35 +0000 2020",
+		"id": 1270894513528148000,
+		"id_str": "1271258064147173379",
+		"full_text": "Voting by mail should be implemented nationwide. \n\nPass it on.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1078749802765140000,
+			"id_str": "1078749802765139968",
+			"name": "Rep. Joe Neguse",
+			"screen_name": "RepJoeNeguse",
+			"location": "Northern Colorado",
+			"description": "U.S. Rep. for Colorado’s 2nd District. @NRDems @HouseJudiciary @ClimateCrisis & Vice-Chair @USProgressives. Proud Husband. Dad. First-generation American.",
+			"url": "https://t.co/uQl52J20Oh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uQl52J20Oh",
+							"expanded_url": "https://neguse.house.gov",
+							"display_url": "neguse.house.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31787,
+			"friends_count": 1178,
+			"listed_count": 493,
+			"created_at": "Fri Dec 28 20:29:29 +0000 2018",
+			"favourites_count": 911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078835620246622209/3n6aNkEV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078835620246622209/3n6aNkEV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1078749802765139968/1569602165",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14710,
+		"favorite_count": 48637,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Voting by mail should be implemented nationwide. \n\nPass it on."
+	},
+	{
+		"created_at": "Fri Jun 12 01:32:18 +0000 2020",
+		"id": 1270675217237581800,
+		"id_str": "1271253962860232704",
+		"full_text": "Best use of black gaff tape that I've seen in quite a while. https://t.co/rEbJIY47eU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rEbJIY47eU",
+					"expanded_url": "https://twitter.com/TheRealGZA/status/1270405531992293376",
+					"display_url": "twitter.com/TheRealGZA/sta…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40730833,
+			"id_str": "40730833",
+			"name": "Unemployed Stagehand DVP",
+			"screen_name": "Frontlight22",
+			"location": "",
+			"description": "Followspot Curmudgeon, Console Jockey, Dabbles in Pyro. Roadie for Broadway touring shows. A (no) long(er) suffering Caps and Nats fan. All opinions are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 441,
+			"friends_count": 610,
+			"listed_count": 11,
+			"created_at": "Sun May 17 20:32:36 +0000 2009",
+			"favourites_count": 4623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3105793814/823f9499c817d2426b563d6a1b6b51de_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3105793814/823f9499c817d2426b563d6a1b6b51de_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40730833/1401686218",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "808080",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270405531992293400,
+		"quoted_status_id_str": "1270405531992293376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rEbJIY47eU",
+			"expanded": "https://twitter.com/TheRealGZA/status/1270405531992293376",
+			"display": "twitter.com/TheRealGZA/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 09 17:20:56 +0000 2020",
+			"id": 1270405531992293400,
+			"id_str": "1270405531992293376",
+			"full_text": "https://t.co/LMeWtLp5TR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1270405345257676800,
+						"id_str": "1270405345257676800",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270405345257676800/pu/img/RYiJIWX4bssD7fhD.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270405345257676800/pu/img/RYiJIWX4bssD7fhD.jpg",
+						"url": "https://t.co/LMeWtLp5TR",
+						"display_url": "pic.twitter.com/LMeWtLp5TR",
+						"expanded_url": "https://twitter.com/TheRealGZA/status/1270405531992293376/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1270405345257676800,
+						"id_str": "1270405345257676800",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270405345257676800/pu/img/RYiJIWX4bssD7fhD.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270405345257676800/pu/img/RYiJIWX4bssD7fhD.jpg",
+						"url": "https://t.co/LMeWtLp5TR",
+						"display_url": "pic.twitter.com/LMeWtLp5TR",
+						"expanded_url": "https://twitter.com/TheRealGZA/status/1270405531992293376/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 10034,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1270405345257676800/pu/pl/5r-dyy8GqQonWe9p.m3u8?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1270405345257676800/pu/vid/320x400/nzJ_vrirTdohw4mD.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1270405345257676800/pu/vid/720x900/qaua6njbCnsqWcAV.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1270405345257676800/pu/vid/360x450/QvBJ3sGSoYwLxJP8.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 73218364,
+				"id_str": "73218364",
+				"name": "GZA",
+				"screen_name": "TheRealGZA",
+				"location": "",
+				"description": "General Inquiries: mgmt@gzadarkmatter.com",
+				"url": "https://t.co/yayLXVHsnA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yayLXVHsnA",
+								"expanded_url": "http://www.facebook.com/theGZA",
+								"display_url": "facebook.com/theGZA",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 382137,
+				"friends_count": 136,
+				"listed_count": 1528,
+				"created_at": "Thu Sep 10 20:56:08 +0000 2009",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 820,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/408488860/gza_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/408488860/gza_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7824,
+			"favorite_count": 31268,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 28996,
+		"favorite_count": 146942,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Best use of black gaff tape that I've seen in quite a while. https://t.co/rEbJIY47eU"
+	},
+	{
 		"created_at": "Thu Jun 11 03:59:10 +0000 2020",
 		"id": 1270894697309970400,
 		"id_str": "1270928536975613953",
