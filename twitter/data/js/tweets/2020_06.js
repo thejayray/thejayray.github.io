@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 03:16:48 +0000 2020",
+		"id": 1271642648953196500,
+		"id_str": "1271642648953196544",
+		"full_text": "https://t.co/keKf1BTyMS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271642620054450200,
+					"id_str": "1271642620054450176",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EaXIObmXsAApHCG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaXIObmXsAApHCG.jpg",
+					"url": "https://t.co/keKf1BTyMS",
+					"display_url": "pic.twitter.com/keKf1BTyMS",
+					"expanded_url": "https://twitter.com/JayRay/status/1271642648953196544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271642620054450200,
+					"id_str": "1271642620054450176",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EaXIObmXsAApHCG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaXIObmXsAApHCG.jpg",
+					"url": "https://t.co/keKf1BTyMS",
+					"display_url": "pic.twitter.com/keKf1BTyMS",
+					"expanded_url": "https://twitter.com/JayRay/status/1271642648953196544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 464,
+			"friends_count": 235,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270885294611607552/JOxG43J8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270885294611607552/JOxG43J8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1591837642",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/keKf1BTyMS"
+	},
+	{
+		"created_at": "Fri Jun 12 18:02:48 +0000 2020",
+		"id": 1271134975186911200,
+		"id_str": "1271503231273840643",
+		"full_text": "Amazing.  \nThe same Starbucks that closed 8,000 stores for racial bias training because of a racist incident in 2018 is now preventing employees from wearing anything in support it Black Lives Matter. \n\nSee why we believe so little in racial bias trainings and press statements? https://t.co/zdBxaMslFc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zdBxaMslFc",
+					"expanded_url": "https://twitter.com/thehill/status/1271101163769868289",
+					"display_url": "twitter.com/thehill/status…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 325076723,
+			"id_str": "325076723",
+			"name": "zellie",
+			"screen_name": "zellieimani",
+			"location": "NJ",
+			"description": "All Black Everything. Teacher. Blogger. Activist. Brother. Son. Contact: zellie.imani@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133284,
+			"friends_count": 5047,
+			"listed_count": 1359,
+			"created_at": "Mon Jun 27 18:06:47 +0000 2011",
+			"favourites_count": 9757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 186012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000179362439/90f034432122f61df63e471932fdfc62_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000179362439/90f034432122f61df63e471932fdfc62_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/325076723/1387896720",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1271101163769868300,
+		"quoted_status_id_str": "1271101163769868289",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zdBxaMslFc",
+			"expanded": "https://twitter.com/thehill/status/1271101163769868289",
+			"display": "twitter.com/thehill/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 11 15:25:08 +0000 2020",
+			"id": 1271101163769868300,
+			"id_str": "1271101163769868289",
+			"full_text": "Starbucks bans employees from wearing anything in support of Black Lives Matter https://t.co/jjMvKBrzV9 https://t.co/ROxQADpq4o",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jjMvKBrzV9",
+						"expanded_url": "http://hill.cm/dRYDDT7",
+						"display_url": "hill.cm/dRYDDT7",
+						"indices": [
+							80,
+							103
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1271101155989471200,
+						"id_str": "1271101155989471234",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/EaPbxExXQAI6z3_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaPbxExXQAI6z3_.jpg",
+						"url": "https://t.co/ROxQADpq4o",
+						"display_url": "pic.twitter.com/ROxQADpq4o",
+						"expanded_url": "https://twitter.com/thehill/status/1271101163769868289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 416,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 880,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 733,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1271101155989471200,
+						"id_str": "1271101155989471234",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/EaPbxExXQAI6z3_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaPbxExXQAI6z3_.jpg",
+						"url": "https://t.co/ROxQADpq4o",
+						"display_url": "pic.twitter.com/ROxQADpq4o",
+						"expanded_url": "https://twitter.com/thehill/status/1271101163769868289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 416,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 880,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 733,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1917731,
+				"id_str": "1917731",
+				"name": "The Hill",
+				"screen_name": "thehill",
+				"location": "Washington, DC",
+				"description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+				"url": "http://t.co/t414UtTRv4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/t414UtTRv4",
+								"expanded_url": "http://www.thehill.com",
+								"display_url": "thehill.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3812649,
+				"friends_count": 267,
+				"listed_count": 26034,
+				"created_at": "Thu Mar 22 18:15:18 +0000 2007",
+				"favourites_count": 10,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 741268,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+				"profile_link_color": "FF0021",
+				"profile_sidebar_border_color": "ADADAA",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5544,
+			"favorite_count": 6317,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 17640,
+		"favorite_count": 30825,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazing.  \nThe same Starbucks that closed 8,000 stores for racial bias training because of a racist incident in 2018 is now preventing employees from wearing anything in support it Black Lives Matter. \n\nSee why we believe so little in racial bias trainings and press statements? https://t.co/zdBxaMslFc"
+	},
+	{
 		"created_at": "Fri Jun 12 01:48:35 +0000 2020",
 		"id": 1270894513528148000,
 		"id_str": "1271258064147173379",
