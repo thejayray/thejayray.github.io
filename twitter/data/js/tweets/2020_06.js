@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 17:00:56 +0000 2020",
+		"id": 1271547729521631200,
+		"id_str": "1271850050814181376",
+		"full_text": "~during a pandemic~\n~during Pride Month~\n~on the anniversary of a deadly mass shooting at Pulse gay nightclub~ https://t.co/6Utum9N6xq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6Utum9N6xq",
+					"expanded_url": "https://twitter.com/NPR/status/1271540773851463681",
+					"display_url": "twitter.com/NPR/status/127…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21543404,
+			"id_str": "21543404",
+			"name": "Alexander",
+			"screen_name": "purplechrain",
+			"location": "Toronto",
+			"description": "limited wit & the worst lines in Pundom / za'atar, insulin, Sondheim, Prince & middle 8 guest raps / gay halabi & ashkenazi Jew / 32 / he/him/his",
+			"url": "https://t.co/4Vhjy9OtPU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4Vhjy9OtPU",
+							"expanded_url": "http://purplechrain.tumblr.com",
+							"display_url": "purplechrain.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3107,
+			"friends_count": 2846,
+			"listed_count": 47,
+			"created_at": "Sun Feb 22 03:55:56 +0000 2009",
+			"favourites_count": 97704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070095818558853120/HzP0WXYn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070095818558853120/HzP0WXYn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21543404/1568241457",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1271540773851463700,
+		"quoted_status_id_str": "1271540773851463681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6Utum9N6xq",
+			"expanded": "https://twitter.com/NPR/status/1271540773851463681",
+			"display": "twitter.com/NPR/status/127…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 12 20:31:59 +0000 2020",
+			"id": 1271540773851463700,
+			"id_str": "1271540773851463681",
+			"full_text": "BREAKING: The Trump administration just finalized a rule that would remove nondiscrimination protections for LGBTQ people in health care and health insurance.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5392522,
+				"id_str": "5392522",
+				"name": "NPR",
+				"screen_name": "NPR",
+				"location": "",
+				"description": "News. Arts & Life. Music & more. This is NPR.\n\n🕵️ Securely send us news tips: https://t.co/LPkf6Tsozm",
+				"url": "http://t.co/SoL86ga4RI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SoL86ga4RI",
+								"expanded_url": "http://www.npr.org",
+								"display_url": "npr.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LPkf6Tsozm",
+								"expanded_url": "http://securedrop.npr.org",
+								"display_url": "securedrop.npr.org",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8229031,
+				"friends_count": 69948,
+				"listed_count": 66060,
+				"created_at": "Sun Apr 22 05:10:15 +0000 2007",
+				"favourites_count": 2547,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 200292,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1208165423109292032/_oEEIsvx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208165423109292032/_oEEIsvx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1575653448",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61350,
+			"favorite_count": 82307,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 24693,
+		"favorite_count": 56763,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "~during a pandemic~\n~during Pride Month~\n~on the anniversary of a deadly mass shooting at Pulse gay nightclub~ https://t.co/6Utum9N6xq"
+	},
+	{
 		"created_at": "Sat Jun 13 03:16:48 +0000 2020",
 		"id": 1271642648953196500,
 		"id_str": "1271642648953196544",
