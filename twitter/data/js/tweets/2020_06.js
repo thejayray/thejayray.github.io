@@ -1,6 +1,666 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 01:06:33 +0000 2020",
+		"id": 1272680896064340000,
+		"id_str": "1272697037239263237",
+		"full_text": "Teachers are paying out of pocket for school supplies, yet police are given extra tanks.\n\nBudgets convey priorities.\nWe should question ours.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138203134,
+			"id_str": "138203134",
+			"name": "Alexandria Ocasio-Cortez",
+			"screen_name": "AOC",
+			"location": "Bronx + Queens, NYC",
+			"description": "US Representative,NY-14 (BX & Queens). In a modern, moral, & wealthy society, no American should be too poor to live. 💯% People-Funded, no lobbyist💰. She/her.",
+			"url": "https://t.co/1gpC8bdz39",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1gpC8bdz39",
+							"expanded_url": "http://www.ocasiocortez.com",
+							"display_url": "ocasiocortez.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7273524,
+			"friends_count": 2526,
+			"listed_count": 16807,
+			"created_at": "Wed Apr 28 22:38:40 +0000 2010",
+			"favourites_count": 24644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138203134/1511815660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41584,
+		"favorite_count": 164537,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Teachers are paying out of pocket for school supplies, yet police are given extra tanks.\n\nBudgets convey priorities.\nWe should question ours."
+	},
+	{
+		"created_at": "Mon Jun 15 21:34:12 +0000 2020",
+		"id": 1272637389542998000,
+		"id_str": "1272643594638233601",
+		"full_text": "The Democratic Party establishment is terrified that a black, working class, public school principal might replace a white, corporate backed incumbent. \n\nThey're pulling out all the stops. But, we're going to win anyway. Give to @JamaalBowmanNY today: https://t.co/lRXLi6s69d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamaalBowmanNY",
+					"name": "Jamaal Bowman",
+					"id": 1138076821533155300,
+					"id_str": "1138076821533155328",
+					"indices": [
+						229,
+						244
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lRXLi6s69d",
+					"expanded_url": "https://www.bowmanforcongress.com/",
+					"display_url": "bowmanforcongress.com",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272636843075555300,
+		"in_reply_to_status_id_str": "1272636843075555337",
+		"in_reply_to_user_id": 15729844,
+		"in_reply_to_user_id_str": "15729844",
+		"in_reply_to_screen_name": "maxberger",
+		"user": {
+			"id": 15729844,
+			"id_str": "15729844",
+			"name": "Defund Police 2020",
+			"screen_name": "maxberger",
+			"location": "Brooklyn, New York",
+			"description": "Political organizer for social democracyㅣFormerly @ewarren + @justicedemsㅣCo-Founder @IfNotNowOrg + @momentum_mvmts | He/Him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40984,
+			"friends_count": 924,
+			"listed_count": 566,
+			"created_at": "Tue Aug 05 00:09:12 +0000 2008",
+			"favourites_count": 61915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272676927191625729/oCJSEb11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272676927191625729/oCJSEb11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15729844/1592077755",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "0E0D02",
+			"profile_text_color": "39BD91",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Democratic Party establishment is terrified that a black, working class, public school principal might replace a white, corporate backed incumbent. \n\nThey're pulling out all the stops. But, we're going to win anyway. Give to @JamaalBowmanNY today: https://t.co/lRXLi6s69d"
+	},
+	{
+		"created_at": "Mon Jun 15 21:32:58 +0000 2020",
+		"id": 1272642955766116400,
+		"id_str": "1272643284939218945",
+		"full_text": "Oluwatoyin ‘Toyin’ Salau.\n\nDominique ‘Rem’mie’ Fells.\n\nRiah Milton.\n\nBlack women deserve safety in their homes, in their communities, in the world.\n\nRest in so much power, Toyin, Rem’mie, and Riah. #SayHerName https://t.co/csE76kUnnr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SayHerName",
+					"indices": [
+						198,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/csE76kUnnr",
+					"expanded_url": "https://twitter.com/SoualiganAmazon/status/1272580754443304961",
+					"display_url": "twitter.com/SoualiganAmazo…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13393052,
+			"id_str": "13393052",
+			"name": "ACLU",
+			"screen_name": "ACLU",
+			"location": "All 50 states",
+			"description": "The ACLU is a nonprofit, nonpartisan, legal and advocacy 501(c)(4) organization. Visit our site for more about us and our affiliated org, the ACLU Foundation.",
+			"url": "https://t.co/AF1gbNeaRA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AF1gbNeaRA",
+							"expanded_url": "http://www.aclu.org",
+							"display_url": "aclu.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1803842,
+			"friends_count": 5687,
+			"listed_count": 14521,
+			"created_at": "Tue Feb 12 16:27:34 +0000 2008",
+			"favourites_count": 20801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 50521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3A7CC2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218707298920607745/88ZDVPbh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218707298920607745/88ZDVPbh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13393052/1579402561",
+			"profile_link_color": "0782ED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272580754443305000,
+		"quoted_status_id_str": "1272580754443304961",
+		"quoted_status_permalink": {
+			"url": "https://t.co/csE76kUnnr",
+			"expanded": "https://twitter.com/SoualiganAmazon/status/1272580754443304961",
+			"display": "twitter.com/SoualiganAmazo…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 15 17:24:29 +0000 2020",
+			"id": 1272580754443305000,
+			"id_str": "1272580754443304961",
+			"full_text": "Black women deserve to live life abundantly but our world and communities continue to fail us. \n\nRIP Dominique “Rem’mie” Fells,  Riah Milton &amp; Oluwatoyin “Toyin” Salau.\n\n3 black women found dead in the span of a week. https://t.co/CE1lzoW1A2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				221
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1272580748621615000,
+						"id_str": "1272580748621615105",
+						"indices": [
+							222,
+							245
+						],
+						"media_url": "http://pbs.twimg.com/media/Eakdcs2XkAEYtG3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eakdcs2XkAEYtG3.jpg",
+						"url": "https://t.co/CE1lzoW1A2",
+						"display_url": "pic.twitter.com/CE1lzoW1A2",
+						"expanded_url": "https://twitter.com/SoualiganAmazon/status/1272580754443304961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1076,
+								"h": 1329,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 551,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 972,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1272580748621615000,
+						"id_str": "1272580748621615105",
+						"indices": [
+							222,
+							245
+						],
+						"media_url": "http://pbs.twimg.com/media/Eakdcs2XkAEYtG3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eakdcs2XkAEYtG3.jpg",
+						"url": "https://t.co/CE1lzoW1A2",
+						"display_url": "pic.twitter.com/CE1lzoW1A2",
+						"expanded_url": "https://twitter.com/SoualiganAmazon/status/1272580754443304961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1076,
+								"h": 1329,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 551,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 972,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1272580748604776400,
+						"id_str": "1272580748604776449",
+						"indices": [
+							222,
+							245
+						],
+						"media_url": "http://pbs.twimg.com/media/EakdcsyWoAEZoTL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EakdcsyWoAEZoTL.jpg",
+						"url": "https://t.co/CE1lzoW1A2",
+						"display_url": "pic.twitter.com/CE1lzoW1A2",
+						"expanded_url": "https://twitter.com/SoualiganAmazon/status/1272580754443304961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1272580748575457300,
+						"id_str": "1272580748575457288",
+						"indices": [
+							222,
+							245
+						],
+						"media_url": "http://pbs.twimg.com/media/EakdcsrXQAgd-rU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EakdcsrXQAgd-rU.jpg",
+						"url": "https://t.co/CE1lzoW1A2",
+						"display_url": "pic.twitter.com/CE1lzoW1A2",
+						"expanded_url": "https://twitter.com/SoualiganAmazon/status/1272580754443304961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 622,
+								"h": 932,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 622,
+								"h": 932,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47839801,
+				"id_str": "47839801",
+				"name": "Guerilla Feminist Comrade",
+				"screen_name": "SoualiganAmazon",
+				"location": "In this DANCERY, Netherlands",
+				"description": "Disruptive Debbie Downer. Black nymph. “The pain is chronic but the ass is iconic”.",
+				"url": "https://t.co/k5CvdSfSvC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/k5CvdSfSvC",
+								"expanded_url": "http://paypal.me/SoualiganWomanist",
+								"display_url": "paypal.me/SoualiganWoman…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9053,
+				"friends_count": 673,
+				"listed_count": 122,
+				"created_at": "Wed Jun 17 03:25:14 +0000 2009",
+				"favourites_count": 11894,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 263605,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1268335639491235840/mTb-_unf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268335639491235840/mTb-_unf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47839801/1585334131",
+				"profile_link_color": "71058C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4576,
+			"favorite_count": 6751,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1214,
+		"favorite_count": 2361,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oluwatoyin ‘Toyin’ Salau.\n\nDominique ‘Rem’mie’ Fells.\n\nRiah Milton.\n\nBlack women deserve safety in their homes, in their communities, in the world.\n\nRest in so much power, Toyin, Rem’mie, and Riah. #SayHerName https://t.co/csE76kUnnr"
+	},
+	{
+		"created_at": "Mon Jun 15 15:22:07 +0000 2020",
+		"id": 1272537208524767200,
+		"id_str": "1272549957598433283",
+		"full_text": "BREAKING: The Supreme Court just denied the administration’s attempt to force local law enforcement to do ICE’s bidding.\n\nThis is a win for all communities, particularly communities of color, and keeps us all safer.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13393052,
+			"id_str": "13393052",
+			"name": "ACLU",
+			"screen_name": "ACLU",
+			"location": "All 50 states",
+			"description": "The ACLU is a nonprofit, nonpartisan, legal and advocacy 501(c)(4) organization. Visit our site for more about us and our affiliated org, the ACLU Foundation.",
+			"url": "https://t.co/AF1gbNeaRA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AF1gbNeaRA",
+							"expanded_url": "http://www.aclu.org",
+							"display_url": "aclu.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1803842,
+			"friends_count": 5687,
+			"listed_count": 14521,
+			"created_at": "Tue Feb 12 16:27:34 +0000 2008",
+			"favourites_count": 20801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 50521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3A7CC2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218707298920607745/88ZDVPbh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218707298920607745/88ZDVPbh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13393052/1579402561",
+			"profile_link_color": "0782ED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34681,
+		"favorite_count": 135109,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING: The Supreme Court just denied the administration’s attempt to force local law enforcement to do ICE’s bidding.\n\nThis is a win for all communities, particularly communities of color, and keeps us all safer."
+	},
+	{
 		"created_at": "Mon Jun 15 04:10:11 +0000 2020",
 		"id": 1272380860818489300,
 		"id_str": "1272380860818489348",
