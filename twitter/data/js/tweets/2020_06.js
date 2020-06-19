@@ -1,6 +1,674 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 18 17:22:29 +0000 2020",
+		"id": 1273654635803402200,
+		"id_str": "1273667412815216642",
+		"full_text": "I have a lot of follow up questions, @PeterNavarro45. https://t.co/Bjv4t9A7vN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeterNavarro45",
+					"name": "Peter Navarro",
+					"id": 1242534200634478600,
+					"id_str": "1242534200634478593",
+					"indices": [
+						37,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Bjv4t9A7vN",
+					"expanded_url": "https://twitter.com/paulareidcbs/status/1273642133438771200",
+					"display_url": "twitter.com/paulareidcbs/s…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 170699708,
+			"id_str": "170699708",
+			"name": "Weijia Jiang",
+			"screen_name": "weijia",
+			"location": "Washington, DC",
+			"description": "@CBSNews White House Correspondent. Frankie Mei’s mama. Chinese born West Virginian. @williamandmary + @syracuseU alum. DM for Signal/WhatsApp",
+			"url": "https://t.co/h4dDMTocWK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h4dDMTocWK",
+							"expanded_url": "http://www.cbsnews.com",
+							"display_url": "cbsnews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339075,
+			"friends_count": 4014,
+			"listed_count": 1855,
+			"created_at": "Sun Jul 25 14:33:00 +0000 2010",
+			"favourites_count": 7108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119207221223743488/ORifnKht_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119207221223743488/ORifnKht_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/170699708/1538155336",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273642133438771200,
+		"quoted_status_id_str": "1273642133438771200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Bjv4t9A7vN",
+			"expanded": "https://twitter.com/paulareidcbs/status/1273642133438771200",
+			"display": "twitter.com/paulareidcbs/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 18 15:42:02 +0000 2020",
+			"id": 1273642133438771200,
+			"id_str": "1273642133438771200",
+			"full_text": "“It’s revenge porn.” - WH Advisor Peter Navarro on John Bolton book.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 212674482,
+				"id_str": "212674482",
+				"name": "Paula Reid",
+				"screen_name": "PaulaReidCBS",
+				"location": "Washington DC",
+				"description": "@CBSNews White House Correspondent. Lawyer. Not Donna Reed. reidp@cbsnews.com",
+				"url": "https://t.co/oN84oCGKJi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oN84oCGKJi",
+								"expanded_url": "http://www.cbsnews.com/live/",
+								"display_url": "cbsnews.com/live/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 277707,
+				"friends_count": 2245,
+				"listed_count": 1787,
+				"created_at": "Sat Nov 06 18:45:01 +0000 2010",
+				"favourites_count": 7820,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9973,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1147180760102821888/G44dDOmY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147180760102821888/G44dDOmY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/212674482/1589731975",
+				"profile_link_color": "4C2FED",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 180,
+			"favorite_count": 1138,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 125,
+		"favorite_count": 1109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have a lot of follow up questions, @PeterNavarro45. https://t.co/Bjv4t9A7vN"
+	},
+	{
+		"created_at": "Thu Jun 18 16:27:37 +0000 2020",
+		"id": 1273652003768598500,
+		"id_str": "1273653605237653505",
+		"full_text": "DACA IS HERE 👏TO 👏STAY https://t.co/Cv0igOxatP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cv0igOxatP",
+					"expanded_url": "https://twitter.com/sunrisemvmt/status/1273629418402054146",
+					"display_url": "twitter.com/sunrisemvmt/st…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13393052,
+			"id_str": "13393052",
+			"name": "ACLU",
+			"screen_name": "ACLU",
+			"location": "All 50 states",
+			"description": "The ACLU is a nonprofit, nonpartisan, legal and advocacy 501(c)(4) organization. Visit our site for more about us and our affiliated org, the ACLU Foundation.",
+			"url": "https://t.co/AF1gbNeaRA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AF1gbNeaRA",
+							"expanded_url": "http://www.aclu.org",
+							"display_url": "aclu.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1816282,
+			"friends_count": 5683,
+			"listed_count": 14537,
+			"created_at": "Tue Feb 12 16:27:34 +0000 2008",
+			"favourites_count": 20866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 50614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3A7CC2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218707298920607745/88ZDVPbh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218707298920607745/88ZDVPbh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13393052/1579402561",
+			"profile_link_color": "0782ED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273629418402054100,
+		"quoted_status_id_str": "1273629418402054146",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Cv0igOxatP",
+			"expanded": "https://twitter.com/sunrisemvmt/status/1273629418402054146",
+			"display": "twitter.com/sunrisemvmt/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 18 14:51:30 +0000 2020",
+			"id": 1273629418402054100,
+			"id_str": "1273629418402054146",
+			"full_text": "DACA IS HERE 👏TO 👏STAY https://t.co/zP9GF7DElQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				22
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zP9GF7DElQ",
+						"expanded_url": "https://twitter.com/UNITEDWEDREAM/status/1273626106877394944",
+						"display_url": "twitter.com/UNITEDWEDREAM/…",
+						"indices": [
+							23,
+							46
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1880725393,
+				"id_str": "1880725393",
+				"name": "Sunrise Movement 🌅",
+				"screen_name": "sunrisemvmt",
+				"location": "United States",
+				"description": "We are building a movement of young people to stop climate change and create millions of new jobs in the process ☀️ #GreenNewDeal",
+				"url": "https://t.co/SHEkMCIfUb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SHEkMCIfUb",
+								"expanded_url": "http://sunrisemovement.org",
+								"display_url": "sunrisemovement.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 196697,
+				"friends_count": 2935,
+				"listed_count": 1754,
+				"created_at": "Wed Sep 18 20:00:13 +0000 2013",
+				"favourites_count": 25296,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14015,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1267133702808702977/RRBSZZMz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267133702808702977/RRBSZZMz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1880725393/1576033333",
+				"profile_link_color": "30343C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1273626106877395000,
+			"quoted_status_id_str": "1273626106877394944",
+			"quoted_status_permalink": {
+				"url": "https://t.co/zP9GF7DElQ",
+				"expanded": "https://twitter.com/UNITEDWEDREAM/status/1273626106877394944",
+				"display": "twitter.com/UNITEDWEDREAM/…"
+			},
+			"retweet_count": 191,
+			"favorite_count": 1165,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1972,
+		"favorite_count": 9680,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DACA IS HERE 👏TO 👏STAY https://t.co/Cv0igOxatP"
+	},
+	{
+		"created_at": "Thu Jun 18 16:27:02 +0000 2020",
+		"id": 1273651125342929000,
+		"id_str": "1273653458688753666",
+		"full_text": "This is important news and a victory for the movement!!! We filed an amicus brief to prevent this and our attorneys argued against this at the Illinois Supreme Court on March 17th. Click more to read about this: https://t.co/wgJt2LRqu1 https://t.co/OSyXGQK0Wd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wgJt2LRqu1",
+					"expanded_url": "https://www.blacklivesmatterchicago.com/stop-the-fop-from-destroying-hundreds-of-thousands-of-police-misconduct-records/",
+					"display_url": "blacklivesmatterchicago.com/stop-the-fop-f…",
+					"indices": [
+						212,
+						235
+					]
+				},
+				{
+					"url": "https://t.co/OSyXGQK0Wd",
+					"expanded_url": "https://twitter.com/pksmid/status/1273617888079945728",
+					"display_url": "twitter.com/pksmid/status/…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3031746741,
+			"id_str": "3031746741",
+			"name": "BLMChicago",
+			"screen_name": "BLMChi",
+			"location": "Chicago and beyond",
+			"description": "Abolition! #JusticeForFamilies Fam: @blmchiyouth @UMedicsChi @chicopwatch BlackLivesMatterChicago@gmail Mutual aid: Blmchisupplies@gmail https://t.co/ISwCKE2REQ",
+			"url": "https://t.co/4swRNerJyT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4swRNerJyT",
+							"expanded_url": "http://www.blacklivesmatterchicago.com/",
+							"display_url": "blacklivesmatterchicago.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ISwCKE2REQ",
+							"expanded_url": "http://PayPal.me/BLMCHI",
+							"display_url": "PayPal.me/BLMCHI",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 48091,
+			"friends_count": 1358,
+			"listed_count": 442,
+			"created_at": "Thu Feb 12 01:28:39 +0000 2015",
+			"favourites_count": 22245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797116050059956225/0YaVfFVn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797116050059956225/0YaVfFVn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3031746741/1484958148",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273617888079945700,
+		"quoted_status_id_str": "1273617888079945728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OSyXGQK0Wd",
+			"expanded": "https://twitter.com/pksmid/status/1273617888079945728",
+			"display": "twitter.com/pksmid/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 18 14:05:41 +0000 2020",
+			"id": 1273617888079945700,
+			"id_str": "1273617888079945728",
+			"full_text": "BREAKING: The Illinois Supreme Court has rejected a request by Chicago's largest police union to destroy thousands of police complaint records that are more than five years old.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 443349879,
+				"id_str": "443349879",
+				"name": "Patrick Smith",
+				"screen_name": "pksmid",
+				"location": "Chicago/Detroit",
+				"description": "Criminal Justice Reporter for @wbez",
+				"url": "https://t.co/FZkfZS4fcn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FZkfZS4fcn",
+								"expanded_url": "http://www.wbez.org/results?s=Patrick%20Smith",
+								"display_url": "wbez.org/results?s=Patr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3052,
+				"friends_count": 1113,
+				"listed_count": 127,
+				"created_at": "Thu Dec 22 03:00:16 +0000 2011",
+				"favourites_count": 4400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8090,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1707215015/40678_1444483385128_1024414204_31086357_4950463_n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1707215015/40678_1444483385128_1024414204_31086357_4950463_n_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22855,
+			"favorite_count": 74807,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 356,
+		"favorite_count": 912,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is important news and a victory for the movement!!! We filed an amicus brief to prevent this and our attorneys argued against this at the Illinois Supreme Court on March 17th. Click more to read about this: https://t.co/wgJt2LRqu1 https://t.co/OSyXGQK0Wd"
+	},
+	{
 		"created_at": "Tue Jun 16 01:06:33 +0000 2020",
 		"id": 1272680896064340000,
 		"id_str": "1272697037239263237",
