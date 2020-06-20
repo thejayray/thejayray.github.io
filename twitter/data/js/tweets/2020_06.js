@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 16:00:05 +0000 2020",
+		"id": 1274000731331321900,
+		"id_str": "1274009064759009281",
+		"full_text": "Today is Juneteenth, a moment for Black people to celebrate our resilience. It is that will and our ability to build impactful movements of resistance that give shape to what it means to be Black. To be powerful. To be free. Unapologetically. https://t.co/jG6bjYggdU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274000289679499300,
+					"id_str": "1274000289679499264",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea4og3YXYAATk8h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea4og3YXYAATk8h.jpg",
+					"url": "https://t.co/jG6bjYggdU",
+					"display_url": "pic.twitter.com/jG6bjYggdU",
+					"expanded_url": "https://twitter.com/Mvmnt4BlkLives/status/1274000731331321857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274000289679499300,
+					"id_str": "1274000289679499264",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea4og3YXYAATk8h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea4og3YXYAATk8h.jpg",
+					"url": "https://t.co/jG6bjYggdU",
+					"display_url": "pic.twitter.com/jG6bjYggdU",
+					"expanded_url": "https://twitter.com/Mvmnt4BlkLives/status/1274000731331321857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3186878430,
+			"id_str": "3186878430",
+			"name": "Movement 4 Black Lives",
+			"screen_name": "Mvmnt4BlkLives",
+			"location": "Worldwide",
+			"description": "M4BL is a national network of over 150 organizations creating a broad political home for Black people to learn, organize, and take action.",
+			"url": "https://t.co/hOlFKD8lEM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hOlFKD8lEM",
+							"expanded_url": "https://www.sixnineteen.com/",
+							"display_url": "sixnineteen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55868,
+			"friends_count": 657,
+			"listed_count": 385,
+			"created_at": "Wed May 06 18:00:58 +0000 2015",
+			"favourites_count": 2589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267284072360902658/2IFrh7kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267284072360902658/2IFrh7kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3186878430/1591836776",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 278,
+		"favorite_count": 450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is Juneteenth, a moment for Black people to celebrate our resilience. It is that will and our ability to build impactful movements of resistance that give shape to what it means to be Black. To be powerful. To be free. Unapologetically. https://t.co/jG6bjYggdU"
+	},
+	{
+		"created_at": "Fri Jun 19 15:56:34 +0000 2020",
+		"id": 1273979072713052200,
+		"id_str": "1274008181119815681",
+		"full_text": "Defund the police, defend Black communities! This #Juneteenth, it’s more important than ever that we dismantle the racist and ineffective model of American policing. Learn more about how defunding the police works and why we so desperately need it: https://t.co/JLY6f0u5y3 https://t.co/3UnML38dDx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Juneteenth",
+					"indices": [
+						50,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JLY6f0u5y3",
+					"expanded_url": "https://benjerrys.co/37EUU4C",
+					"display_url": "benjerrys.co/37EUU4C",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273979071043682300,
+					"id_str": "1273979071043682304",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea4VNxzXQAAwahs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea4VNxzXQAAwahs.jpg",
+					"url": "https://t.co/3UnML38dDx",
+					"display_url": "pic.twitter.com/3UnML38dDx",
+					"expanded_url": "https://twitter.com/benandjerrys/status/1273979072713052161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 418,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273979071043682300,
+					"id_str": "1273979071043682304",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea4VNxzXQAAwahs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea4VNxzXQAAwahs.jpg",
+					"url": "https://t.co/3UnML38dDx",
+					"display_url": "pic.twitter.com/3UnML38dDx",
+					"expanded_url": "https://twitter.com/benandjerrys/status/1273979072713052161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 418,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18949610,
+			"id_str": "18949610",
+			"name": "Ben & Jerry's",
+			"screen_name": "benandjerrys",
+			"location": "Burlington, VT",
+			"description": "Peace, Love, & Ice Cream",
+			"url": "https://t.co/rQJMm4GkNZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rQJMm4GkNZ",
+							"expanded_url": "http://benjerrys.co/contact-us",
+							"display_url": "benjerrys.co/contact-us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 445640,
+			"friends_count": 70390,
+			"listed_count": 2848,
+			"created_at": "Tue Jan 13 19:32:57 +0000 2009",
+			"favourites_count": 18498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/887388366832107521/k1qJVVve_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/887388366832107521/k1qJVVve_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18949610/1397228573",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21974,
+		"favorite_count": 53209,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Defund the police, defend Black communities! This #Juneteenth, it’s more important than ever that we dismantle the racist and ineffective model of American policing. Learn more about how defunding the police works and why we so desperately need it: https://t.co/JLY6f0u5y3 https://t.co/3UnML38dDx"
+	},
+	{
 		"created_at": "Thu Jun 18 17:22:29 +0000 2020",
 		"id": 1273654635803402200,
 		"id_str": "1273667412815216642",
