@@ -1,6 +1,686 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 22 00:49:12 +0000 2020",
+		"id": 1274758991319642000,
+		"id_str": "1274866996199534594",
+		"full_text": "Rayshard Brooks was a father.\n\nGeorge Floyd was a father.\n\nEric Garner. Sean Bell. Delrawn Smalls. Alton Sterling. Walter Scott. Bobby Gross. Terence Crutcher. Sam Dubose. Oscar Grant. Philando Castile. Donald Ivy. Deonte Dorsey.\n\nThey were fathers too.\n\nMay they rest in Power.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27187343,
+			"id_str": "27187343",
+			"name": "Linda Sarsour",
+			"screen_name": "lsarsour",
+			"location": "Brooklyn, NY",
+			"description": "co-founder, @untilfreedom, Palestinian-Muslim-American organizer from Brooklyn, Author of “We Are Not Here to Be Bystanders” ON SALE NOW, 🌹",
+			"url": "https://t.co/aPwnsHJeGj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aPwnsHJeGj",
+							"expanded_url": "http://www.lindasarsour.com",
+							"display_url": "lindasarsour.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320265,
+			"friends_count": 3513,
+			"listed_count": 2805,
+			"created_at": "Sat Mar 28 05:42:36 +0000 2009",
+			"favourites_count": 6245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 102705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247735974228090880/BNbue7Id_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247735974228090880/BNbue7Id_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27187343/1586318602",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27868,
+		"favorite_count": 72154,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Rayshard Brooks was a father.\n\nGeorge Floyd was a father.\n\nEric Garner. Sean Bell. Delrawn Smalls. Alton Sterling. Walter Scott. Bobby Gross. Terence Crutcher. Sam Dubose. Oscar Grant. Philando Castile. Donald Ivy. Deonte Dorsey.\n\nThey were fathers too.\n\nMay they rest in Power."
+	},
+	{
+		"created_at": "Sun Jun 21 16:32:36 +0000 2020",
+		"id": 1274742020943360000,
+		"id_str": "1274742020943360000",
+		"full_text": "If you work for a business that claims to be data driven in their decision-making, look at this as data that the police don’t need billions in funding nor military equipment. They also don’t need our support with budgets that focus on money instead of people. https://t.co/Sk9CJTTTAB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sk9CJTTTAB",
+					"expanded_url": "https://twitter.com/samswey/status/1274694645046546432",
+					"display_url": "twitter.com/samswey/status…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "This account is now used to amplify the voices of the marginalized. They deserve our attention, respect, and support. #BlackLivesMatter. he/him/his",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 464,
+			"friends_count": 241,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 857,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270885294611607552/JOxG43J8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270885294611607552/JOxG43J8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1591837642",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d7ebfe7dc362c944",
+			"url": "https://api.twitter.com/1.1/geo/id/d7ebfe7dc362c944.json",
+			"place_type": "admin",
+			"name": "MADISON",
+			"full_name": "MADISON",
+			"country_code": "",
+			"country": "",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-91.156894,
+							42.491921
+						],
+						[
+							-88.776225,
+							42.491921
+						],
+						[
+							-88.776225,
+							44.249529
+						],
+						[
+							-91.156894,
+							44.249529
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1274694645046546400,
+		"quoted_status_id_str": "1274694645046546432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Sk9CJTTTAB",
+			"expanded": "https://twitter.com/samswey/status/1274694645046546432",
+			"display": "twitter.com/samswey/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 21 13:24:20 +0000 2020",
+			"id": 1274694645046546400,
+			"id_str": "1274694645046546432",
+			"full_text": "Proportion of 911 calls that are responding to a violent crime:\n\nBaltimore: 0.9%\nChandler: 1%\nCincinnati: 1.2%\nMontgomery County: 0.5%\nNew Orleans: 1%\nPhoenix: 1.8%\nSacramento: 1.4%\nSan Diego: 1%\nSeattle: 1.3%\nTucson: 0.7%\n\nhttps://t.co/WXsTSSR4Jc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WXsTSSR4Jc",
+						"expanded_url": "https://www.nytimes.com/2020/06/19/upshot/unrest-police-time-violent-crime.html",
+						"display_url": "nytimes.com/2020/06/19/ups…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 791077327,
+				"id_str": "791077327",
+				"name": "Samuel Sinyangwe",
+				"screen_name": "samswey",
+				"location": "New York, NY",
+				"description": "Black Activist. Data Scientist & Policy Analyst. Stanford Alum. Co-Founder, Police Scorecard | Mapping Police Violence. Cash: $samswey | IG:samswey",
+				"url": "https://t.co/jV8HvHtE87",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jV8HvHtE87",
+								"expanded_url": "https://policescorecard.org",
+								"display_url": "policescorecard.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 231607,
+				"friends_count": 2541,
+				"listed_count": 2287,
+				"created_at": "Thu Aug 30 07:48:06 +0000 2012",
+				"favourites_count": 37801,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 78815,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/622937073574514688/mugS1Bdm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/622937073574514688/mugS1Bdm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/791077327/1391030043",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1594,
+			"favorite_count": 2396,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you work for a business that claims to be data driven in their decision-making, look at this as data that the police don’t need billions in funding nor military equipment. They also don’t need our support with budgets that focus on money instead of people. https://t.co/Sk9CJTTTAB"
+	},
+	{
+		"created_at": "Sun Jun 21 16:20:31 +0000 2020",
+		"id": 1274738981993885700,
+		"id_str": "1274738981993885699",
+		"full_text": "Happy Father’s Day. https://t.co/5DDN5yvfUK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5DDN5yvfUK",
+					"expanded_url": "https://twitter.com/brihtwulf/status/1274738352227594240",
+					"display_url": "twitter.com/brihtwulf/stat…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "This account is now used to amplify the voices of the marginalized. They deserve our attention, respect, and support. #BlackLivesMatter. he/him/his",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 464,
+			"friends_count": 241,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 857,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270885294611607552/JOxG43J8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270885294611607552/JOxG43J8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1591837642",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d7ebfe7dc362c944",
+			"url": "https://api.twitter.com/1.1/geo/id/d7ebfe7dc362c944.json",
+			"place_type": "admin",
+			"name": "MADISON",
+			"full_name": "MADISON",
+			"country_code": "",
+			"country": "",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-91.156894,
+							42.491921
+						],
+						[
+							-88.776225,
+							42.491921
+						],
+						[
+							-88.776225,
+							44.249529
+						],
+						[
+							-91.156894,
+							44.249529
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1274738352227594200,
+		"quoted_status_id_str": "1274738352227594240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5DDN5yvfUK",
+			"expanded": "https://twitter.com/brihtwulf/status/1274738352227594240",
+			"display": "twitter.com/brihtwulf/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 21 16:18:01 +0000 2020",
+			"id": 1274738352227594200,
+			"id_str": "1274738352227594240",
+			"full_text": "To my fellow white guys:\n\nSaying #BlackLivesMatter doesn't mean yours doesn't. It means you recognize the bad treatment of black folks in our country, and you believe in treating them with dignity. That's all. It's time for change!\n\n#BeKind Be more like this guy... https://t.co/5iUK3vaJpw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BlackLivesMatter",
+						"indices": [
+							33,
+							50
+						]
+					},
+					{
+						"text": "BeKind",
+						"indices": [
+							233,
+							240
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1274738350293946400,
+						"id_str": "1274738350293946368",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/EbDHxpbWkAAYzZZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbDHxpbWkAAYzZZ.jpg",
+						"url": "https://t.co/5iUK3vaJpw",
+						"display_url": "pic.twitter.com/5iUK3vaJpw",
+						"expanded_url": "https://twitter.com/brihtwulf/status/1274738352227594240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 410,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 410,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 410,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1274738350293946400,
+						"id_str": "1274738350293946368",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/EbDHxpbWkAAYzZZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbDHxpbWkAAYzZZ.jpg",
+						"url": "https://t.co/5iUK3vaJpw",
+						"display_url": "pic.twitter.com/5iUK3vaJpw",
+						"expanded_url": "https://twitter.com/brihtwulf/status/1274738352227594240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 410,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 410,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 410,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 894704757327241200,
+				"id_str": "894704757327241216",
+				"name": "Brihtwulf",
+				"screen_name": "brihtwulf",
+				"location": "Michigan, USA",
+				"description": "Political Scientist, Narrator, Educator, former journalist, & Twitch affiliate. RPG/MMORPG/Strategy/Survival - business inquiries: brihtwulf@gmail.com",
+				"url": "https://t.co/rhq4cuMCZo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rhq4cuMCZo",
+								"expanded_url": "http://twitch.tv/Brihtwulf",
+								"display_url": "twitch.tv/Brihtwulf",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1412,
+				"friends_count": 162,
+				"listed_count": 6,
+				"created_at": "Mon Aug 07 23:40:11 +0000 2017",
+				"favourites_count": 4195,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3142,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1210400259593162752/OJASwdhE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210400259593162752/OJASwdhE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/894704757327241216/1535913073",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Father’s Day. https://t.co/5DDN5yvfUK"
+	},
+	{
 		"created_at": "Fri Jun 19 16:00:05 +0000 2020",
 		"id": 1274000731331321900,
 		"id_str": "1274009064759009281",
