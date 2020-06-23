@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 03:21:29 +0000 2020",
+		"id": 1274696579681828900,
+		"id_str": "1275267707815047170",
+		"full_text": "Racists in WI be like \"gO bAcK tO yOur cOuntRy\" and live on Native lands called Oshkosh or Wausau or Sheboygan or Mukwonago or Oconomowoc or Shawano or Weyauwega or Wuakesha or Eau Claire or Prairie du Sac or Suamico or Fond du Lac or Ozaukee or Kenosha or Kaukauna or Milwaukee https://t.co/YpGUh13IQl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YpGUh13IQl",
+					"expanded_url": "https://twitter.com/_chloweezy/status/1274381788723286017",
+					"display_url": "twitter.com/_chloweezy/sta…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 360239219,
+			"id_str": "360239219",
+			"name": "uncle iroh says black lives matter",
+			"screen_name": "ciaratrunnell",
+			"location": "taurus ☼ cap ☾ libra ↑",
+			"description": "me? i'm tight as FUCK $CiaraTrunnell",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 488,
+			"friends_count": 772,
+			"listed_count": 0,
+			"created_at": "Mon Aug 22 22:28:13 +0000 2011",
+			"favourites_count": 28562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273802876301828097/LOI1MBHk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273802876301828097/LOI1MBHk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/360239219/1592538978",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1274381788723286000,
+		"quoted_status_id_str": "1274381788723286017",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YpGUh13IQl",
+			"expanded": "https://twitter.com/_chloweezy/status/1274381788723286017",
+			"display": "twitter.com/_chloweezy/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 20 16:41:09 +0000 2020",
+			"id": 1274381788723286000,
+			"id_str": "1274381788723286017",
+			"full_text": "Racists in WA be like  “gO bAcK tO YouR coUntRY” and live on Native lands called Puyallup or Snoqualmie or Spokane or Tulalip or Yakima or Sammamish or Mukilteo or Nisqually or Chehalis or Enumclaw or Cle Elum or Issaquah or Tumwater or Wenatchee or https://t.co/YtGGCMlIYd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YtGGCMlIYd",
+						"expanded_url": "https://twitter.com/karladelucas_/status/1274173721805074435",
+						"display_url": "twitter.com/karladelucas_/…",
+						"indices": [
+							250,
+							273
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 315713434,
+				"id_str": "315713434",
+				"name": "Chloweezy🌙",
+				"screen_name": "_xchloemichelle",
+				"location": "",
+				"description": "I hate it here #blacklivesmatter 🏳️‍🌈",
+				"url": "https://t.co/ScNVY4VxD2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ScNVY4VxD2",
+								"expanded_url": "https://blacklivesmatters.carrd.co/",
+								"display_url": "blacklivesmatters.carrd.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1139,
+				"friends_count": 294,
+				"listed_count": 1,
+				"created_at": "Sun Jun 12 09:51:04 +0000 2011",
+				"favourites_count": 19273,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7348,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1220569024548888576/OkKhjKA4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220569024548888576/OkKhjKA4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/315713434/1592382852",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1274173721805074400,
+			"quoted_status_id_str": "1274173721805074435",
+			"quoted_status_permalink": {
+				"url": "https://t.co/YtGGCMlIYd",
+				"expanded": "https://twitter.com/karladelucas_/status/1274173721805074435",
+				"display": "twitter.com/karladelucas_/…"
+			},
+			"retweet_count": 7968,
+			"favorite_count": 19341,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 32,
+		"favorite_count": 56,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Racists in WI be like \"gO bAcK tO yOur cOuntRy\" and live on Native lands called Oshkosh or Wausau or Sheboygan or Mukwonago or Oconomowoc or Shawano or Weyauwega or Wuakesha or Eau Claire or Prairie du Sac or Suamico or Fond du Lac or Ozaukee or Kenosha or Kaukauna or Milwaukee https://t.co/YpGUh13IQl"
+	},
+	{
 		"created_at": "Mon Jun 22 00:49:12 +0000 2020",
 		"id": 1274758991319642000,
 		"id_str": "1274866996199534594",
