@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 18:30:06 +0000 2020",
+		"id": 1275193722767061000,
+		"id_str": "1275496369051107330",
+		"full_text": "Today in quarantine preschool I learned that an octopus has three hearts and nine brains. The toddler is beginning to think that human beings are the least exciting animals.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 472587261,
+			"id_str": "472587261",
+			"name": "Clint Smith",
+			"screen_name": "ClintSmithIII",
+			"location": "",
+			"description": "Writer. Teacher. Emerson Fellow @NewAmerica. Author of Counting Descent (2016) and How the Word Is Passed (2021).",
+			"url": "https://t.co/v22BrldDuy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v22BrldDuy",
+							"expanded_url": "http://www.clintsmithiii.com",
+							"display_url": "clintsmithiii.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367834,
+			"friends_count": 1870,
+			"listed_count": 2834,
+			"created_at": "Tue Jan 24 03:09:01 +0000 2012",
+			"favourites_count": 28795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1024852566230876167/fujyAlLB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024852566230876167/fujyAlLB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/472587261/1573127350",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 213,
+		"favorite_count": 4989,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Today in quarantine preschool I learned that an octopus has three hearts and nine brains. The toddler is beginning to think that human beings are the least exciting animals."
+	},
+	{
+		"created_at": "Tue Jun 23 12:17:46 +0000 2020",
+		"id": 1275263870878220300,
+		"id_str": "1275402669662879744",
+		"full_text": "Report finds not one police department in the 20 largest American cities are compliant with international rights laws\n\nhttps://t.co/gysBJGax2z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gysBJGax2z",
+					"expanded_url": "https://www.theguardian.com/us-news/2020/jun/22/us-police-human-rights-standards-report",
+					"display_url": "theguardian.com/us-news/2020/j…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18400972,
+			"id_str": "18400972",
+			"name": "Jonathan \"Boo and Vote\" Cohn",
+			"screen_name": "JonathanCohn",
+			"location": "Boston, MA.",
+			"description": "Editor. Bibliophile. Gadfly. Environmentalist. Super-volunteer for progressive campaigns.\n\nBoston by way of Baltimore, London, NYC, DC, and Philly.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16687,
+			"friends_count": 7705,
+			"listed_count": 397,
+			"created_at": "Sat Dec 27 03:05:23 +0000 2008",
+			"favourites_count": 318281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 264587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208632006319509504/8yo-rf9b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208632006319509504/8yo-rf9b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18400972/1412020636",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2145,
+		"favorite_count": 3157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Report finds not one police department in the 20 largest American cities are compliant with international rights laws\n\nhttps://t.co/gysBJGax2z"
+	},
+	{
+		"created_at": "Tue Jun 23 12:09:16 +0000 2020",
+		"id": 1273569898535563300,
+		"id_str": "1275400528961376261",
+		"full_text": "Merica 2020 https://t.co/otesfnxMhz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273260930143527000,
+					"id_str": "1273260930143526912",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/EauIEeeWoAAkR5H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EauIEeeWoAAkR5H.jpg",
+					"url": "https://t.co/otesfnxMhz",
+					"display_url": "pic.twitter.com/otesfnxMhz",
+					"expanded_url": "https://twitter.com/reesewaters/status/1273569898535563264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 606,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 606,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273260930143527000,
+					"id_str": "1273260930143526912",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/EauIEeeWoAAkR5H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EauIEeeWoAAkR5H.jpg",
+					"url": "https://t.co/otesfnxMhz",
+					"display_url": "pic.twitter.com/otesfnxMhz",
+					"expanded_url": "https://twitter.com/reesewaters/status/1273569898535563264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 606,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 606,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53002676,
+			"id_str": "53002676",
+			"name": "Reese Waters",
+			"screen_name": "reesewaters",
+			"location": "",
+			"description": "Host GetUpDC Host District of Champions Podcast IG: Reesewaters.",
+			"url": "https://t.co/o9eGUXy8BW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9eGUXy8BW",
+							"expanded_url": "https://podcasts.apple.com/us/podcast/the-district-of-champions-podcast/id1494646342",
+							"display_url": "podcasts.apple.com/us/podcast/the…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27732,
+			"friends_count": 1555,
+			"listed_count": 263,
+			"created_at": "Thu Jul 02 07:37:56 +0000 2009",
+			"favourites_count": 13676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 39447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202662300303478784/4-liyijS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202662300303478784/4-liyijS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53002676/1533640159",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1137,
+		"favorite_count": 3103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Merica 2020 https://t.co/otesfnxMhz"
+	},
+	{
 		"created_at": "Tue Jun 23 03:21:29 +0000 2020",
 		"id": 1274696579681828900,
 		"id_str": "1275267707815047170",
@@ -130,7 +492,7 @@ Grailbird.data.tweets_2020_06 =
 				"name": "Chloweezy🌙",
 				"screen_name": "_xchloemichelle",
 				"location": "",
-				"description": "I hate it here #blacklivesmatter 🏳️‍🌈",
+				"description": "I hate it here #blacklivesmatter 🏳️🌈",
 				"url": "https://t.co/ScNVY4VxD2",
 				"entities": {
 					"url": {
