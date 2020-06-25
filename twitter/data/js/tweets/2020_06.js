@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 25 01:14:00 +0000 2020",
+		"id": 1275617845192339500,
+		"id_str": "1275960399872090115",
+		"full_text": "BREAKING: People are occupying New York City Hall until the police budget deadline (June 30th) to demand defunding of NYPD budget by $1 billion. We need all hands on deck. People, food, water, etc. Please share! https://t.co/STldTb2vTt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1275617266114101200,
+					"id_str": "1275617266114101248",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EbPnJSAWAAACWui.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbPnJSAWAAACWui.jpg",
+					"url": "https://t.co/STldTb2vTt",
+					"display_url": "pic.twitter.com/STldTb2vTt",
+					"expanded_url": "https://twitter.com/AyishaSiddiqa12/status/1275617845192339461/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 868,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 868,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275617266114101200,
+					"id_str": "1275617266114101248",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EbPnJSAWAAACWui.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbPnJSAWAAACWui.jpg",
+					"url": "https://t.co/STldTb2vTt",
+					"display_url": "pic.twitter.com/STldTb2vTt",
+					"expanded_url": "https://twitter.com/AyishaSiddiqa12/status/1275617845192339461/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 868,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 868,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1275617290042642400,
+					"id_str": "1275617290042642436",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EbPnKrJWkAQRR0k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbPnKrJWkAQRR0k.jpg",
+					"url": "https://t.co/STldTb2vTt",
+					"display_url": "pic.twitter.com/STldTb2vTt",
+					"expanded_url": "https://twitter.com/AyishaSiddiqa12/status/1275617845192339461/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 842,
+							"h": 1142,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1170057716167008300,
+			"id_str": "1170057716167008256",
+			"name": "Ayisha",
+			"screen_name": "AyishaSiddiqa12",
+			"location": "",
+			"description": "Social and climate justice advocate. Abolitionist. Co-founder @pollutersout, @Re_EarthOrg\nViews my own.",
+			"url": "https://t.co/XjZALIU7QM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XjZALIU7QM",
+							"expanded_url": "http://pollutersout.org",
+							"display_url": "pollutersout.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2496,
+			"friends_count": 508,
+			"listed_count": 35,
+			"created_at": "Fri Sep 06 19:34:42 +0000 2019",
+			"favourites_count": 10950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273133568999464966/WlIHrlZ9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273133568999464966/WlIHrlZ9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1170057716167008256/1590846874",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1891,
+		"favorite_count": 2386,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BREAKING: People are occupying New York City Hall until the police budget deadline (June 30th) to demand defunding of NYPD budget by $1 billion. We need all hands on deck. People, food, water, etc. Please share! https://t.co/STldTb2vTt"
+	},
+	{
 		"created_at": "Tue Jun 23 18:30:06 +0000 2020",
 		"id": 1275193722767061000,
 		"id_str": "1275496369051107330",
