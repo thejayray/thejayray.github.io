@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 27 03:51:11 +0000 2020",
+		"id": 1276558167225352200,
+		"id_str": "1276724732080140288",
+		"full_text": "Diversity is NOT Equity.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3111413668,
+			"id_str": "3111413668",
+			"name": "drwatson",
+			"screen_name": "terrinwatson",
+			"location": "New York, New York",
+			"description": "Associate Professor of Educational Leadership @CityCollegeNY",
+			"url": "https://t.co/ajJWU9Fp2c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ajJWU9Fp2c",
+							"expanded_url": "https://www.ccny.cuny.edu/profiles/terri-watson",
+							"display_url": "ccny.cuny.edu/profiles/terri…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6404,
+			"friends_count": 534,
+			"listed_count": 55,
+			"created_at": "Tue Mar 24 19:46:34 +0000 2015",
+			"favourites_count": 16645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228169332812734464/uEBYPu0T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228169332812734464/uEBYPu0T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3111413668/1575261557",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 285,
+		"favorite_count": 1407,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Diversity is NOT Equity."
+	},
+	{
 		"created_at": "Fri Jun 26 03:58:35 +0000 2020",
 		"id": 1276348318449352700,
 		"id_str": "1276364206967853061",
