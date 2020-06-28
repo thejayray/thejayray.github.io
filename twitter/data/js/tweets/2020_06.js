@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 28 01:08:30 +0000 2020",
+		"id": 1276598291325767700,
+		"id_str": "1277046179256250369",
+		"full_text": "51 states just doesn’t sound right.  Let’s make it a clean 52 and include Puerto Rico.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313979251,
+			"id_str": "313979251",
+			"name": "steven pasquale",
+			"screen_name": "StevePasquale",
+			"location": "NYC",
+			"description": "Actor, producer, writer, director, teacher, southpaw.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46971,
+			"friends_count": 2637,
+			"listed_count": 302,
+			"created_at": "Thu Jun 09 14:32:16 +0000 2011",
+			"favourites_count": 25304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 38741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256020797501644808/V7-JvaGm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256020797501644808/V7-JvaGm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313979251/1593023461",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22426,
+		"favorite_count": 169334,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "51 states just doesn’t sound right.  Let’s make it a clean 52 and include Puerto Rico."
+	},
+	{
+		"created_at": "Sat Jun 27 18:57:27 +0000 2020",
+		"id": 1275541657082122200,
+		"id_str": "1276952803622244353",
+		"full_text": "Sandra Bland. Breonna Taylor. Atatiana Jefferson. Shantel Davis. Natasha McKenna. Pamela Turner. Alexia Christian.\n\nThese are just a few names you may know. Now imagine how many you've probably never heard before. #SayHerName",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SayHerName",
+					"indices": [
+						214,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 303391538,
+			"id_str": "303391538",
+			"name": "Jasmine",
+			"screen_name": "JasmineLWatkins",
+			"location": "ATL",
+			"description": "social things • @NewhouseSU alum • ΔΣΘ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15278,
+			"friends_count": 737,
+			"listed_count": 188,
+			"created_at": "Sun May 22 19:52:22 +0000 2011",
+			"favourites_count": 984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 52632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271794365829169152/KfKba1yv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271794365829169152/KfKba1yv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/303391538/1586065879",
+			"profile_link_color": "C320CD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Sandra Bland. Breonna Taylor. Atatiana Jefferson. Shantel Davis. Natasha McKenna. Pamela Turner. Alexia Christian.\n\nThese are just a few names you may know. Now imagine how many you've probably never heard before. #SayHerName"
+	},
+	{
+		"created_at": "Sat Jun 27 12:21:56 +0000 2020",
+		"id": 1276656993097314300,
+		"id_str": "1276853268220649473",
+		"full_text": "For everyone claiming that protests caused the #COVID19 surge, here’s the case curve in D.C., site of some of the biggest protests.\n\nMeanwhile, Tom Cotton thinks D.C. isn’t responsible enough to be a state. So let’s check in on Arkansas. https://t.co/whea4v4KrI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1276656990110924800,
+					"id_str": "1276656990110924800",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/EbeYxLuUwAANLA0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbeYxLuUwAANLA0.jpg",
+					"url": "https://t.co/whea4v4KrI",
+					"display_url": "pic.twitter.com/whea4v4KrI",
+					"expanded_url": "https://twitter.com/ChrisLu44/status/1276656993097314306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 627,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 694,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276656990110924800,
+					"id_str": "1276656990110924800",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/EbeYxLuUwAANLA0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbeYxLuUwAANLA0.jpg",
+					"url": "https://t.co/whea4v4KrI",
+					"display_url": "pic.twitter.com/whea4v4KrI",
+					"expanded_url": "https://twitter.com/ChrisLu44/status/1276656993097314306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 627,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 694,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1276656990106710000,
+					"id_str": "1276656990106710016",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/EbeYxLtUcAA202o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbeYxLtUcAA202o.jpg",
+					"url": "https://t.co/whea4v4KrI",
+					"display_url": "pic.twitter.com/whea4v4KrI",
+					"expanded_url": "https://twitter.com/ChrisLu44/status/1276656993097314306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 639,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 461697741,
+			"id_str": "461697741",
+			"name": "Chris Lu",
+			"screen_name": "ChrisLu44",
+			"location": "",
+			"description": "Former Obama WH Cabinet Secretary; Deputy Secretary of Labor; Transition Director | Now: @Miller_Center Fellow; @FiscalNote Advisor",
+			"url": "https://t.co/vjhQwOnGF5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vjhQwOnGF5",
+							"expanded_url": "https://millercenter.org/experts/chris-lu",
+							"display_url": "millercenter.org/experts/chris-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65876,
+			"friends_count": 3518,
+			"listed_count": 679,
+			"created_at": "Thu Jan 12 02:50:29 +0000 2012",
+			"favourites_count": 55181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/739167604514934784/as9mVLOb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/739167604514934784/as9mVLOb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/461697741/1423878868",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1817,
+		"favorite_count": 3844,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For everyone claiming that protests caused the #COVID19 surge, here’s the case curve in D.C., site of some of the biggest protests.\n\nMeanwhile, Tom Cotton thinks D.C. isn’t responsible enough to be a state. So let’s check in on Arkansas. https://t.co/whea4v4KrI"
+	},
+	{
 		"created_at": "Sat Jun 27 03:51:11 +0000 2020",
 		"id": 1276558167225352200,
 		"id_str": "1276724732080140288",
