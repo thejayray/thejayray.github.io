@@ -1,6 +1,1624 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 29 02:57:17 +0000 2020",
+		"id": 1277373799399395300,
+		"id_str": "1277435942844989441",
+		"full_text": "Ours went like this:\nInitial post: “Someone was robbed!”\nReplies:\n“This is why I conceal carry”\n“One of these times these (racist euphemism) are going to pick the wrong person.”\n“When is this going to end?!”\n“This is why I moved to &lt;godforsaken suburb&gt;”\nLiterally every thread",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1277372782125428700,
+		"in_reply_to_status_id_str": "1277372782125428739",
+		"in_reply_to_user_id": 1628721,
+		"in_reply_to_user_id_str": "1628721",
+		"in_reply_to_screen_name": "cmcfadden",
+		"user": {
+			"id": 1628721,
+			"id_str": "1628721",
+			"name": "Colin McFadden",
+			"screen_name": "cmcfadden",
+			"location": "55105",
+			"description": "less than the sum of my parts",
+			"url": "http://t.co/bXlR1jA6zA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bXlR1jA6zA",
+							"expanded_url": "http://www.colinmcfadden.com",
+							"display_url": "colinmcfadden.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 855,
+			"friends_count": 1013,
+			"listed_count": 51,
+			"created_at": "Tue Mar 20 13:55:11 +0000 2007",
+			"favourites_count": 1498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/726986619278909440/zZQJ_fvN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/726986619278909440/zZQJ_fvN_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				44.93417358,
+				-93.14847387
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-93.14847387,
+				44.93417358
+			]
+		},
+		"place": {
+			"id": "60e2c37980197297",
+			"url": "https://api.twitter.com/1.1/geo/id/60e2c37980197297.json",
+			"place_type": "city",
+			"name": "St Paul",
+			"full_name": "St Paul, MN",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-93.207783,
+							44.8907521
+						],
+						[
+							-93.003514,
+							44.8907521
+						],
+						[
+							-93.003514,
+							44.992279
+						],
+						[
+							-93.207783,
+							44.992279
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Ours went like this:\nInitial post: “Someone was robbed!”\nReplies:\n“This is why I conceal carry”\n“One of these times these (racist euphemism) are going to pick the wrong person.”\n“When is this going to end?!”\n“This is why I moved to &lt;godforsaken suburb&gt;”\nLiterally every thread"
+	},
+	{
+		"created_at": "Sun Jun 28 22:23:49 +0000 2020",
+		"id": 1277367123384455200,
+		"id_str": "1277367123384455169",
+		"full_text": "@kbaxter I’m beginning to suspect this administration would be better off without it.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kbaxter",
+					"name": "Kyle Baxter",
+					"id": 14149882,
+					"id_str": "14149882",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1277365257543929900,
+		"in_reply_to_status_id_str": "1277365257543929856",
+		"in_reply_to_user_id": 14149882,
+		"in_reply_to_user_id_str": "14149882",
+		"in_reply_to_screen_name": "kbaxter",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "This account is now used to amplify the voices of BIPOC. They deserve our attention, respect, and support. #BlackLivesMatter. he/him/his",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 464,
+			"friends_count": 249,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275271951901212673/LP7lEJQc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275271951901212673/LP7lEJQc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1592883622",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kbaxter I’m beginning to suspect this administration would be better off without it."
+	},
+	{
+		"created_at": "Sun Jun 28 22:12:27 +0000 2020",
+		"id": 1277364264932696000,
+		"id_str": "1277364264932696064",
+		"full_text": "Responsibility. What’s that, @kbaxter? https://t.co/4LXirsTW6D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kbaxter",
+					"name": "Kyle Baxter",
+					"id": 14149882,
+					"id_str": "14149882",
+					"indices": [
+						29,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4LXirsTW6D",
+					"expanded_url": "https://twitter.com/kbaxter/status/1277349943334834176",
+					"display_url": "twitter.com/kbaxter/status…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "This account is now used to amplify the voices of BIPOC. They deserve our attention, respect, and support. #BlackLivesMatter. he/him/his",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 464,
+			"friends_count": 249,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275271951901212673/LP7lEJQc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275271951901212673/LP7lEJQc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1592883622",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1277349943334834200,
+		"quoted_status_id_str": "1277349943334834176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4LXirsTW6D",
+			"expanded": "https://twitter.com/kbaxter/status/1277349943334834176",
+			"display": "twitter.com/kbaxter/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 28 21:15:33 +0000 2020",
+			"id": 1277349943334834200,
+			"id_str": "1277349943334834176",
+			"full_text": "https://t.co/cr7TF7a64M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1277349938913874000,
+						"id_str": "1277349938913873920",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/EboPAHLUEAAO53Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EboPAHLUEAAO53Y.jpg",
+						"url": "https://t.co/cr7TF7a64M",
+						"display_url": "pic.twitter.com/cr7TF7a64M",
+						"expanded_url": "https://twitter.com/kbaxter/status/1277349943334834176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 410,
+								"h": 410,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 410,
+								"h": 410,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 410,
+								"h": 410,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1277349938913874000,
+						"id_str": "1277349938913873920",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/EboPAHLUEAAO53Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EboPAHLUEAAO53Y.jpg",
+						"url": "https://t.co/cr7TF7a64M",
+						"display_url": "pic.twitter.com/cr7TF7a64M",
+						"expanded_url": "https://twitter.com/kbaxter/status/1277349943334834176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 410,
+								"h": 410,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 410,
+								"h": 410,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 410,
+								"h": 410,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14149882,
+				"id_str": "14149882",
+				"name": "Kyle Baxter",
+				"screen_name": "kbaxter",
+				"location": "Southern California, CA",
+				"description": "The lite brite's now black and white. Cause it feels like I've been I've been here before.",
+				"url": "https://t.co/Bdrl2dLkTJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Bdrl2dLkTJ",
+								"expanded_url": "http://tightwind.net/",
+								"display_url": "tightwind.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2294,
+				"friends_count": 1281,
+				"listed_count": 134,
+				"created_at": "Fri Mar 14 22:33:24 +0000 2008",
+				"favourites_count": 18786,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 95995,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1228106768217067520/0gLvAN5m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228106768217067520/0gLvAN5m_normal.jpg",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Responsibility. What’s that, @kbaxter? https://t.co/4LXirsTW6D"
+	},
+	{
+		"created_at": "Sun Jun 28 21:48:39 +0000 2020",
+		"id": 1277171172954816500,
+		"id_str": "1277358275508477962",
+		"full_text": "This breaks my freaking heart and is tragic.. \n\n#EndPoliceBrutality #BlackLivesMatter https://t.co/5iX6OOEyDT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EndPoliceBrutality",
+					"indices": [
+						48,
+						67
+					]
+				},
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						68,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277170805999370200,
+					"id_str": "1277170805999370240",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277170805999370240/pu/img/f1Dt1DMpNRASZlmR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277170805999370240/pu/img/f1Dt1DMpNRASZlmR.jpg",
+					"url": "https://t.co/5iX6OOEyDT",
+					"display_url": "pic.twitter.com/5iX6OOEyDT",
+					"expanded_url": "https://twitter.com/0xUID/status/1277171172954816512/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277170805999370200,
+					"id_str": "1277170805999370240",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277170805999370240/pu/img/f1Dt1DMpNRASZlmR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277170805999370240/pu/img/f1Dt1DMpNRASZlmR.jpg",
+					"url": "https://t.co/5iX6OOEyDT",
+					"display_url": "pic.twitter.com/5iX6OOEyDT",
+					"expanded_url": "https://twitter.com/0xUID/status/1277171172954816512/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 33200,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1277170805999370240/pu/vid/320x320/nDmOvL2lBIB2-pyN.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1277170805999370240/pu/vid/640x640/vx8ceQX9C1WYht6q.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1277170805999370240/pu/pl/XhbaOWuHUBUR2Rbv.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1277170805999370240/pu/vid/480x480/lZuqV_7tw-wbCA-Y.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1913804996,
+			"id_str": "1913804996",
+			"name": "Anis ⣢",
+			"screen_name": "0xUID",
+			"location": "~/home/Anis/",
+			"description": "Formerly @57UN | Formerly staff @tpbdotorg (Stun) | Coffee lover | Runner 🏃| Single Malt Drinker | Father & husband | #infosec | 101% shitposter",
+			"url": "https://t.co/jFoblTtxMo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jFoblTtxMo",
+							"expanded_url": "https://github.com/x0uid",
+							"display_url": "github.com/x0uid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8393,
+			"friends_count": 504,
+			"listed_count": 276,
+			"created_at": "Sat Sep 28 10:34:47 +0000 2013",
+			"favourites_count": 3521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268547869063163909/tI3im0QH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268547869063163909/tI3im0QH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1913804996/1583983358",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3560,
+		"favorite_count": 16492,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This breaks my freaking heart and is tragic.. \n\n#EndPoliceBrutality #BlackLivesMatter https://t.co/5iX6OOEyDT"
+	},
+	{
+		"created_at": "Sun Jun 28 21:15:34 +0000 2020",
+		"id": 1277256952255516700,
+		"id_str": "1277349950230335488",
+		"full_text": "People who chant \"white power\" are white supremacists. People who retweet and encourage \"white power\" chants are white supremacists. The President is a white supremacist. This is not complicated.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149626146,
+			"id_str": "149626146",
+			"name": "Leah Greenberg",
+			"screen_name": "Leahgreenb",
+			"location": "",
+			"description": "Co-Executive Director, @IndivisibleTeam. If you find my headphones, let me know.",
+			"url": "https://t.co/JENZ9MAQ9K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JENZ9MAQ9K",
+							"expanded_url": "http://www.indivisibleguide.com",
+							"display_url": "indivisibleguide.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48450,
+			"friends_count": 2328,
+			"listed_count": 456,
+			"created_at": "Sat May 29 19:43:40 +0000 2010",
+			"favourites_count": 16705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267542852873129985/C8UUdxT4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267542852873129985/C8UUdxT4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/149626146/1577160037",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1729,
+		"favorite_count": 5869,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "People who chant \"white power\" are white supremacists. People who retweet and encourage \"white power\" chants are white supremacists. The President is a white supremacist. This is not complicated."
+	},
+	{
+		"created_at": "Sun Jun 28 21:11:18 +0000 2020",
+		"id": 1277294539653275600,
+		"id_str": "1277348875658035201",
+		"full_text": "This made me angry. And sad. But more importantly, proud. \n\nThanks to Mr. #PearlFryar for this radical inspiration. \n\nThere’s a beautiful doc about him called “A Man Named Pearl.” And Henry, I’m ready when you are. https://t.co/dHqZzK2itw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PearlFryar",
+					"indices": [
+						74,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dHqZzK2itw",
+					"expanded_url": "https://twitter.com/aishahinds/status/1277281282527883264",
+					"display_url": "twitter.com/aishahinds/sta…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14982804,
+			"id_str": "14982804",
+			"name": "Ava DuVernay",
+			"screen_name": "ava",
+			"location": "Fourth World",
+			"description": "When They See Us, 13th, Wrinkle in Time, Queen Sugar, Selma, Middle of Nowhere, Venus VS, I Will Follow, My Mic Sounds Nice, This is The Life",
+			"url": "https://t.co/UOD1aQV0xC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UOD1aQV0xC",
+							"expanded_url": "http://www.arraynow.com",
+							"display_url": "arraynow.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2602314,
+			"friends_count": 13572,
+			"listed_count": 5374,
+			"created_at": "Mon Jun 02 17:53:54 +0000 2008",
+			"favourites_count": 179808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 47204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152474246347546624/GZvz1VgD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152474246347546624/GZvz1VgD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14982804/1591681937",
+			"profile_link_color": "333133",
+			"profile_sidebar_border_color": "696969",
+			"profile_sidebar_fill_color": "948B94",
+			"profile_text_color": "380538",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1277281282527883300,
+		"quoted_status_id_str": "1277281282527883264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dHqZzK2itw",
+			"expanded": "https://twitter.com/aishahinds/status/1277281282527883264",
+			"display": "twitter.com/aishahinds/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 28 16:42:43 +0000 2020",
+			"id": 1277281282527883300,
+			"id_str": "1277281282527883264",
+			"full_text": "Wishlist: Oh that @ava would call @HenryGSanders and gift us #PearlFryar’s transcendent story of black brilliance and beauty told by us for us. https://t.co/VS464FuAqw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PearlFryar",
+						"indices": [
+							61,
+							72
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ava",
+						"name": "Ava DuVernay",
+						"id": 14982804,
+						"id_str": "14982804",
+						"indices": [
+							18,
+							22
+						]
+					},
+					{
+						"screen_name": "HenryGSanders",
+						"name": "Henry G Sanders",
+						"id": 2964179612,
+						"id_str": "2964179612",
+						"indices": [
+							34,
+							48
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1277281211191136300,
+						"id_str": "1277281211191136256",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277281211191136256/pu/img/3OmeEGtI1VTYaLTr.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277281211191136256/pu/img/3OmeEGtI1VTYaLTr.jpg",
+						"url": "https://t.co/VS464FuAqw",
+						"display_url": "pic.twitter.com/VS464FuAqw",
+						"expanded_url": "https://twitter.com/AishaHinds/status/1277281282527883264/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1277281211191136300,
+						"id_str": "1277281211191136256",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277281211191136256/pu/img/3OmeEGtI1VTYaLTr.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277281211191136256/pu/img/3OmeEGtI1VTYaLTr.jpg",
+						"url": "https://t.co/VS464FuAqw",
+						"display_url": "pic.twitter.com/VS464FuAqw",
+						"expanded_url": "https://twitter.com/AishaHinds/status/1277281282527883264/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								40,
+								71
+							],
+							"duration_millis": 45001,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1277281211191136256/pu/vid/320x568/Gr8ZBeuDc1SOzzYc.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1277281211191136256/pu/vid/360x638/XcQGaOn4uBI6jRn5.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1277281211191136256/pu/vid/640x1136/QhXROk6KTsdKkP4L.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1277281211191136256/pu/pl/xJE21PA-Ioh0PEWS.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 205850272,
+				"id_str": "205850272",
+				"name": "Aisha Hinds",
+				"screen_name": "AishaHinds",
+				"location": "pressing towards the mark",
+				"description": "Ai AM.",
+				"url": "http://t.co/eRXu0PN5pt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/eRXu0PN5pt",
+								"expanded_url": "http://www.imdb.com/name/nm1490300/",
+								"display_url": "imdb.com/name/nm1490300/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43625,
+				"friends_count": 1410,
+				"listed_count": 262,
+				"created_at": "Thu Oct 21 18:54:42 +0000 2010",
+				"favourites_count": 19680,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17601,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/655044019857129472/1YrvFx3q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/655044019857129472/1YrvFx3q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/205850272/1425105021",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 144,
+			"favorite_count": 739,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 282,
+		"favorite_count": 1566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This made me angry. And sad. But more importantly, proud. \n\nThanks to Mr. #PearlFryar for this radical inspiration. \n\nThere’s a beautiful doc about him called “A Man Named Pearl.” And Henry, I’m ready when you are. https://t.co/dHqZzK2itw"
+	},
+	{
+		"created_at": "Sun Jun 28 20:54:56 +0000 2020",
+		"id": 1276970165217849300,
+		"id_str": "1277344755886817287",
+		"full_text": ".@DHSgov continues to topple ancient saguaro cactuses for #BorderWall construction at Organ Pipe. An arm on this giant had just started to fruit before it was bulldozed over. \n\nSaguaros are deeply sacred to the Tohono O’odham, who have fought the wall strenuously from day one. https://t.co/hirg3Jlz9m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BorderWall",
+					"indices": [
+						58,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DHSgov",
+					"name": "Homeland Security",
+					"id": 15647676,
+					"id_str": "15647676",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1276969989560361000,
+					"id_str": "1276969989560360960",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1276969989560360960/pu/img/ZpLyQNIYnztV1kYX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1276969989560360960/pu/img/ZpLyQNIYnztV1kYX.jpg",
+					"url": "https://t.co/hirg3Jlz9m",
+					"display_url": "pic.twitter.com/hirg3Jlz9m",
+					"expanded_url": "https://twitter.com/LaikenJordahl/status/1276970165217849344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276969989560361000,
+					"id_str": "1276969989560360960",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1276969989560360960/pu/img/ZpLyQNIYnztV1kYX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1276969989560360960/pu/img/ZpLyQNIYnztV1kYX.jpg",
+					"url": "https://t.co/hirg3Jlz9m",
+					"display_url": "pic.twitter.com/hirg3Jlz9m",
+					"expanded_url": "https://twitter.com/LaikenJordahl/status/1276970165217849344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25822,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1276969989560360960/pu/vid/640x360/GO7ExgCtZtXcAix1.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1276969989560360960/pu/pl/Xg5aL5sZs8FxNVMp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1276969989560360960/pu/vid/480x270/8pGnB9g7vVLTsaqc.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1276969989560360960/pu/vid/1280x720/iaIEnSrZ8Vwd0Kg2.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2310862562,
+			"id_str": "2310862562",
+			"name": "Laiken Jordahl",
+			"screen_name": "LaikenJordahl",
+			"location": "Occupied O'odham lands, AZ",
+			"description": "Fighting the #borderwall & all it represents w @centerforbiodiv. Fmr trail builder, clam farmer & @natlparkservice wilderness fellow. #NoBorderWall #StopTheWall",
+			"url": "https://t.co/2TTv8cDk5w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2TTv8cDk5w",
+							"expanded_url": "http://nowall.org",
+							"display_url": "nowall.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12330,
+			"friends_count": 3377,
+			"listed_count": 118,
+			"created_at": "Sat Jan 25 23:28:00 +0000 2014",
+			"favourites_count": 12582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246232395038093312/PaRR9-xJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246232395038093312/PaRR9-xJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2310862562/1581433953",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15169,
+		"favorite_count": 32476,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@DHSgov continues to topple ancient saguaro cactuses for #BorderWall construction at Organ Pipe. An arm on this giant had just started to fruit before it was bulldozed over. \n\nSaguaros are deeply sacred to the Tohono O’odham, who have fought the wall strenuously from day one. https://t.co/hirg3Jlz9m"
+	},
+	{
+		"created_at": "Sun Jun 28 16:55:58 +0000 2020",
+		"id": 1277278501125738500,
+		"id_str": "1277284617511407616",
+		"full_text": "Section 5 of the Louisville police union contract *prohibits any reduction in the size of the police force.* The contract expires 12/31/20 and if the city doesn’t remove this provision it’ll likely remain in effect for another 2-5 years. https://t.co/48vED9cCMR https://t.co/vVgTcOZwuu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/48vED9cCMR",
+					"expanded_url": "https://louisvilleky.gov/sites/default/files/human_resources/contracts/u47_fop_police_officers_and_sergeants.pdf",
+					"display_url": "louisvilleky.gov/sites/default/…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1277278498357461000,
+					"id_str": "1277278498357460992",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/EbnOBuXXQAA0o2d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbnOBuXXQAA0o2d.jpg",
+					"url": "https://t.co/vVgTcOZwuu",
+					"display_url": "pic.twitter.com/vVgTcOZwuu",
+					"expanded_url": "https://twitter.com/samswey/status/1277278501125738496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 891,
+							"h": 226,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 172,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 891,
+							"h": 226,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277278498357461000,
+					"id_str": "1277278498357460992",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/EbnOBuXXQAA0o2d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbnOBuXXQAA0o2d.jpg",
+					"url": "https://t.co/vVgTcOZwuu",
+					"display_url": "pic.twitter.com/vVgTcOZwuu",
+					"expanded_url": "https://twitter.com/samswey/status/1277278501125738496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 891,
+							"h": 226,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 172,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 891,
+							"h": 226,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 791077327,
+			"id_str": "791077327",
+			"name": "Samuel Sinyangwe",
+			"screen_name": "samswey",
+			"location": "New York, NY",
+			"description": "Black Activist. Data Scientist & Policy Analyst. Stanford Alum. Co-Founder, Police Scorecard | Mapping Police Violence. Cash: $samswey | IG:samswey",
+			"url": "https://t.co/jV8HvHtE87",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jV8HvHtE87",
+							"expanded_url": "https://policescorecard.org",
+							"display_url": "policescorecard.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 232526,
+			"friends_count": 2572,
+			"listed_count": 2293,
+			"created_at": "Thu Aug 30 07:48:06 +0000 2012",
+			"favourites_count": 37894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 78939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/622937073574514688/mugS1Bdm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/622937073574514688/mugS1Bdm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/791077327/1391030043",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 376,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Section 5 of the Louisville police union contract *prohibits any reduction in the size of the police force.* The contract expires 12/31/20 and if the city doesn’t remove this provision it’ll likely remain in effect for another 2-5 years. https://t.co/48vED9cCMR https://t.co/vVgTcOZwuu"
+	},
+	{
 		"created_at": "Sun Jun 28 01:08:30 +0000 2020",
 		"id": 1276598291325767700,
 		"id_str": "1277046179256250369",
