@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 18:06:38 +0000 2020",
+		"id": 1280120067989135400,
+		"id_str": "1280563893983752193",
+		"full_text": "Meanwhile Africans and Asians been carrying entire babies with a cloth since the beginning of time https://t.co/ukvdPsTVAJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ukvdPsTVAJ",
+					"expanded_url": "https://twitter.com/peaceo__/status/1280115772812070912",
+					"display_url": "twitter.com/peaceo__/statu…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3044351757,
+			"id_str": "3044351757",
+			"name": "contentress",
+			"screen_name": "LonelyScribe",
+			"location": "SOUTH LONDON",
+			"description": "Don’t take me too seriously. Contact: Paulineaphiaam@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 586,
+			"listed_count": 19,
+			"created_at": "Wed Feb 18 04:20:37 +0000 2015",
+			"favourites_count": 23701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275463477239349248/vyuHXDuz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275463477239349248/vyuHXDuz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3044351757/1585050804",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280115772812071000,
+		"quoted_status_id_str": "1280115772812070912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ukvdPsTVAJ",
+			"expanded": "https://twitter.com/peaceo__/status/1280115772812070912",
+			"display": "twitter.com/peaceo__/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 06 12:25:58 +0000 2020",
+			"id": 1280115772812071000,
+			"id_str": "1280115772812070912",
+			"full_text": "huh? these people really don’t know anything  https://t.co/eOP8CsaC1w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1278699405680337000,
+						"id_str": "1278699405680336896",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278699405680336896/pu/img/CWF67dNC2cJq7-Kz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278699405680336896/pu/img/CWF67dNC2cJq7-Kz.jpg",
+						"url": "https://t.co/eOP8CsaC1w",
+						"display_url": "pic.twitter.com/eOP8CsaC1w",
+						"expanded_url": "https://twitter.com/xviiviism/status/1278699454615425031/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1278699454615425000,
+						"source_status_id_str": "1278699454615425031",
+						"source_user_id": 1139281486446809100,
+						"source_user_id_str": "1139281486446809088"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1278699405680337000,
+						"id_str": "1278699405680336896",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278699405680336896/pu/img/CWF67dNC2cJq7-Kz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278699405680336896/pu/img/CWF67dNC2cJq7-Kz.jpg",
+						"url": "https://t.co/eOP8CsaC1w",
+						"display_url": "pic.twitter.com/eOP8CsaC1w",
+						"expanded_url": "https://twitter.com/xviiviism/status/1278699454615425031/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1278699454615425000,
+						"source_status_id_str": "1278699454615425031",
+						"source_user_id": 1139281486446809100,
+						"source_user_id_str": "1139281486446809088",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 17600,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1278699405680336896/pu/vid/360x640/S04amQ0GtgrnAVnn.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1278699405680336896/pu/pl/SfVkBA3SzcvNYAEA.m3u8?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1278699405680336896/pu/vid/320x568/s85IS6nBwJdy6sm2.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1278699405680336896/pu/vid/576x1024/q8mjeik7jx3HMhYq.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1139281486446809100,
+								"id_str": "1139281486446809088",
+								"name": "ur wce 🦋",
+								"screen_name": "xviiviism",
+								"location": "bermuda triangle ",
+								"description": "i dont wanna be mates wiv u oryt. https://t.co/6EfDRR5qeB",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/6EfDRR5qeB",
+												"expanded_url": "https://www.paypal.me/xviiviism",
+												"display_url": "paypal.me/xviiviism",
+												"indices": [
+													34,
+													57
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 5507,
+								"friends_count": 1958,
+								"listed_count": 5,
+								"created_at": "Thu Jun 13 21:20:48 +0000 2019",
+								"favourites_count": 32309,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 14926,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1267897528474898434/dkxI7T1X_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267897528474898434/dkxI7T1X_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139281486446809088/1590597996",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3436772021,
+				"id_str": "3436772021",
+				"name": "if you no get money, hide your face",
+				"screen_name": "peaceo__",
+				"location": "Manchester",
+				"description": "🇳🇬 | ceo of @peacescupcakes🧁 | founder of @eatsntreatsbox 💌 | food blog: insidetheoutsides (ig)🍔 | IG: peaceo__",
+				"url": "https://t.co/U4eZVx87aQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U4eZVx87aQ",
+								"expanded_url": "https://eatsntreatsbox.com",
+								"display_url": "eatsntreatsbox.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3055,
+				"friends_count": 2266,
+				"listed_count": 1,
+				"created_at": "Sun Aug 23 14:30:24 +0000 2015",
+				"favourites_count": 73567,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17307,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1279138387790827524/OPXE5JcR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279138387790827524/OPXE5JcR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3436772021/1589733565",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4889,
+			"favorite_count": 28457,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 31763,
+		"favorite_count": 148763,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meanwhile Africans and Asians been carrying entire babies with a cloth since the beginning of time https://t.co/ukvdPsTVAJ"
+	},
+	{
 		"created_at": "Mon Jul 06 22:02:45 +0000 2020",
 		"id": 1280258667254866000,
 		"id_str": "1280260924818014209",
