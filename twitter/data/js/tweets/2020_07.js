@@ -1,6 +1,748 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 17 03:23:16 +0000 2020",
+		"id": 1283523983065874400,
+		"id_str": "1283965465719721985",
+		"full_text": "This kid cries because he got a bat from his father for his birthday.. \nThen....\n Wait for it ❣️❣️👊\n\n https://t.co/w67OgvibKI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274768225675477000,
+					"id_str": "1274768225675476996",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EbDjBEMWAAUU9KZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EbDjBEMWAAUU9KZ.png",
+					"url": "https://t.co/w67OgvibKI",
+					"display_url": "pic.twitter.com/w67OgvibKI",
+					"expanded_url": "https://twitter.com/espn/status/1274768307946741760/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 719,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1274768307946741800,
+					"source_status_id_str": "1274768307946741760",
+					"source_user_id": 2557521,
+					"source_user_id_str": "2557521"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274768225675477000,
+					"id_str": "1274768225675476996",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EbDjBEMWAAUU9KZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EbDjBEMWAAUU9KZ.png",
+					"url": "https://t.co/w67OgvibKI",
+					"display_url": "pic.twitter.com/w67OgvibKI",
+					"expanded_url": "https://twitter.com/espn/status/1274768307946741760/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 719,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1274768307946741800,
+					"source_status_id_str": "1274768307946741760",
+					"source_user_id": 2557521,
+					"source_user_id_str": "2557521",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 88333,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1274768225675476996/vid/320x320/fti61koI9tJoQwoW.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1274768225675476996/pl/rtFuzHnHfyWpBtMp.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1274768225675476996/vid/640x640/fy_oZiMvrR7wHN8V.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1274768225675476996/vid/480x480/31bnrCACHxlD8ERv.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false,
+						"source_user": {
+							"id": 2557521,
+							"id_str": "2557521",
+							"name": "ESPN",
+							"screen_name": "espn",
+							"location": "",
+							"description": "Download the ESPN App ⬇️",
+							"url": "https://t.co/RqqkIx8GI7",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/RqqkIx8GI7",
+											"expanded_url": "http://es.pn/app",
+											"display_url": "es.pn/app",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 35561526,
+							"friends_count": 324,
+							"listed_count": 57506,
+							"created_at": "Tue Mar 27 20:46:16 +0000 2007",
+							"favourites_count": 945,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 113121,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "C8C8C8",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2557521/1592251432",
+							"profile_link_color": "CC0000",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 944918934364590100,
+			"id_str": "944918934364590080",
+			"name": "Trump'sPissingMeOff 🌊😘👠🦸‍♀️.❣️TriggeringMagats",
+			"screen_name": "RetiredMaybe",
+			"location": "",
+			"description": "THE Queen 🤘\nReformed Independent badass successful b!+@, now taking a strong side: Democrat. Retired early, isolated and pissing TrumpOff\n  #TrumpLiesPeopleDie",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19857,
+			"friends_count": 10793,
+			"listed_count": 41,
+			"created_at": "Sun Dec 24 13:13:24 +0000 2017",
+			"favourites_count": 11345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266392574711025666/qqXRQryk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266392574711025666/qqXRQryk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/944918934364590080/1591546162",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17687,
+		"favorite_count": 74809,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This kid cries because he got a bat from his father for his birthday.. \nThen....\n Wait for it ❣️❣️👊\n\n https://t.co/w67OgvibKI"
+	},
+	{
+		"created_at": "Fri Jul 17 03:21:05 +0000 2020",
+		"id": 1283898353948823600,
+		"id_str": "1283964917150822400",
+		"full_text": "Look I’m down to figure out the biggest GoFundMe of all time for these people so they can vote. https://t.co/Mb0tARkl58",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mb0tARkl58",
+					"expanded_url": "https://twitter.com/ajplus/status/1283825438016655361",
+					"display_url": "twitter.com/ajplus/status/…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27384718,
+			"id_str": "27384718",
+			"name": "Matthew A. Cherry",
+			"screen_name": "MatthewACherry",
+			"location": "Los Angeles, CA",
+			"description": "#JusticeForGeorgeFloyd #JusticeForBreonnaTaylor #JusticeForAhmaud #JusticeForTonyMcDade #JusticeForAtatianaJefferson #JusticeForToyin #JusticeForRayshardBrooks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274579,
+			"friends_count": 12608,
+			"listed_count": 1542,
+			"created_at": "Sun Mar 29 05:09:42 +0000 2009",
+			"favourites_count": 116134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 213960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228711450996170752/hD0ZXKlD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228711450996170752/hD0ZXKlD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27384718/1581655229",
+			"profile_link_color": "57A8FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1283825438016655400,
+		"quoted_status_id_str": "1283825438016655361",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Mb0tARkl58",
+			"expanded": "https://twitter.com/ajplus/status/1283825438016655361",
+			"display": "twitter.com/ajplus/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 16 18:06:51 +0000 2020",
+			"id": 1283825438016655400,
+			"id_str": "1283825438016655361",
+			"full_text": "BREAKING: The Supreme Court held in place an order that blocks ex-felons in Florida from voting.\n\nFlorida voted in 2018 to restore voting rights to 774,000 ex-felons, but GOP Governor DeSantis added a rule making them pay court fees first.\n\nCritics call it a poll tax. https://t.co/Eyx2X5i2DQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1283824502359679000,
+						"id_str": "1283824502359678977",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/EdEPlTkXYAExENN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdEPlTkXYAExENN.jpg",
+						"url": "https://t.co/Eyx2X5i2DQ",
+						"display_url": "pic.twitter.com/Eyx2X5i2DQ",
+						"expanded_url": "https://twitter.com/ajplus/status/1283825438016655361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1283824502359679000,
+						"id_str": "1283824502359678977",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/EdEPlTkXYAExENN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdEPlTkXYAExENN.jpg",
+						"url": "https://t.co/Eyx2X5i2DQ",
+						"display_url": "pic.twitter.com/Eyx2X5i2DQ",
+						"expanded_url": "https://twitter.com/ajplus/status/1283825438016655361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110396781,
+				"id_str": "110396781",
+				"name": "AJ+",
+				"screen_name": "ajplus",
+				"location": "",
+				"description": "AJ+ is a unique digital news and storytelling project promoting human rights and equality, holding power to account, and amplifying the voices of the powerless.",
+				"url": "https://t.co/dffekhz2Zn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dffekhz2Zn",
+								"expanded_url": "http://ajplus.co/subtexttwp",
+								"display_url": "ajplus.co/subtexttwp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1145813,
+				"friends_count": 360,
+				"listed_count": 6797,
+				"created_at": "Mon Feb 01 11:53:42 +0000 2010",
+				"favourites_count": 2327,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 83147,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012020793348198401/ohNwCtH9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012020793348198401/ohNwCtH9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110396781/1592502455",
+				"profile_link_color": "6CC5F5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "8F8A89",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 851,
+			"favorite_count": 1024,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1783,
+		"favorite_count": 5415,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look I’m down to figure out the biggest GoFundMe of all time for these people so they can vote. https://t.co/Mb0tARkl58"
+	},
+	{
+		"created_at": "Fri Jul 17 03:18:27 +0000 2020",
+		"id": 1283733426332475400,
+		"id_str": "1283964251766390786",
+		"full_text": "Baby: 1 ~ Dad: 0 😂🕺🏿 (📹: edvanzd/Instagram) https://t.co/H8vtBwCXNX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1283733370510495700,
+					"id_str": "1283733370510495746",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EdC8vrXXsAEdBJu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdC8vrXXsAEdBJu.jpg",
+					"url": "https://t.co/H8vtBwCXNX",
+					"display_url": "pic.twitter.com/H8vtBwCXNX",
+					"expanded_url": "https://twitter.com/Blavity/status/1283733426332475392/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283733370510495700,
+					"id_str": "1283733370510495746",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EdC8vrXXsAEdBJu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdC8vrXXsAEdBJu.jpg",
+					"url": "https://t.co/H8vtBwCXNX",
+					"display_url": "pic.twitter.com/H8vtBwCXNX",
+					"expanded_url": "https://twitter.com/Blavity/status/1283733426332475392/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 58333,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1283733370510495746/vid/640x800/XlLFUd8sC3e3qxWq.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1283733370510495746/pl/0LogHPzyhFzycCQQ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1283733370510495746/vid/320x400/ccAbV35eNC1Ob-1c.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1283733370510495746/vid/360x450/84XC49V1zt_iMZTD.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Dance Off 🕺🏿😂",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2466899838,
+			"id_str": "2466899838",
+			"name": "Blavity News",
+			"screen_name": "Blavity",
+			"location": "Los Angeles, CA",
+			"description": "News about culture for the millennials who drive it. Instagram: @blavity",
+			"url": "https://t.co/CUmFmynfet",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CUmFmynfet",
+							"expanded_url": "http://blavity.com",
+							"display_url": "blavity.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 216975,
+			"friends_count": 28711,
+			"listed_count": 1816,
+			"created_at": "Sun Apr 27 23:44:19 +0000 2014",
+			"favourites_count": 24256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 104713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113141228168548352/tX5oj5V1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113141228168548352/tX5oj5V1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2466899838/1484150851",
+			"profile_link_color": "C49B00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4862,
+		"favorite_count": 22964,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "cs",
+		"text": "Baby: 1 ~ Dad: 0 😂🕺🏿 (📹: edvanzd/Instagram) https://t.co/H8vtBwCXNX"
+	},
+	{
 		"created_at": "Sun Jul 12 20:01:38 +0000 2020",
 		"id": 1282383510892941300,
 		"id_str": "1282404772595802115",
