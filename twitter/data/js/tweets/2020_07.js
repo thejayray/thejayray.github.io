@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 19 04:07:03 +0000 2020",
+		"id": 1284663091704340500,
+		"id_str": "1284701260633997312",
+		"full_text": "Hope those same Mississippi politicians who post about John Lewis also work towards shutting down Parchman Prison.\n\nMr. Lewis spent 37 days imprisoned there. Today, it's notorious for its inhumane conditions. Honor him by doing actual work. This would be a good start. https://t.co/YahXlPytDY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YahXlPytDY",
+					"expanded_url": "https://twitter.com/repjohnlewis/status/1280570353845231620",
+					"display_url": "twitter.com/repjohnlewis/s…",
+					"indices": [
+						269,
+						292
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2329252147,
+			"id_str": "2329252147",
+			"name": "Angie Thomas",
+			"screen_name": "angiecthomas",
+			"location": "Nunya business",
+			"description": "#1 NYT Bestselling author. Next up: CONCRETE ROSE (1/21/21). Producer @atoughactpro. Repped by @byobrooks. She/her. I love Jesus. @pelicansnba’s Drake",
+			"url": "https://t.co/rvynkR7yPn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rvynkR7yPn",
+							"expanded_url": "http://www.angiethomas.com",
+							"display_url": "angiethomas.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 125125,
+			"friends_count": 3805,
+			"listed_count": 863,
+			"created_at": "Wed Feb 05 19:23:55 +0000 2014",
+			"favourites_count": 129293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253543185315434496/KkQDvewO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253543185315434496/KkQDvewO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2329252147/1513016257",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280570353845231600,
+		"quoted_status_id_str": "1280570353845231620",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YahXlPytDY",
+			"expanded": "https://twitter.com/repjohnlewis/status/1280570353845231620",
+			"display": "twitter.com/repjohnlewis/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 07 18:32:18 +0000 2020",
+			"id": 1280570353845231600,
+			"id_str": "1280570353845231620",
+			"full_text": "59 years ago today I was released from Parchman Farm Penitentiary after being arrested in Jackson, MS for using a so-called \"white\" restroom during the Freedom Rides of 1961. https://t.co/OUfgeaNDOm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1280570349411864600,
+						"id_str": "1280570349411864577",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EcV_8rKXkAEUW76.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcV_8rKXkAEUW76.jpg",
+						"url": "https://t.co/OUfgeaNDOm",
+						"display_url": "pic.twitter.com/OUfgeaNDOm",
+						"expanded_url": "https://twitter.com/repjohnlewis/status/1280570353845231620/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 522,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 614,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 614,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1280570349411864600,
+						"id_str": "1280570349411864577",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EcV_8rKXkAEUW76.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcV_8rKXkAEUW76.jpg",
+						"url": "https://t.co/OUfgeaNDOm",
+						"display_url": "pic.twitter.com/OUfgeaNDOm",
+						"expanded_url": "https://twitter.com/repjohnlewis/status/1280570353845231620/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 522,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 614,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 614,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29450962,
+				"id_str": "29450962",
+				"name": "John Lewis",
+				"screen_name": "repjohnlewis",
+				"location": "Atlanta, GA",
+				"description": "Congressman, Georgia's Fifth Congressional District",
+				"url": "http://t.co/jkhd3kZYNd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/jkhd3kZYNd",
+								"expanded_url": "http://johnlewis.house.gov",
+								"display_url": "johnlewis.house.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1224922,
+				"friends_count": 146,
+				"listed_count": 5810,
+				"created_at": "Tue Apr 07 13:49:52 +0000 2009",
+				"favourites_count": 2002,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2013,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1289FF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751446634429575169/KWfWsq0W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751446634429575169/KWfWsq0W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29450962/1363708574",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 81054,
+			"favorite_count": 348480,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 67,
+		"favorite_count": 328,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hope those same Mississippi politicians who post about John Lewis also work towards shutting down Parchman Prison.\n\nMr. Lewis spent 37 days imprisoned there. Today, it's notorious for its inhumane conditions. Honor him by doing actual work. This would be a good start. https://t.co/YahXlPytDY"
+	},
+	{
 		"created_at": "Fri Jul 17 03:23:16 +0000 2020",
 		"id": 1283523983065874400,
 		"id_str": "1283965465719721985",
@@ -205,7 +491,7 @@ Grailbird.data.tweets_2020_07 =
 		"user": {
 			"id": 944918934364590100,
 			"id_str": "944918934364590080",
-			"name": "Trump'sPissingMeOff 🌊😘👠🦸‍♀️.❣️TriggeringMagats",
+			"name": "Trump'sPissingMeOff 🌊😘👠🦸♀️.❣️TriggeringMagats",
 			"screen_name": "RetiredMaybe",
 			"location": "",
 			"description": "THE Queen 🤘\nReformed Independent badass successful b!+@, now taking a strong side: Democrat. Retired early, isolated and pissing TrumpOff\n  #TrumpLiesPeopleDie",
