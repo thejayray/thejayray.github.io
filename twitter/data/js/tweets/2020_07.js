@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 19 18:58:51 +0000 2020",
+		"id": 1284641280954376200,
+		"id_str": "1284925688538116104",
+		"full_text": "BLACK. LIVES. MATTER. The fight cannot stop. White folks: We need to listen. We need speak out when we can elevate Black voices. WE NEED TO STAND UP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1284641214319530000,
+		"in_reply_to_status_id_str": "1284641214319529990",
+		"in_reply_to_user_id": 1267482620671164400,
+		"in_reply_to_user_id_str": "1267482620671164416",
+		"in_reply_to_screen_name": "RickAndRollBaby",
+		"user": {
+			"id": 1267482620671164400,
+			"id_str": "1267482620671164416",
+			"name": "Himbos for Abolition",
+			"screen_name": "RickAndRollBaby",
+			"location": "Chicago, IL",
+			"description": "#BlackTransLivesMatter. Tell your alderperson to support #CPACNow! he/him :)) #JusticeForMiracle donate to her GoFundMe below!",
+			"url": "https://t.co/28oNeNa76P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/28oNeNa76P",
+							"expanded_url": "https://www.gofundme.com/f/justice-4-miracle-police-brutality-victim-relief",
+							"display_url": "gofundme.com/f/justice-4-mi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1022,
+			"friends_count": 137,
+			"listed_count": 1,
+			"created_at": "Mon Jun 01 15:46:49 +0000 2020",
+			"favourites_count": 1351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283531617932390401/gijzqHiT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283531617932390401/gijzqHiT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1267482620671164416/1595186631",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 543,
+		"favorite_count": 3917,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BLACK. LIVES. MATTER. The fight cannot stop. White folks: We need to listen. We need speak out when we can elevate Black voices. WE NEED TO STAND UP"
+	},
+	{
 		"created_at": "Sun Jul 19 04:07:03 +0000 2020",
 		"id": 1284663091704340500,
 		"id_str": "1284701260633997312",
