@@ -46,13 +46,12 @@ a {
     color: inherit;
   }
   
-  castle {
+  .castle {
   	height: 20px;
-	}
+  }
 	
-	hover {
+  .castle:hover {
 	  fill: #ce193c;
-	}
   }
 }
 
