@@ -11,7 +11,6 @@ paginate:            1
 baseurl:             "https://thejayray.github.io"
 
 # Assets
-#
 # We specify the directory for Jekyll so we can use @imports.
 sass:
   sass_dir:          _sass
@@ -20,10 +19,12 @@ sass:
 # About/contact
 author:
   name:              Jay Ray
-  url:               https://twitter.com/jayray
+  twitter:           @jayray
+  micro.blog:        @jayray
+  github:            @thejayray
   email:             jayray@engineeredeloquence.com
 
 # Custom vars
-version:             2.0.0
-github:
+version:             4.0.0
+github:              https://github.com/thejayray/
   repo:              https://github.com/thejayray/thejayray.github.io
