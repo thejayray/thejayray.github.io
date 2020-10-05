@@ -8,6 +8,31 @@
           box-sizing: border-box;
 }
 
+/* Headings: Norwester */
+ @font-face {
+	 font-family: 'norwester';
+	 src: 
+		local('norwester'),
+		url('public/fonts/norwester/norwester.otf') 
+		format('opentype');
+}
+/* Subheadings: Kollektif, Regular */
+ @font-face {
+	 font-family: 'kollektif';
+	 src: 
+		local('kollektif'),
+		url('public/fonts/kollektif/Kollektif.ttf') 
+		format('truetype');
+}
+/* Body: Montserrat, Light */
+ @font-face {
+	 font-family: 'montserrat';
+	 src: 
+		local('montserrat'),
+		url('public/fonts/montserrat/Montserrat-Light.otf') 
+		format('opentype');
+}
+
 html,
 body {
   margin: 0;
@@ -15,7 +40,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'montserrat', sans-serif;
   font-size: 16px;
   line-height: 1.5;
 
@@ -48,10 +73,6 @@ a {
   
   .castle {
   	height: 20px;
-  }
-	
-  .castle:hover {
-	color: #ce193c;
   }
 }
 
