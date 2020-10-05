@@ -5,11 +5,11 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Engineered Eloquence   
+tagline:             Read, Think, Share, Repeat
+url:                 https://engineeredeloquence.com
 paginate:            1
-baseurl:             ""
+baseurl:             "https://thejayray.github.io"
 
 # Assets
 #
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Jay Ray
+  url:               https://twitter.com/jayray
+  email:             jayray@engineeredeloquence.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/thejayray/thejayray.github.io
