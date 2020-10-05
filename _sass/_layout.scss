@@ -13,3 +13,10 @@
 footer {
   margin-bottom: 2rem;
 }
+
+/* Color coding */
+.theme-base-08 .container a,
+.theme-base-08 .sidebar-toggle,
+.theme-base-08 .related-posts li a:hover {
+  color: #ce193c;
+}

@@ -2,8 +2,7 @@
 -layout: post
 -title: The Renewal of Engineered Eloquence
 -date: 10/02/2020 15:30:00
--slug: renewal
--permalink: /2020/10/renewal
+-permalink: /2020/10/renewal/
 -tags: post, now
 ---
 
