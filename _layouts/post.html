@@ -7,8 +7,8 @@ layout: default
   <br>
   {{ content }}
   <br>
-  <span>Posted: <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time></span>
-  <a href="{{ site.baseurl }}{{ url }}"><image source="{{ site.baseurl }}/public/logo.svg" /></a>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+  <a href="{{ site.baseurl }}{{ page.url }}"><image src="{{ site.baseurl }}/public/logo.svg" /></a>
 </article>
 
 <hr>
