@@ -4,10 +4,14 @@ layout: default
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+  <br>
   {{ content }}
-  Posted: <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
-  <a href="{{ site.baseurl }}{{ post.url }}"><img source="{{ site.baseurl }}/public/logo.svg"></img></a>
+  <br>
+  <span>Posted: <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time></span>
+  <a href="{{ site.baseurl }}{{ url }}"><image source="{{ site.baseurl }}/public/logo.svg" /></a>
 </article>
+
+<hr>
 
 {% if site.related_posts != empty %}
 <aside class="related">
