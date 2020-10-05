@@ -1,10 +1,10 @@
-----
+---
 -layout: post
 -title: The Renewal of Engineered Eloquence
 -date: 10/02/2020 15:30:00
 -permalink: 2020/10/renewal
 -tags: post, now
-----
+---
 
 I got the Blot renewal notice. It is a small sum, but as these things do, it brought a choice to mind that had a balloon effect. Is it bringing value to my life? Is it bringing value to anyone else's life? Would I be willing to walk away from Engineered Eloquence? This is a microcosm of my minimalist journey.
 
