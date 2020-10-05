@@ -19,9 +19,7 @@ sass:
 # About/contact
 author:
   name:              Jay Ray
-  twitter:           @jayray
-  micro.blog:        @jayray
-  github:            @thejayray
+  url:               https://twitter.com/jayray
   email:             jayray@engineeredeloquence.com
 
 # Custom vars
