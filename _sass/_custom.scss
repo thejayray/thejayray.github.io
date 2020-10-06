@@ -2,7 +2,7 @@
 //
 // Dark Mode (mostly)
 
-.castle a {
+.castle {
   height: 20px;
   text-align: center;
   margin: auto;
@@ -49,7 +49,7 @@
   .banner-light {
 	  display: none;
   }
-  .castle a {
+  .castle {
     fill: red;
   }
   .castle:hover {
