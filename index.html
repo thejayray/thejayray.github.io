@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in paginator.categories.main %}
+  {% for post in site.categories.main %}
   <article class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
@@ -17,7 +17,7 @@ title: Home
   </article>
   {% endfor %}
 </div>
-
+<!--
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
@@ -30,3 +30,4 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+-->
