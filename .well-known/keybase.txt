@@ -1,5 +1,6 @@
-Page: yes
-Menu: no
+—-
+layout: null
+—-
 
 ==================================================================
 https://keybase.io/jayray
