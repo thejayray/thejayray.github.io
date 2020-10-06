@@ -13,7 +13,7 @@ layout: null
     <title><![CDATA[ {{ post.title }} ]]></title>
     <link>{{ site.baseurl }}{{ post.url }}</link>
     <guid>{{ site.baseurl }}{{ post.url }}</guid>
-    <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
     <dc:creator><![CDATA[ {{ site.author.name }} ]]></dc:creator>
     <description><![CDATA[ {{ post.content | xml_escape }} ]]></description>
   </item>
