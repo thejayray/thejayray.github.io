@@ -9,7 +9,9 @@ layout: default
   <br>
   <span>
     <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">Posted: {{ page.date | date_to_string }}</time>
-    <a class="castle" href="{{ site.baseurl }}{{ page.url }}"><image src="{{ site.baseurl }}/public/logo.svg" /></a>
+    <div class="castle">
+    	<a href="{{ site.baseurl }}{{ page.url }}"><image src="{{ site.baseurl }}/public/logo.svg" /></a>
+    </div>
   </span>
 </article>
 
