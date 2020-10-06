@@ -8,7 +8,7 @@
   margin: auto;
 }
 
-.castle: hover {
+.castle:hover {
   fill: red;
 }
 
@@ -48,6 +48,12 @@
   }
   .banner-light {
 	  display: none;
+  }
+  .castle a {
+    fill: red;
+  }
+  .castle:hover {
+    fill: black;
   }
   // Blog post or page title
 	.page-title,
