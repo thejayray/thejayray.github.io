@@ -8,10 +8,6 @@
   margin: auto;
 }
 
-.castle:hover {
-  fill: #CE193C;
-}
-
 .banner-dark {
   display: none;
 }
@@ -49,12 +45,7 @@
   .banner-light {
 	  display: none;
   }
-  .castle {
-    fill: #CE193C;
-  }
-  .castle:hover {
-    fill: black;
-  }
+
   // Blog post or page title
 	.page-title,
 	.post-title,

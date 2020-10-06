@@ -1,10 +1,10 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+<svg class="castle" version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="300.000000pt" height="300.000000pt" viewBox="0 0 300.000000 300.000000"
  preserveAspectRatio="xMidYMid meet">
-<g transform="translate(0.000000,300.000000) scale(0.100000,-0.100000)" stroke="none">
+<g transform="translate(0.000000,300.000000) scale(0.100000,-0.100000)" fill="#CE193C" stroke="none">
 <path d="M508 2484 l-3 -226 109 -96 c60 -54 130 -115 155 -137 25 -22 89 -80
 143 -128 l98 -88 0 -368 0 -368 -102 -89 c-56 -49 -145 -127 -198 -174 -52
 -47 -120 -106 -150 -132 l-55 -48 3 -315 3 -315 989 0 990 0 0 325 0 324 -37
