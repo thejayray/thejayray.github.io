@@ -7,7 +7,7 @@ layout: null
     "title": "{{ site.title }}",
     "home_page_url": "{{ site.baseurl }}",
     "feed_url": "{{ site.baseurl }}/feed.json",
-    "description": "JSON Feed - {{ site.title }} - {{ site.tagline }}",
+    "description": "Micro.blog Feed - {{ site.title }} - {{ site.tagline }}",
     "icon": "{{ site.baseurl }}/logo.png",
     "favicon": "{{ site.baseurl }}/favicon.ico",
     "expired": false,
@@ -16,7 +16,7 @@ layout: null
         "url": "{{ site.baseurl }}"
     },
     "items": [
-        {% for post in site.posts %}
+        {% for post in site.categories.micro %}
         {
             "id": "{{ post.url | absolute_url | sha1 }}",
             "url": "{{ site.baseurl }}{{ post.url }}",
