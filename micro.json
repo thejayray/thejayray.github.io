@@ -16,7 +16,7 @@ layout: null
         "url": "{{ site.baseurl }}"
     },
     "items": [
-        {% for post in site.categories.micro %}
+        {% for post in site.micro %}
         {
             "id": "{{ post.url | absolute_url | sha1 }}",
             "url": "{{ site.baseurl }}{{ post.url }}",

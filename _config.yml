@@ -20,6 +20,9 @@ author:
   url:               https://twitter.com/jayray
   email:             jayray@engineeredeloquence.com
 
+# Other
+timezone:            America/Chicago
+
 # Custom vars
 version:             4.0.0
 github:              https://github.com/thejayray/
