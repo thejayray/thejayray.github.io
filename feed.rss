@@ -8,7 +8,7 @@ layout: null
   <link>{{ site.baseurl }}</link>
   <atom:link href="{{ site.baseurl }}/feed.rss" rel="self" type="application/rss+xml"/>
   <description>RSS Feed - {{ site.title }} - {{ site.tagline }}</description>
- {% for post in site.posts %}
+ {% for post in site.posts limit:10 %}
   <item>
     <title>{{ post.title }}</title>
     <link>{{ site.baseurl }}{{ post.url }}</link>

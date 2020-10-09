@@ -16,7 +16,7 @@ layout: null
         "url": "{{ site.baseurl }}"
     },
     "items": [
-        {% for post in site.posts %}
+        {% for post in site.posts limit:10 %}
         {
             "id": "{{ post.url | absolute_url | sha1 }}",
             "url": "{{ site.baseurl }}{{ post.url }}",
