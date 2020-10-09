@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 03/31/2016
+date: 2016-03-31
 tags: post
 Permalink: /2016/03/on-fighting/
 Tweet: At this time more than any other, we need to stand together and fight the status quo.
