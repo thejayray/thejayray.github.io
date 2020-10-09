@@ -1,9 +1,0 @@
----
-layout: post
-date: May 17, 2018 18:04:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: How to Find Your Ideal Bedtime with the Oura App
----
-
-[How to Find Your Ideal Bedtime with the Oura App](http://bit.ly/2GrMa2E)
-> Oura Crew | May 16, 2018 What is your ideal bedtime? When should you go to bed to wake up refreshed? The new Oura app comes with a bunch of new features that…

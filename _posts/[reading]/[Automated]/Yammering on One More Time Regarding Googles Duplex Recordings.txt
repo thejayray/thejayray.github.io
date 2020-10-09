@@ -1,9 +1,0 @@
----
-layout: post
-date: May 22, 2018 19:21:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: Yammering on One More Time Regarding Google’s Duplex Recordings
----
-
-[Yammering on One More Time Regarding Google’s Duplex Recordings](http://bit.ly/2s5pU9F)
-> Let me just reiterate up front that my suspicions surrounding Google’s Duplex recordings are not suspicions regarding the idea of Duplex itself. If I had to bet…

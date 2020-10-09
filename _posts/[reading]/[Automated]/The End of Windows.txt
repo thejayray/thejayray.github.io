@@ -1,9 +1,0 @@
----
-layout: post
-date: April 2, 2018 11:10:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: The End of Windows
----
-
-[The End of Windows](http://bit.ly/2GsJ2IO)
-> The story of Windows’ decline is relatively straightforward and a classic case of disruption:   The Internet dramatically reduced application lock-in  PCs…

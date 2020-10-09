@@ -1,9 +1,0 @@
----
-layout: post
-date: April 2, 2018 23:59:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: You Asked: What’s the Healthiest Way to Make Popcorn?
----
-
-[You Asked: What’s the Healthiest Way to Make Popcorn?](https://ti.me/2H2S4Jm)
-> TIME Health For more, visit TIME Health. If you’ve ever wondered exactly what happens when a popcorn kernel pops, well, scientific research has the answer. An…

@@ -1,9 +1,0 @@
----
-layout: post
-date: September 17, 2018 22:29:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: Should We Stop Listening to Podcasts?
----
-
-[Should We Stop Listening to Podcasts?](http://bit.ly/2QAyDw9)
-> When you mention time and attention theft, most creators think of Facebook, Twitter, and Instagram (which I call Facebook II). They usually don’t think about…

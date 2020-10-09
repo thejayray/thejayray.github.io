@@ -1,9 +1,0 @@
----
-layout: post
-date: October 19, 2018 20:26:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: Voyager 2 Is Getting Close to Interstellar Space
----
-
-[Voyager 2 Is Getting Close to Interstellar Space](http://bit.ly/2NRf2oS)
-> It appears that Voyager 2 will be following its sibling through one of the ultimate barriers in spaceflight: the border of interstellar space. NASA is reporting…

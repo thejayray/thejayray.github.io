@@ -1,9 +1,0 @@
----
-layout: post
-date: April 28, 2018 06:50:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: Open, Closed, and Privacy
----
-
-[Open, Closed, and Privacy](http://bit.ly/2Hx7bhG)
-> It was eight years ago next month that Vic Gundotra, then-VP of Engineering at Google, delivered a blistering attack on Apple for not being open: 1 On [my]…

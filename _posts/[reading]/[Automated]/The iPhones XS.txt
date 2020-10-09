@@ -1,9 +1,0 @@
----
-layout: post
-date: September 18, 2018 20:10:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: The iPhones XS
----
-
-[The iPhones XS](http://bit.ly/2NRU90D)
-> Three years ago, Phil Schiller was my guest on stage at The Talk Show Live From WWDC 2015 . Nearing the end (skip ahead to just before the 48:00 mark in the…

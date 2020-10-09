@@ -1,9 +1,0 @@
----
-layout: post
-date: May 9, 2018 08:01:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: This Guy Has Lost 105 Pounds and Counting Thanks to His Apple Watch
----
-
-[This Guy Has Lost 105 Pounds and Counting Thanks to His Apple Watch](http://bit.ly/2FZaOYb)
-> We all know the Apple Watch does a lot more than tell time. In Cole Richardson's case, it does a lot more. The 40-year-old IT manager from San Tan Valley,…

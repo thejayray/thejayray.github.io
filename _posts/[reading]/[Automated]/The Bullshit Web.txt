@@ -1,9 +1,0 @@
----
-layout: post
-date: August 13, 2018 20:13:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: The Bullshit Web
----
-
-[The Bullshit Web](http://bit.ly/2MGAqNz)
-> My home computer in 1998 had a 56K modem connected to our telephone line; we were allowed a maximum of thirty minutes of computer usage a day, because my…

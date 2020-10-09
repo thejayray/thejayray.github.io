@@ -1,9 +1,0 @@
----
-layout: post
-date: April 4, 2018 09:40:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: Retweets Are Trash
----
-
-[Retweets Are Trash](https://theatln.tc/2GwD4qi)
-> Acouple of months ago, I made a small tweak to my Twitter account that has changed my experience of the platform. It’s calmer. It’s slower. It’s less…

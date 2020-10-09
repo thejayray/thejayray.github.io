@@ -1,8 +1,0 @@
----
-layout: post
-date: February 26, 2018
-tags: microblog
-title: Good vs. Better at Bad
----
-
-[Good vs. Better at Bad](http://joecieplinski.com/blog/2018/02/14/good-vs-better-at-bad/)
