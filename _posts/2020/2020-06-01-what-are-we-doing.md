@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 06/01/2020 5:33 pm
+date: 2020-06-01 17:33:00
 tags: post
 title: What Are WE Doing?
 ---

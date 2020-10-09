@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 06/14/2020 10:50 pm
+date: 2020-06-14 22:50:00
 Permalink: 2020/06/challenges
 tags: post
 title: The Challenges of 2020
