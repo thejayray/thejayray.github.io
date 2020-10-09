@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2019-11-05 22:21:53
+tags: List, Reading
+title: Tech and Liberty – Stratechery by Ben Thompson
+---
+
+[Tech and Liberty – Stratechery by Ben Thompson](https://stratechery.com/2019/tech-and-liberty/)
+
+**Automated**: This post is just a link to an article I recently read. Click the link above to get to the original and enjoy.
