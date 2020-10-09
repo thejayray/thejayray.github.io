@@ -1,0 +1,9 @@
+---
+layout: post
+date: August 13, 2018 20:34:00
+tags: Link, Reading, Article, IFTTT, Instapaper
+title: Low Power Mode on the Mac – Marco.org
+---
+
+[Low Power Mode on the Mac – Marco.org](http://bit.ly/2BfDKxQ)
+> Laptop battery life is decreasingly relevant to me as more airplanes offer power outlets. But sometimes you lose that lottery, as I did on my latest 8-hour…

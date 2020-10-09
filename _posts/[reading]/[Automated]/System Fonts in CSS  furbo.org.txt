@@ -1,0 +1,9 @@
+---
+layout: post
+date: April 2, 2018 14:23:00
+tags: Link, Reading, Article, IFTTT, Instapaper
+title: System Fonts in CSS • furbo.org
+---
+
+[System Fonts in CSS • furbo.org](http://bit.ly/2InE4cE)
+> About three years ago, I wrote a piece on how to get system fonts in CSS. The San Francisco fonts had just been released and getting them onto a web page wasn’t…

@@ -1,0 +1,9 @@
+---
+layout: post
+date: August 13, 2018 20:25:00
+tags: Link, Reading, Article, IFTTT, Instapaper
+title: Getting to Know a Legacy Codebase – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts
+---
+
+[Getting to Know a Legacy Codebase – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts](http://bit.ly/2OzfEjL)
+> Written by on CSS Wizardry . The other day, Brad dropped me a message asking meabout the topic of getting to know a brand new (specifically CSS) codebase.…

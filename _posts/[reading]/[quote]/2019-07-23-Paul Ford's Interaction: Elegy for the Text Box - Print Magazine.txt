@@ -1,0 +1,14 @@
+---
+layout: post
+date: July 23, 2019 10:05:13
+tags: Link, Reading, Article, Shortcuts
+title: Paul Ford's Interaction: Elegy for the Text Box - Print Magazine
+---
+
+![](/public/assets/hero/20190723-100511.jpeg)
+
+> This is one of those tiny things that are actually a huge deal. For years the web worked in a very sensible way. The role of users was to put things into the box; the role of the web company was to make it look pretty. But now that dynamic has changed, radically. The role of the web company is to make it easy for users to make pretty (or at least sensibly structured, logically arranged) things on their own. No longer do users write, then preview, then publish. Now they just—edit. Which is the same as publishing. And just about everything you see on any website anywhere is, theoretically, editable.
+
+
+>
+> -[Paul Ford's Interaction: Elegy for the Text Box - Print Magazine](https://www.printmag.com/featured/paul-fords-interaction-elegy-for-the-text-box/)

@@ -1,0 +1,18 @@
+---
+layout: post
+date: Sat Nov 13 2010 21:09:40 GMT-0500 (CDT)
+tags: Tumblr Posts, Examiner
+Permalink: /2010/11/how-tablets-will-change-the-face-of-computing
+title: How tablets will change the face of computing
+---
+
+The tablet landscape changed will be drastically different in time for christmas. Since the iPad was announced last January, it has created a new spectrum of computing. There are those who have tried and succeeded to supplant their normal use computers for a single tablet device. The future can only hold more realistic tendencies for these types of compromises. Now, for those in the tech industry who favor the open-source Android platform, the Samsung Galaxy Tab is being released on all four major carriers in the US. Although the reviews of the Tab have been split as to how useful it really is, one thing that continues to be the key of this new segment of the market is user adoption. If the Tab is adopted by the general consumer as the iPad has been thus far, the tablet segment of the market is likely to become a segment that could supplant the laptop computer for the general consumer population. This idea is especially true as these tablets further their abilities with more powerful processors and software.
+
+Before this transformation of the consumer market can be full realized, the consumer market has to be convinced that every task they perform on a standard computer for can be done on these low-powered devices. On a daily basis, the average person consumes video, audio, and text at an alarming rate. Some then take that knowledge and use it, while others simply share the experience via one of many social networking sites and move on. The latter of these two personifications can be considered the majority of the population, which is why sites like Facebook and YouTube are always in high demand. The bottom line is this: if a consumer's general use computer goes toward consumption of media (reading, watching, and listening), a tablet computer is all that is needed from day to day for personal use.
+
+One caveat that may not exist forever involves creation of media. Recently, Marco Arment, creator of Instapaper, stated in an interview with [The Pipeline][1]'s Dan Benjamin that touch devices like the iPad are actually better for certain types of creation than their desktop counterparts. These exercises in creation normally involve drawing or other activities that require fluid movements that a mouse and keyboard will never be able to provide in as well a way as tablet computers. On the other hand, creation that requires keyboard input or minutely defined details may never reach the level of the desktop computer. David Hewson wrote on this subject on his blog with a post entitled, "[Can you write a book on an iPad?][2]" His first two sentences explain his stance on the subject succinctly, "Oh come on. Of course you can’t." This is not the end all, be all of the subject, but puts the current state of the technology into a well-needed perspective.
+
+At the iPad's (and the Galaxy Tab's) current level of user ability, those who work from home are going to find it less than appealing to do their work solely on a tablet device. The abilities are simply not at a level that is useful to those people. However, those who have stand alone computers for their work and are looking for an easy way to consume media at home will find the tablet genre a welcome step in the direction of simplicity. Nevertheless, consumers should keep in mind that caveats will disappear at some point, as these devices become more powerful.
+
+[1]:	http://5by5.tv/pipeline/28
+[2]:	http://davidhewson.com/2010/11/08/can-you-write-a-book-on-an-ipad/

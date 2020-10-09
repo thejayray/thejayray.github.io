@@ -1,0 +1,14 @@
+---
+layout: post
+date: October 21, 2018 08:31:00
+tags: Comment, Link, Reading, Article, Instapaper
+title: I'm Reading “Orwell knew: we willingly buy the screens that are used against us – Henry Cowles | Aeon Ideas”
+---
+
+In a conversation I had recently, I made the comment that there are very few high-pressure sales situations anymore. Technology and the market (or consumers themselves) have decided that those situations are terrible and it is better to order things online and use apps to have interactions with vendors and, more generally, other people. But now consumerism is so easy, so without friction, that the pressure has simply moved from the salesperson to the consumer; we pressure ourselves into having everything we want because it is just a tap, click, or fingerprint away. I always make the comment that any decision is about priority, but so too is every constraint about choice. We all can choose to put our information out there, just as we can choose to keep our own privacy. The problem is that most people are choosing the former.
+
+> What’s most striking about the telescreen’s ubiquity is how right and how wrong Orwell was about our technological present. Screens are not just a part of life today: they are our lives. We interact digitally so often and in such depth that it’s hard for many of us to imagine (or remember) what life used to be like. And now, all that interaction is recorded. Snowden was not the first to point out how far smartphones and social media are from what Orwell imagined. He couldn’t have known how eager we’d be to shrink down our telescreens and carry them with us everywhere we go, or how readily we’d sign over the data we produce to companies that fuel our need to connect. We are at once surrounded by telescreens and so far past them that Orwell couldn’t have seen our world coming.
+>
+>Or could he? Orwell gives us a couple of clues about where telescreens came from, clues that point toward a surprising origin for the totalitarian state that Nineteen Eighty-Four describes. Taking them seriously means looking toward the corporate world rather than to our current governments as the likely source of freedom’s demise. If Orwell was right, consumer choice – indeed, the ideology of choice itself – might be how the erosion of choice really starts.
+>
+>-[ Orwell knew: we willingly buy the screens that are used against us – Henry Cowles | Aeon Ideas](http://bit.ly/2pZrNUy)

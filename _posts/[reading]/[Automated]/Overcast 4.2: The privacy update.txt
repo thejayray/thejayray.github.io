@@ -1,0 +1,9 @@
+---
+layout: post
+date: April 28, 2018 19:37:00
+tags: Link, Reading, Article, IFTTT, Instapaper
+title: Overcast 4.2: The privacy update
+---
+
+[Overcast 4.2: The privacy update](http://bit.ly/2r72ksB)
+> Overcast 4.2 is out now . It enhances privacy in two major areas: Anonymous sync by default Overcast has offered anonymous sync accounts since 2014. They’re…

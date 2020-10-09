@@ -1,0 +1,28 @@
+---
+layout: post
+date: Thu Nov 05 2009 12:03:00 GMT-0600 (CST)
+tags: Tumblr Posts, thought
+Permalink: /2009/11/a-case-for-multiple-devices
+title: A case for multiple devices
+---
+
+Of late, consumers and techies alike are consumed (no pun intended) with the idea of that one device.  No, I am not talking about the Apple Tablet!  I am talking about the one that doesn’t exist anywhere; the device that will, no matter to whom we are referring, satisfy all the needs and wants the user has for it.  People might argue that the iPhone is that device because of the app store and its [100,000 apps](http://www.apple.com/pr/library/2009/11/04appstore.html), but I would argue that the only way to satisfy all the needs and wants of every user is multiple devices.  The iPhone began our race for the “one device to rule them all” because it was able to do so much and what it wasn’t able to do, [there was an app for that](http://www.apple.com/iphone/gallery/ads/).  In this exposition, I would like to touch on a few points in order to make my case for having multiple devices, instead of waiting for that one.
+
+I like to do many things.  I read quite a bit, I write all the time whether for a blog or otherwise, I play games on my wife’s iPod Touch, I work, I… the list goes on.  But because I like doing so many things, I notice more how single devices merely don’t cut it for me.  My technologist curiosities don’t allow me to say that the iPhone OS or Android are the end all of mobile OSes, so I want both for seemingly no reason.  I am intrigued by [Barnes and Noble's Nook](http://www.bn.com/nook/); the recent [Spring Design](http://www.springdesign.com/resource/jsp/products/Products.jsp;jsessionid=9AABEAB3FC742E5300330FCC79FEB58C.standalone) device looks even nicer!  Netbooks offer catch my eye and then I remember that the screens are just that small and I turn back to my 13" MacBook Pro dreams.  But at the end of the day, would I really be able to look at that one device and decide that I was going to use it and only it for all of my needs?  This question raises another more interesting one; How many functions can a device have before it starts to do any one of them at a sub-par level?  Being the Apple junkie that I am, I see that this question is especially true for Apple.  The company is stretched thin and always has been but for the great leadership.  The iPhone OS has thrived and having accrued a vast library of apps for my wife’s iPod Touch, I have an affinity for the device and would like one myself.  But the complaints that I see in merely getting an iPod Touch is that it does not satisfy that one need that could bring it all together: a phone.  I also dislike AT&T and that is stopping me from ever getting the iPhone itself.
+
+So my next question is self-explanatory: What if I don’t like a wireless carrier?  This is a difficulty for many technology savvy people, as we race to get the device we want at the price we want with the coverage we want, not withstanding the arguments made above about the devices capabilities.  I read a Chicago Sun-Times article just this morning talking about the capabilities ([or lack thereof](http://www.suntimes.com/technology/ihnatko/1864473,ihnatko-droid-iphone-commercial-110409.article)) of the Droid on Verizon’s obviously superior network, which merely communicated to me just how difficult these types of decisions are to the economically conscious.  I am teetering on the edge of getting an assortment of devices, which I will list ambiguously momentarily, to do all the things that I would like to be able.
+
+My top five list of ambiguous devices follows:
+
+1.  a phone
+2.  an e-reader
+3.  a mobile internet device
+4.  an ultra-portable laptop
+5.  a camera
+6.  etc.
+
+As I list these desires, one thing comes to mind: “well, couldn’t such and such a device do exactly that?"  (Spoiler: No)
+
+This is a technologist’s dilemma and why most business men carry around an iPhone for play and a Blackberry for work.  When I say I want a phone, I have certain criteria.  When I say I would like an e-reader, the same thing.  As the list goes on and my criteria continues to stack up, they stack up to the detriment of my ever getting an iPhone.  And maybe it is because I do not see the iPhone as an e-reader or a portable laptop, at least when I compare it to the other options on the market.  No matter how much I would try to fool myself into saying that the iPhone’s Kindle or B&N apps take the place of a dedicated e-reading device, I would always know that it was not the dedicated device that would do what I want like the pro it is.
+
+I suppose what this all comes down to is the fact that I would like a phone, an e-reader, and a mobile internet device, but I want three devices that do all three things equally as well (the best of the three categories on the market).  I would love an iPhone without the need to succumb to the reign of AT&T, so that has made my decision in the phone space plain… Android.  I need a device running iPhone OS, however, due to the accrual of the aforementioned library of iPhone apps; check… iPod Touch.  I would like an e-reader with WiFi, an assortment of compatible file formats (including native PDF), a good battery, and a company behind it that isn’t going to die in the coming years.  Am I asking for too much here?  I don’t think so, but please offer suggestions and/or logical criticism!

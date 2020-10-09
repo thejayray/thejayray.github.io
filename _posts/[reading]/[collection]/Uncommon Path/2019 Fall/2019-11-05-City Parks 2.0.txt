@@ -1,0 +1,12 @@
+---
+layout: post
+date: November 5, 2019 16:15:00
+tags: Link, Article
+title: City Parks 2.0
+---
+
+![](/public/assets/hero/20191105-cityparks.jpg)
+
+> Several cities are aiming for spaces that embrace their location and give locals more intersections with the outdoors. In Tulsa, Oklahoma, a new destination blends classic nature features with intricate playgrounds and relaxing nooks. In Atlanta, green spaces woven around a planned transit overhaul ease living, working and commuting in a congested metro area. And in Chicago, a stretch of plants floating in the river wraps educational opportunities into a greenery-laced boardwalk. These aren’t the only unusual green spaces cropping up around the country, but they’re among the leaders in reimagining the city park for a new age.
+> 
+> -Leslie Nemo, [Uncommon Path, Fall 2019](https://www.rei.com/blog/news/uncommon-path-urban-green-spaces)
