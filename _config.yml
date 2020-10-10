@@ -3,7 +3,7 @@ permalink:           /:year/:month/:title/
 
 # Setup
 title:               Engineered Eloquence   
-tagline:             On the road to digital minimalism
+tagline:             Toward technological minimalism
 url:                 https://engineeredeloquence.com
 paginate:            1
 baseurl:             "https://engineeredeloquence.com"
