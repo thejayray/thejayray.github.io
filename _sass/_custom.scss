@@ -45,6 +45,12 @@
   .castle {
       filter: brightness(100%);
   }
+  // Blog post or page title
+	.page-title,
+	.post-title,
+	.post-title a {
+	  color: #CE193C;
+	}
   a {
 	  color: #CE193C;
   }
