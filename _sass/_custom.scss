@@ -24,9 +24,6 @@
   h1, h2, h3, h4, h5, h6 {
   	color: #CE193C;
   }
-  a {
-  	color: #CE193C;
-  }
   img {
     filter: brightness(50%);
   }
@@ -45,11 +42,10 @@
   .banner-light {
 	  display: none;
   }
-
-  // Blog post or page title
-	.page-title,
-	.post-title,
-	.post-title a {
+  .castle {
+      filter: brightness(100%);
+  }
+  a {
 	  color: #CE193C;
-	}
+  }
 }
