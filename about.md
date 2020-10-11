@@ -7,9 +7,9 @@ When I first created this page based off of [Nash's Help page](https://nashp.com
 
 So in the box below, share your thoughts or ask for help. If you would like a response or to be attributed to the comments, share your name and email address, but feel free to remain anonymous. I hope this message finds you well and I hope I can help no matter your current situation.
 
-***Note**: If you'd prefer, you can just [email me][1].
+**Note**: If you'd prefer, you can just [email me][1].
 
-<form class="canvas" action="https://formsubmit.co/jayray@engineeredeloquence.com" method="POST">
+<form action="https://formsubmit.co/jayray@engineeredeloquence.com" method="POST">
     <textarea id="message" type="text" name="message" placeholder="Just start typing." required></textarea>
     <input class="button" type="submit" value="Send">
     <input class="hidden" type="hidden" name="_captcha" value="false">
