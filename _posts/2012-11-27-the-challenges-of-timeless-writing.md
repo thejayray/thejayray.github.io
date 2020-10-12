@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-11-27 15:45:00
+date: 2012-11-27 15:45:00 -0600
 permalink: /2012/11/the-challenges-of-timeless-writing/
 tweet: Personal views on current event reporting and its pitfalls
 tags: post, Writing

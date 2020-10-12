@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Renewal of Engineered Eloquence
-date: 2020-10-02 15:30:00
+date: 2020-10-02 15:30:00 -0600
 permalink: /2020/10/renewal/
 tags: post
 ---
