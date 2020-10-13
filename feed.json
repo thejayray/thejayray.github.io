@@ -5,21 +5,21 @@ layout: null
 {
     "version": "https://jsonfeed.org/version/1.1",
     "title": "{{ site.title }}",
-    "home_page_url": "{{ site.baseurl }}",
-    "feed_url": "{{ site.baseurl }}/feed.json",
-    "description": "JSON Feed - {{ site.title }} - {{ site.tagline }}",
-    "icon": "{{ site.baseurl }}/logo.png",
-    "favicon": "{{ site.baseurl }}/favicon.ico",
+    "home_page_url": "{{ site.url }}",
+    "feed_url": "{{ site.url }}/feed.json",
+    "description": "JSON Feed - {{ site.title }}",
+    "icon": "{{ site.url }}/logo.png",
+    "favicon": "{{ site.url }}/favicon.ico",
     "expired": false,
     "authors": {
         "name": "{{ site.author.name }}",
-        "url": "{{ site.baseurl }}"
+        "url": "{{ site.url }}"
     },
     "items": [
         {% for post in site.posts limit:10 %}
         {
             "id": "{{ post.url | absolute_url | sha1 }}",
-            "url": "{{ site.baseurl }}{{ post.url }}",
+            "url": "{{ site.url }}{{ post.url }}",
             "title": {{ post.title | jsonify }},
             "date_published": "{{ post.date | date_to_xmlschema }}",
             {% if post.date-updated %}
@@ -29,7 +29,7 @@ layout: null
             {% endif %}
             "author": {
                 "name": "{{ site.author.name }}",
-                "url": "{{ site.baseurl }}"
+                "url": "{{ site.url }}"
             },
             "summary": {{ post.excerpt | jsonify }},
             "content_html": {{ post.content | jsonify }},
