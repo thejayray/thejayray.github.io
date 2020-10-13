@@ -5,7 +5,7 @@ permalink:           /:year/:month/:title/
 title:               Engineered Eloquence
 url:                 https://engineeredeloquence.com
 paginate:            1
-baseurl:             "https://engineeredeloquence.com"
+baseurl:             ""
 
 # Assets
 # We specify the directory for Jekyll so we can use @imports.
@@ -26,3 +26,22 @@ timezone:            America/Chicago
 version:             4.0.0
 github:              https://github.com/thejayray/
 repo:                https://github.com/thejayray/thejayray.github.io
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Optimize Jekyll
+include:
+  - _pages
+
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
