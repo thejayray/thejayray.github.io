@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-12-14 11:00:00 -0600
+date: 2018-12-14 11:00:00 -0600
 tags: post, technology, minimalism
 title: A Minimalist in the Tech Industry
 ---
