@@ -5,7 +5,7 @@ permalink:           /:year/:month/:title/
 title:               Engineered Eloquence
 url:                 https://engineeredeloquence.com
 paginate:            1
-baseurl:             ""
+baseurl:             "/"
 
 # Assets
 # We specify the directory for Jekyll so we can use @imports.
