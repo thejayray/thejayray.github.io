@@ -38,6 +38,7 @@ p {
 
 strong {
   color: var(--heading-color);
+  font-size: 1.15rem;
 }
 
 ul, ol, dl {
@@ -57,10 +58,9 @@ hr {
   position: relative;
   margin: var(--spacer-2) 5rem;
   padding: 0 var(--spacer-3);
-  height: 6px;
-  background: var(--gray-900);
+  height: 5px;
+  background: var(--gray-300);
   border: 0;
-  opacity: 0.3;
 }
 
 abbr {
