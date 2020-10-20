@@ -28,10 +28,10 @@
   --blue-400: #4dabf7;
   --yellow-100: #fff3bf;
 
-  --body-font: 'montserrat', -apple-system, sans-serif,  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --body-font: 'montserrat', -apple-system, sans-serif;
   --body-font-size: 16px;
   --body-line-height: 1.5;
-  --body-color: var(--gray-700);
+  --body-color: var(--gray-800);
   --body-bg: #fff;
 
   --link-color: var(--engineered-red);
@@ -56,10 +56,10 @@
     --body-color: var(--gray-300);
     --body-bg: var(--gray-800);
 
-    --heading-color: var(--engineered-red);
+    --heading-color: var(--red);
 
-    --link-color: var(--engineered-red);
-    --link-hover-color: var(--red);
+    --link-color: var(--red);
+    --link-hover-color: var(--engineered-red);
 
     --border-color: rgba(255,255,255,.15);
 
