@@ -1,4 +1,6 @@
 :root {
+  --engineered-red: #d01338;
+
   --gray-000: #f8f9fa;
   --gray-100: #f1f3f5;
   --gray-200: #e9ecef;
@@ -32,8 +34,8 @@
   --body-color: var(--gray-700);
   --body-bg: #fff;
 
-  --link-color: var(--blue);
-  --link-hover-color: #1c7ed6;
+  --link-color: var(--egineered-red);
+  --link-hover-color: var(--red);
 
   --heading-color: var(--gray-900);
 
@@ -54,10 +56,10 @@
     --body-color: var(--gray-300);
     --body-bg: var(--gray-800);
 
-    --heading-color: #fff;
+    --heading-color: var(--engineered-red);
 
-    --link-color: var(--blue-300);
-    --link-hover-color: var(--blue-400);
+    --link-color: var(--egineered-red);
+    --link-hover-color: var(--red);
 
     --border-color: rgba(255,255,255,.15);
 
