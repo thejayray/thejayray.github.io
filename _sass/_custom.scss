@@ -19,24 +19,17 @@
 
 /* Text and background color for dark mode */
 @media (prefers-color-scheme: dark) {
-  body {
-    color: #F8F9F8;
-    background: #222;
-  }
-  h1, h2, h3, h4, h5, h6 {
-  	color: #CE193C;
-  }
   img {
     filter: brightness(50%);
   }
   img:hover {
     filter: brightness(100%);
   }
-  .masthead img{
+  .masthead img {
 	  filter: brightness(100%);
   }
   strong {
-	  color: #F8F9F8;
+	  color: var(--gray-000);
   }
   .banner-dark {
 	  display: block;
@@ -47,16 +40,7 @@
   .castle {
       filter: brightness(100%);
   }
-  // Blog post or page title
-	.page-title,
-	.post-title,
-	.post-title a {
-	  color: #CE193C;
-	}
-  a {
-	  color: #CE193C;
-  }
   hr {
-      background: #e5e5e5;
-  }	
+      background: var(--gray-200);
+  }
 }
