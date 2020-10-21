@@ -7,7 +7,6 @@
   padding-bottom: var(--spacer);
   margin-bottom: var(--spacer-3);
   text-align: left;
-  max-width: 75%;
 }
 
 .masthead-title {
@@ -15,9 +14,10 @@
   color: var(--heading-color);
   font-family: 'kollektif', sans-serif;
   font-size: 3.5rem;
-  line-height: 2rem;
+  line-height: 3rem;
   text-transform: uppercase;
   float: left;
+  max-width: 70%;
   
   a {
     color: inherit;
@@ -33,7 +33,7 @@
 }
 
 .masthead img {
-  width: 25%;
+  width: 30%;
   height: auto;
   float: right;
 }
