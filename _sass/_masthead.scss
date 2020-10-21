@@ -16,6 +16,7 @@
   font-family: 'kollektif', sans-serif;
   font-size: 5rem;
   max-width: 75%;
+  text-transform: uppercase;
   
   a {
     color: inherit;
@@ -32,5 +33,6 @@
 
 .masthead img {
   width: 25%;
-  height: 5rem;
+  height: auto;
+  float: right;
 }
