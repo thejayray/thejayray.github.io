@@ -6,16 +6,16 @@
   padding-top: var(--spacer);
   padding-bottom: var(--spacer);
   margin-bottom: var(--spacer-3);
-  text-align: center;
+  text-align: left;
+  max-width: 75%;
 }
 
 .masthead-title {
   margin-bottom: 0;
   color: var(--heading-color);
-  text-align: left;
   font-family: 'kollektif', sans-serif;
-  font-size: 5rem;
-  max-width: 75%;
+  font-size: 3.5rem;
+  line-height: 1rem;
   text-transform: uppercase;
   
   a {
