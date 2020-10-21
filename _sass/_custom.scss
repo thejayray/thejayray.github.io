@@ -7,12 +7,6 @@
   text-align: center;
   margin: auto;
 }
-.banner-dark {
-  display: none;
-}
-.banner-light {
-  display: block;
-}
 
 /* Text and background color for dark mode */
 @media (prefers-color-scheme: dark) {
@@ -27,12 +21,6 @@
   }
   strong {
 	  color: var(--gray-000);
-  }
-  .banner-dark {
-	  display: block;
-  }
-  .banner-light {
-	  display: none;
   }
   .castle {
       filter: brightness(100%);
