@@ -11,9 +11,12 @@
 
 .masthead-title {
   margin-bottom: 0;
-  color: var(--gray-900);
+  color: var(--heading-color);
   text-align: left;
-
+  font-family: 'kollektif', sans-serif;
+  font-size: 5rem;
+  max-width: 75%;
+  
   a {
     color: inherit;
     text-decoration: none;
