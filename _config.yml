@@ -4,6 +4,7 @@ permalink:           /:year/:month/:title/
 # Setup
 title:               Engineered Eloquence
 url:                 https://engineeredeloquence.com
+tagline:             "Minimalism, Technology, and Parenthood"
 paginate:            1
 baseurl:             "/"
 
