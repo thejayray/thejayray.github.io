@@ -7,7 +7,7 @@ title: Archive
 
 <br>
 
-{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 {% for yearMonth in postsByYearMonth %}
   <h2>{{ yearMonth.name }}</h2>
   <ul>
