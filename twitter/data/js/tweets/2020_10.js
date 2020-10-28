@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 28 03:05:37 +0000 2020",
+		"id": 1321106830563537000,
+		"id_str": "1321286972841873408",
+		"full_text": "Last night, the Supreme Court rejected a pandemic-related request from Democrats &amp; civil rights groups to extend the deadline for counting mail-in ballots in Wisconsin. Looking for a ballot drop box in Wisconsin? Check out https://t.co/oNmMvOeOPD.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oNmMvOeOPD",
+					"expanded_url": "http://wisdems.org/dropbox",
+					"display_url": "wisdems.org/dropbox",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 447239248,
+			"id_str": "447239248",
+			"name": "Kelly McCreary",
+			"screen_name": "KellyMcCreary",
+			"location": "",
+			"description": "Emotional support animal for Motown the Dog.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305888,
+			"friends_count": 675,
+			"listed_count": 502,
+			"created_at": "Mon Dec 26 17:23:20 +0000 2011",
+			"favourites_count": 21018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308191872347549696/i5xuVt1e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308191872347549696/i5xuVt1e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/447239248/1603058191",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last night, the Supreme Court rejected a pandemic-related request from Democrats &amp; civil rights groups to extend the deadline for counting mail-in ballots in Wisconsin. Looking for a ballot drop box in Wisconsin? Check out https://t.co/oNmMvOeOPD."
+	},
+	{
 		"created_at": "Tue Oct 27 01:10:09 +0000 2020",
 		"id": 1320881789779484700,
 		"id_str": "1320895529312755713",
