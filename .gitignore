@@ -3,6 +3,7 @@ _site
 .sass*
 *.lock
 .jekyll-cache
+_drafts
 
 # OS
 .DS_Store
