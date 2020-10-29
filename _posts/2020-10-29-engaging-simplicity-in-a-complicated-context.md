@@ -1,9 +1,9 @@
----
+----
 layout: post
 date: 2020-10-29 07:00:00 -0600
-tags: technology, minimalism, post
+tags: post, technology, minimalism
 title: Engaging Simplicity in a Complicated Context
----
+----
 
 Technology is an inherently complex space by the very nature of the amount of knowledge or information one must have to engage in it properly. Ergo, technological simplification or minimalism is inherently complex, as well. You might even say it is more of an art than a science.
 
