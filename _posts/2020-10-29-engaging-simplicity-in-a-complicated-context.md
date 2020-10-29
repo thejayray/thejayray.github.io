@@ -1,9 +1,9 @@
-----
+---
 layout: post
 date: 2020-10-29 07:00:00 -0600
 tags: post, technology, minimalism
 title: Engaging Simplicity in a Complicated Context
-----
+---
 
 Technology is an inherently complex space by the very nature of the amount of knowledge or information one must have to engage in it properly. Ergo, technological simplification or minimalism is inherently complex, as well. You might even say it is more of an art than a science.
 
@@ -13,7 +13,7 @@ I use the word "technology" generally to reflect the way laypeople might approac
 
 As a good example, cybersecurity for a layperson could simply mean protecting one's passwords (even if "protecting" means using a combination safe or a locked drawer with a sticky note system), but for a deeper contextual understanding of the ins and outs of cybersecurity, a person must have knowledge, experiential or textual, to provide adequate understanding to engage on the topic with confidence.
 
----
+<hr>
 
 ## Previous Writings
 
@@ -27,7 +27,7 @@ From [A Minimalist in the Tech Industry]({% link _posts/2018-12-14-a-minimalist-
 
 Inevitably, I need to do what I have to do for work, but my personal life can be as simple as I need it to be to retain my individuality and teach my children what should be important, especially when their world is wrapped up in screen time constantly with virtual learning.
 
----
+<hr>
 
 This is an introduction to a series of posts about technological simplification broadly writ. I have planned a number of pieces in the series, including discussions of the place of digital media, devices, and the internet in our lives.
 
