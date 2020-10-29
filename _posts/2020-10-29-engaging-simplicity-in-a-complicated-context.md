@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-10-29 07:00:00 -0600
+tags: technology, minimalism, post
 title: Engaging Simplicity in a Complicated Context
 ---
 
@@ -18,7 +19,7 @@ As a good example, cybersecurity for a layperson could simply mean protecting on
 
 As a point of curiosity, I found two pieces that I wrote in 2018 on the phenomenon of technological simplification or minimalism that seemed useful in this context. My perspective is one that is at the intersection of technologist and tech support, so my thoughts are focused on how to simplify technology for support (work-related, to some extent) and how I as a technologist can get away with simplifying my own use of technology (both work and personally relevant).
 
-From [The Need to Simplify Tech Workflows]({% _posts/2018-12-19-09-15-00.txt %}):
+From [The Need to Simplify Tech Workflows]({% link _posts/2018-12-19-09-15-00.txt %}):
 > In the case of email, the normal person uses one app to deal with email; the normal person doesn’t really care about the naming conventions of their email Archive; the normal person doesn’t care how many messages are sitting in their email Archive; (maybe the normal person doesn’t even use the Archive); and the normal person would never think of moving messages between email services or applications.
 
 From [A Minimalist in the Tech Industry]({% link _posts/2018-12-14-a-minimalist-in-the-tech-industry.md %}):
