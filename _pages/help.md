@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Help
-permalink: /contact/
+permalink: /help/
 ---
 
 When I first created this page based off of [Nash's Help page](https://nashp.com/help), I intended it to focus on those things I could do to help others with their web presence. My intent is now to open up my space to others that need their voice to be heard.

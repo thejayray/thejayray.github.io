@@ -1,7 +1,7 @@
 // Custom CSS
 //
-// Dark Mode (mostly)
 
+// Header and Footer Items
 .castle {
   height: 20px;
   text-align: center;
@@ -14,7 +14,46 @@
   display: block;
 }
 
-/* Text and background color for dark mode */
+// Videos
+.video {
+  width: 100%;
+  height: 0px;
+  position: relative;
+  padding-bottom: 56.250%;
+  margin-bottom: 1rem;
+}
+
+.video iframe, .video object {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+// Forms
+input, select {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  appearance: none;
+  -webkit-appearance: none;
+  background-color: var(--engineered-red);
+  color: white;
+  padding: 12.5px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+// Text and background color for dark mode
 @media (prefers-color-scheme: dark) {
   img {
     filter: brightness(50%);
