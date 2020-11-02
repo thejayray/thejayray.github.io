@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 01 11:52:09 +0000 2020",
+		"id": 1322867941399011300,
+		"id_str": "1322869030177378307",
+		"full_text": "White American Evangelicals more and more are trying to paint themselves as the persecuted church. Ya'll-we are the Pharisees.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17193758,
+			"id_str": "17193758",
+			"name": "Devin Pogue",
+			"screen_name": "dgpogue",
+			"location": "Minneapolis, MN",
+			"description": "Musician, Songwriter, Liturgist, Endurance Athlete, Coffee Snob, St. Louis Cardinal Fan, Indiana Hoosier Alum, Feminist, Christian against Christian Nationalism",
+			"url": "https://t.co/rTTu44BS7B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rTTu44BS7B",
+							"expanded_url": "http://devinpogue.com",
+							"display_url": "devinpogue.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 349,
+			"friends_count": 387,
+			"listed_count": 15,
+			"created_at": "Wed Nov 05 17:59:24 +0000 2008",
+			"favourites_count": 367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118607470971236353/C9elzb9f_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118607470971236353/C9elzb9f_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17193758/1420846378",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "White American Evangelicals more and more are trying to paint themselves as the persecuted church. Ya'll-we are the Pharisees."
+	},
+	{
 		"created_at": "Sun Nov 01 03:32:05 +0000 2020",
 		"id": 1322743185299431400,
 		"id_str": "1322743185299431425",
