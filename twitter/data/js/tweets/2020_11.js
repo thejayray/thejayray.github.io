@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 22:56:42 +0000 2020",
+		"id": 1324123436084506600,
+		"id_str": "1324123436084506626",
+		"full_text": "I was fired up four years ago. I am feeling this energy again, no matter what the outcomes of this election. ✊\n\nhttps://t.co/0o7yHoAi17",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0o7yHoAi17",
+					"expanded_url": "https://engineeredeloquence.com/2016/11/the-activist-and-the-persecutor/",
+					"display_url": "engineeredeloquence.com/2016/11/the-ac…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "This account is now used to amplify the voices of BIPOC. They deserve our attention, respect, and support. #BlackLivesMatter. he/him/his",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 466,
+			"friends_count": 258,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275271951901212673/LP7lEJQc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275271951901212673/LP7lEJQc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1592883622",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was fired up four years ago. I am feeling this energy again, no matter what the outcomes of this election. ✊\n\nhttps://t.co/0o7yHoAi17"
+	},
+	{
+		"created_at": "Wed Nov 04 17:22:32 +0000 2020",
+		"id": 1324039153923874800,
+		"id_str": "1324039340666900485",
+		"full_text": "We know these post-election efforts to focus on how Blk &amp; Latinx ppl voted is about avoiding examination of white racism b/c it’s the only time in election cycle white establishment puts this much import on how we vote or how we feel. B4 now it was all abt white suburban women🥴",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1324037871586709500,
+		"in_reply_to_status_id_str": "1324037871586709513",
+		"in_reply_to_user_id": 110326494,
+		"in_reply_to_user_id_str": "110326494",
+		"in_reply_to_screen_name": "BreeNewsome",
+		"user": {
+			"id": 110326494,
+			"id_str": "110326494",
+			"name": "Bree Newsome Bass",
+			"screen_name": "BreeNewsome",
+			"location": "North Carolina, USA",
+			"description": "artist - free black woman - \"no weapon formed against you will prevail, and you will refute every tongue that accuses you.\" Isaiah 54:17",
+			"url": "https://t.co/dtxkZoyfaC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dtxkZoyfaC",
+							"expanded_url": "http://whentheyseeusvote.com",
+							"display_url": "whentheyseeusvote.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 390550,
+			"friends_count": 1985,
+			"listed_count": 2899,
+			"created_at": "Mon Feb 01 04:33:43 +0000 2010",
+			"favourites_count": 30138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322199240907644929/5sVFLmbD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322199240907644929/5sVFLmbD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110326494/1435808027",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 979,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We know these post-election efforts to focus on how Blk &amp; Latinx ppl voted is about avoiding examination of white racism b/c it’s the only time in election cycle white establishment puts this much import on how we vote or how we feel. B4 now it was all abt white suburban women🥴"
+	},
+	{
 		"created_at": "Wed Nov 04 04:09:08 +0000 2020",
 		"id": 1323838877484933000,
 		"id_str": "1323839671269576708",
