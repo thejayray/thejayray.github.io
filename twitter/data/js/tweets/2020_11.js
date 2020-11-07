@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 02:18:49 +0000 2020",
+		"id": 1324747098642882600,
+		"id_str": "1324899073036574720",
+		"full_text": "My wife and I checked to see if our absentee ballots were counted in GA and so far they haven’t. \n\nWe followed up with the state registrar. They said they are still scanning, validating and counting our county. \n\nIf you’re in GA, please take these steps to check on your status...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2949261587,
+			"id_str": "2949261587",
+			"name": "Benjamin Dixon",
+			"screen_name": "BenjaminPDixon",
+			"location": "Georgia ",
+			"description": "If there is going to be a future, the future is progressive. #TFIP. Progressive Army. East & 42nd. TYT contributor.",
+			"url": "https://t.co/yZc3eAOsss",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yZc3eAOsss",
+							"expanded_url": "http://youtube.com/thebenjamindixonshow",
+							"display_url": "youtube.com/thebenjamindix…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 187421,
+			"friends_count": 4220,
+			"listed_count": 1274,
+			"created_at": "Mon Dec 29 13:58:38 +0000 2014",
+			"favourites_count": 183579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151836172148203520/xSn697lX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151836172148203520/xSn697lX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2949261587/1593480554",
+			"profile_link_color": "460067",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9004,
+		"favorite_count": 34688,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "My wife and I checked to see if our absentee ballots were counted in GA and so far they haven’t. \n\nWe followed up with the state registrar. They said they are still scanning, validating and counting our county. \n\nIf you’re in GA, please take these steps to check on your status..."
+	},
+	{
+		"created_at": "Sat Nov 07 01:47:59 +0000 2020",
+		"id": 1324716702660178000,
+		"id_str": "1324891316153700352",
+		"full_text": "I just feel like more people need to see this https://t.co/m86mzAAJVm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324716698709201000,
+					"id_str": "1324716698709200897",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EmJW0Z6XEAEtdIx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmJW0Z6XEAEtdIx.jpg",
+					"url": "https://t.co/m86mzAAJVm",
+					"display_url": "pic.twitter.com/m86mzAAJVm",
+					"expanded_url": "https://twitter.com/obidoess/status/1324716702660177920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1122,
+							"h": 959,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 581,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 959,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324716698709201000,
+					"id_str": "1324716698709200897",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EmJW0Z6XEAEtdIx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmJW0Z6XEAEtdIx.jpg",
+					"url": "https://t.co/m86mzAAJVm",
+					"display_url": "pic.twitter.com/m86mzAAJVm",
+					"expanded_url": "https://twitter.com/obidoess/status/1324716702660177920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1122,
+							"h": 959,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 581,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 959,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1133827023166689300,
+			"id_str": "1133827023166689286",
+			"name": "Obi Does",
+			"screen_name": "obidoess",
+			"location": "NY (He/Him)",
+			"description": "Model - Long Live The Chief. - IG: @obidoes ✨Howard U✨ MR. FRESHMAN 2020-2021",
+			"url": "https://t.co/vbNg6oocB0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbNg6oocB0",
+							"expanded_url": "http://obidoesphotography.weebly.com",
+							"display_url": "obidoesphotography.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4176,
+			"friends_count": 3516,
+			"listed_count": 8,
+			"created_at": "Wed May 29 20:06:42 +0000 2019",
+			"favourites_count": 9120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308604624019091461/3ggwnffH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308604624019091461/3ggwnffH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1133827023166689286/1600830630",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2745,
+		"favorite_count": 7182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I just feel like more people need to see this https://t.co/m86mzAAJVm"
+	},
+	{
+		"created_at": "Sat Nov 07 01:44:27 +0000 2020",
+		"id": 1324890426722148400,
+		"id_str": "1324890426722148354",
+		"full_text": "@MilesKLassin I think that means you’re winning.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MilesKLassin",
+					"name": "Miles Kampf-Lassin",
+					"id": 289013202,
+					"id_str": "289013202",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1324882937075146800,
+		"in_reply_to_status_id_str": "1324882937075146753",
+		"in_reply_to_user_id": 289013202,
+		"in_reply_to_user_id_str": "289013202",
+		"in_reply_to_screen_name": "MilesKLassin",
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "This account is now used to amplify the voices of BIPOC. They deserve our attention, respect, and support. #BlackLivesMatter. he/him/his",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467,
+			"friends_count": 259,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275271951901212673/LP7lEJQc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275271951901212673/LP7lEJQc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1592883622",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MilesKLassin I think that means you’re winning."
+	},
+	{
+		"created_at": "Fri Nov 06 12:52:10 +0000 2020",
+		"id": 1324458035855741000,
+		"id_str": "1324696072682430465",
+		"full_text": "The impact of racist felony disenfranchisement in key states in 2020. Number of disenfranchised voters in:\n\nFlorida - 1,132,000\nTexas - 500,000\nGeorgia - 275,000\nArizona - 233,000\nNorth Carolina - 83,000\nWisconsin - 69,000\nPennsylvania - 48,000\nMichigan - 38,000\nNevada - 14,000",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45607805,
+			"id_str": "45607805",
+			"name": "African American Policy Forum",
+			"screen_name": "AAPolicyForum",
+			"location": "Los Angeles & NYC",
+			"description": "The intersectional think tank behind #SayHerName and #BlackGirlsMatter. Led by Kimberlé Crenshaw (@sandylocks). Support our work: https://t.co/u6Zmv2kxOO",
+			"url": "https://t.co/D81CS9NGuB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D81CS9NGuB",
+							"expanded_url": "https://linktr.ee/AAPolicyForum",
+							"display_url": "linktr.ee/AAPolicyForum",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u6Zmv2kxOO",
+							"expanded_url": "http://aapf.org/donate",
+							"display_url": "aapf.org/donate",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 43943,
+			"friends_count": 980,
+			"listed_count": 375,
+			"created_at": "Mon Jun 08 16:45:13 +0000 2009",
+			"favourites_count": 5685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/562488189164613633/vvhPp6cT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/562488189164613633/vvhPp6cT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45607805/1588087800",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2366,
+		"favorite_count": 4793,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ro",
+		"text": "The impact of racist felony disenfranchisement in key states in 2020. Number of disenfranchised voters in:\n\nFlorida - 1,132,000\nTexas - 500,000\nGeorgia - 275,000\nArizona - 233,000\nNorth Carolina - 83,000\nWisconsin - 69,000\nPennsylvania - 48,000\nMichigan - 38,000\nNevada - 14,000"
+	},
+	{
 		"created_at": "Thu Nov 05 22:57:43 +0000 2020",
 		"id": 1324486076451430400,
 		"id_str": "1324486076451430402",
