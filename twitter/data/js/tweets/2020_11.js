@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 01:29:22 +0000 2020",
+		"id": 1325953877896786000,
+		"id_str": "1325973794318594048",
+		"full_text": "Suggesting that the votes from Black communities are illegal is racist and should be condemned as such. \n\nAt the end of the day, those who have historically depended on voter suppression to disenfranchise Black people, can’t comprehend how we managed to persevere in spite of.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20030478,
+			"id_str": "20030478",
+			"name": "Eunique’s Playing #CultureTags",
+			"screen_name": "eunique",
+			"location": "Instagram — @euniquejg",
+			"description": "Wife’ing, mom’ing and building brands that celebrate community + culture • @becauseofthem • @dreamvillagehq • @culturetags (order yours!)🔺🐘",
+			"url": "https://t.co/FyLZ9N6OVO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FyLZ9N6OVO",
+							"expanded_url": "http://createsomethinggood.com",
+							"display_url": "createsomethinggood.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25954,
+			"friends_count": 2383,
+			"listed_count": 302,
+			"created_at": "Wed Feb 04 06:02:45 +0000 2009",
+			"favourites_count": 15766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/914967817325285378/0fJoPPTb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/914967817325285378/0fJoPPTb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20030478/1506968386",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 629,
+		"favorite_count": 2960,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Suggesting that the votes from Black communities are illegal is racist and should be condemned as such. \n\nAt the end of the day, those who have historically depended on voter suppression to disenfranchise Black people, can’t comprehend how we managed to persevere in spite of."
+	},
+	{
 		"created_at": "Sun Nov 08 04:28:54 +0000 2020",
 		"id": 1325273287983657000,
 		"id_str": "1325294200208941056",
