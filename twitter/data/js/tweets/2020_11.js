@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 12:47:43 +0000 2020",
+		"id": 1326869283335516200,
+		"id_str": "1326869283335516167",
+		"full_text": "Slot in Jurassic Park for Spielberg and we’ve got a deal. https://t.co/npcHnrezgk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/npcHnrezgk",
+					"expanded_url": "https://twitter.com/ChewyWalrus/status/1326741229854482433",
+					"display_url": "twitter.com/ChewyWalrus/st…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10434612,
+			"id_str": "10434612",
+			"name": "Jay Ray",
+			"screen_name": "JayRay",
+			"location": "Madison, WI",
+			"description": "This account is now used to amplify the voices of BIPOC. They deserve our attention, respect, and support. #BlackLivesMatter. he/him/his",
+			"url": "https://t.co/wHxeFn3mK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHxeFn3mK4",
+							"expanded_url": "https://engineeredeloquence.com",
+							"display_url": "engineeredeloquence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467,
+			"friends_count": 260,
+			"listed_count": 15,
+			"created_at": "Wed Nov 21 06:39:02 +0000 2007",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEE8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275271951901212673/LP7lEJQc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275271951901212673/LP7lEJQc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10434612/1592883622",
+			"profile_link_color": "BD2C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326741229854482400,
+		"quoted_status_id_str": "1326741229854482433",
+		"quoted_status_permalink": {
+			"url": "https://t.co/npcHnrezgk",
+			"expanded": "https://twitter.com/ChewyWalrus/status/1326741229854482433",
+			"display": "twitter.com/ChewyWalrus/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 12 04:18:53 +0000 2020",
+			"id": 1326741229854482400,
+			"id_str": "1326741229854482433",
+			"full_text": "- CONTACT\n- A.I. ARTIFICIAL INTELLIGENCE\n- T2: JUDGEMENT DAY https://t.co/F5U8nhRwKn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/F5U8nhRwKn",
+						"expanded_url": "https://twitter.com/Klee_FilmReview/status/1326650716140806146",
+						"display_url": "twitter.com/Klee_FilmRevie…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18172265,
+				"id_str": "18172265",
+				"name": "Chewy Walrus (a.k.a. Stephen E. Foxworthy)",
+				"screen_name": "ChewyWalrus",
+				"location": "Indianapolis, IN",
+				"description": "Co-host of @DisenfranchPod. Former blogger at @indyburgerguy. Occasional amateur actor & short story writer. I am he.",
+				"url": "https://t.co/PDivRlQSOe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PDivRlQSOe",
+								"expanded_url": "http://disenfranchpod.podbean.com",
+								"display_url": "disenfranchpod.podbean.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 203,
+				"friends_count": 329,
+				"listed_count": 6,
+				"created_at": "Tue Dec 16 20:49:34 +0000 2008",
+				"favourites_count": 6195,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4197,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323467123843305472/2e1VzstS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323467123843305472/2e1VzstS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18172265/1591499582",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1326650716140806100,
+			"quoted_status_id_str": "1326650716140806146",
+			"quoted_status_permalink": {
+				"url": "https://t.co/F5U8nhRwKn",
+				"expanded": "https://twitter.com/Klee_FilmReview/status/1326650716140806146",
+				"display": "twitter.com/Klee_FilmRevie…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Slot in Jurassic Park for Spielberg and we’ve got a deal. https://t.co/npcHnrezgk"
+	},
+	{
 		"created_at": "Tue Nov 10 01:29:22 +0000 2020",
 		"id": 1325953877896786000,
 		"id_str": "1325973794318594048",
