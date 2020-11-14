@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 14 01:47:39 +0000 2020",
+		"id": 1327334276497617000,
+		"id_str": "1327427946726961153",
+		"full_text": "Congress is gonna be wild https://t.co/verdKs1aIg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327334272685011000,
+					"id_str": "1327334272685010944",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EmujfQ2XcAAW8h0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmujfQ2XcAAW8h0.jpg",
+					"url": "https://t.co/verdKs1aIg",
+					"display_url": "pic.twitter.com/verdKs1aIg",
+					"expanded_url": "https://twitter.com/AsteadWesley/status/1327334276497616898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1079,
+							"h": 1531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327334272685011000,
+					"id_str": "1327334272685010944",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EmujfQ2XcAAW8h0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmujfQ2XcAAW8h0.jpg",
+					"url": "https://t.co/verdKs1aIg",
+					"display_url": "pic.twitter.com/verdKs1aIg",
+					"expanded_url": "https://twitter.com/AsteadWesley/status/1327334276497616898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1079,
+							"h": 1531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1327334274761158700,
+					"id_str": "1327334274761158656",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EmujfYlW8AA3DPx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmujfYlW8AA3DPx.jpg",
+					"url": "https://t.co/verdKs1aIg",
+					"display_url": "pic.twitter.com/verdKs1aIg",
+					"expanded_url": "https://twitter.com/AsteadWesley/status/1327334276497616898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1691,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 362111287,
+			"id_str": "362111287",
+			"name": "Steadman™",
+			"screen_name": "AsteadWesley",
+			"location": "Brooklyn kinda but not really",
+			"description": "National politics reporter at The New York Times. CNN political analyst. Real one in these streets. astead.herndon@nytimes.com",
+			"url": "https://t.co/3B2eU7lQoL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3B2eU7lQoL",
+							"expanded_url": "http://instagram.com/asteadwesley",
+							"display_url": "instagram.com/asteadwesley",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 194111,
+			"friends_count": 1609,
+			"listed_count": 2379,
+			"created_at": "Thu Aug 25 21:34:50 +0000 2011",
+			"favourites_count": 18118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069946000658362368/hmCVOcxN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069946000658362368/hmCVOcxN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/362111287/1496848710",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "011add077f4d2da3",
+			"url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+			"place_type": "city",
+			"name": "Brooklyn",
+			"full_name": "Brooklyn, NY",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.041878,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.739434
+						],
+						[
+							-74.041878,
+							40.739434
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9977,
+		"favorite_count": 83665,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congress is gonna be wild https://t.co/verdKs1aIg"
+	},
+	{
 		"created_at": "Thu Nov 12 12:47:43 +0000 2020",
 		"id": 1326869283335516200,
 		"id_str": "1326869283335516167",
