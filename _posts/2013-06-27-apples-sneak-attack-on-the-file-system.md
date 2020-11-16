@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 06/27/2013
-Permalink: /2013/06/apples-sneak-attack-on-the-file-system/
-Tweet: Tags, Tags Everywhere!
-tags: post, Apple, Mavericks, Vesper, Tags, iOS, Mac OS X, File System
+date: 2013-06-27
+permalink: /2013/06/apples-sneak-attack-on-the-file-system/
+tweet: Tags, Tags Everywhere!
+tags: [post, Apple, Mavericks, Vesper, Tags, iOS, "Mac OS X", "File System"]
 title: Apple's Sneak Attack on the File System
 ---
 
