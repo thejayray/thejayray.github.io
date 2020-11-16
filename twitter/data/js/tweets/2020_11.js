@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 15 19:00:57 +0000 2020",
+		"id": 1327693104527401000,
+		"id_str": "1328050372250832897",
+		"full_text": "Still waiting for ONE SINGLE PERSON to ask Lindsey Graham or ANY of the Republicans backing Trump’s election tampering allegations one question:\n\n“If it’s all rigged...\n\nWhy should we believe YOU  won?”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 96149284,
+			"id_str": "96149284",
+			"name": "michaelharriot",
+			"screen_name": "michaelharriot",
+			"location": "The Southside of Wakanda",
+			"description": "Sr. Writer at https://t.co/OMQPRg8xcr, board-certified Wypipologist, master race-baiter. His pen is mightier than your sword. Last real Negus alive",
+			"url": "https://t.co/lTB2PUWBfg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lTB2PUWBfg",
+							"expanded_url": "https://kinja.com/michaelharriot",
+							"display_url": "kinja.com/michaelharriot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OMQPRg8xcr",
+							"expanded_url": "http://TheRoot.com",
+							"display_url": "TheRoot.com",
+							"indices": [
+								14,
+								37
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 376753,
+			"friends_count": 87,
+			"listed_count": 1907,
+			"created_at": "Fri Dec 11 15:40:46 +0000 2009",
+			"favourites_count": 3409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249524889222070273/QcDtsIWG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249524889222070273/QcDtsIWG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96149284/1578041893",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4805,
+		"favorite_count": 27616,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Still waiting for ONE SINGLE PERSON to ask Lindsey Graham or ANY of the Republicans backing Trump’s election tampering allegations one question:\n\n“If it’s all rigged...\n\nWhy should we believe YOU  won?”"
+	},
+	{
 		"created_at": "Sat Nov 14 20:51:57 +0000 2020",
 		"id": 1327715920001851400,
 		"id_str": "1327715920001851394",
