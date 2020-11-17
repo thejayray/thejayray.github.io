@@ -46,3 +46,19 @@ exclude:
   - Gemfile.lock
   - LICENSE.md
   - README.md
+
+# Options
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+defaults:
+  -
+    scope:
+      path: "_pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"

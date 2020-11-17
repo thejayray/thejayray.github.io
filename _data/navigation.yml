@@ -1,0 +1,7 @@
+# main links
+main:
+  - title: "projects"
+    url: /projects
+foot:
+  - title: ""
+    url: /
