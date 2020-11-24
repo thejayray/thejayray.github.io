@@ -1,0 +1,9 @@
+---
+layout: post
+date: April 28, 2018 19:37:00
+tags: Link, Reading, Article, IFTTT, Instapaper
+title: iOS 11’s Streamlined, Yet Extensible File Management
+---
+
+[iOS 11’s Streamlined, Yet Extensible File Management](http://bit.ly/2HDIEYE)
+> I was editing a Markdown text file in Pretext yesterday, when it occurred to me how naturally I was able to create a document and upload it to GitHub without…

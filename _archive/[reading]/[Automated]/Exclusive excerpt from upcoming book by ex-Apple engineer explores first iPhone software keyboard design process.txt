@@ -1,0 +1,9 @@
+---
+layout: post
+date: August 13, 2018 16:30:00
+tags: Link, Reading, Article, IFTTT, Instapaper
+title: Exclusive excerpt from upcoming book by ex-Apple engineer explores first iPhone software keyboard design process
+---
+
+[Exclusive excerpt from upcoming book by ex-Apple engineer explores first iPhone software keyboard design process](http://bit.ly/2P3A9G5)
+> Ken Kocienda worked at Apple from 2001 through 2016. On September 4, Kocienda is releasing a new book ‘Creative Selection’ (preorder: Amazon , iBooks ), that…

@@ -1,0 +1,16 @@
+---
+layout: post
+date: October 18, 2018 19:41:00
+tags: Link, Reading, Article, Pocket
+title: I'm Reading, October 18, 2018 at 07:41PM
+---
+
+As a part of my ongoing desire to share what I am reading, I automated posts of this type using [Pocket][1] and [IFTTT][2]. Below is an excerpt from the article and the URL for you to share in what I am currently reading. Want to discuss? [Reach out][3].
+> For a while now I have been bouncing back and forth between using Dark Sky and Hello Weather as my tools of choice. Then a few months ago, after seeing some new features (at the time) of CARROT Weather, I decided to give the quirky app a try.
+> 
+> [CARROT Weather][4]
+
+[1]:	http://bit.ly/2NOR4u8
+[2]:	https://ift.tt/2q0jjNi
+[3]:	mailto:jayray@engineeredeloquence.com
+[4]:	http://bit.ly/2q1wZHQ

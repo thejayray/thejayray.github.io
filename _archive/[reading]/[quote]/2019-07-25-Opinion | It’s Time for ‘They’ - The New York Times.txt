@@ -1,0 +1,12 @@
+---
+layout: post
+date: July 25, 2019 15:38:26
+tags: Link, Reading, Article, Shortcuts
+title: Opinion | It’s Time for ‘They’ - The New York Times
+---
+
+![](/public/assets/hero/20190725-153823.jpeg)
+
+> By contrast, “they” is universal and purely neutral, Bradley told me. When people encounter it, they infer nothing about gender. This makes singular “they” a perfect pronoun — it’s flexible, inclusive, unobtrusive and obviates the risk of inadvertent misgendering. And in most circumstances, it creates perfectly coherent sentences that people don’t have to strain to understand.
+>
+> -[Opinion | It’s Time for ‘They’ - The New York Times](https://www.nytimes.com/2019/07/10/opinion/pronoun-they-gender.html)

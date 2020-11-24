@@ -1,0 +1,12 @@
+---
+layout: post
+date: October 20, 2018 08:25:00
+tags: Comment, Link, Reading, Article, Instapaper
+title: I'm Reading “From Clockworks to Computers on Our Wrists – Medium”
+---
+
+I really enjoyed this overview of the horological world. There were quite a few pieces of information I was unaware of, especially just how recent most of the history of the watchmaking industry really is.
+
+> As fashion and comfort demanded thinner watches, watchmakers all over Europe began to investigate new ways of building slimmer clockworks. The challenges of early watchmaking closely mirror the challenges smartwatch producers face today: how to make technology smaller and more powerful.
+>
+>-[ From Clockworks to Computers on Our Wrists – Member Feature Stories – Medium](http://bit.ly/2CVLNA7)

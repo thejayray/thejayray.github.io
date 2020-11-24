@@ -1,0 +1,9 @@
+---
+layout: post
+date: June 21, 2018 19:46:00
+tags: Link, Reading, Article, IFTTT, Instapaper
+title: Siri Shortcuts: The next leap forward in push interface
+---
+
+[Siri Shortcuts: The next leap forward in push interface](http://bit.ly/2IcZ7OR)
+> Some still assume Siri is only a voice-based assistant. It was initially but, since iOS 9, it's also been a text-based assistant. That's when the name Siri also…

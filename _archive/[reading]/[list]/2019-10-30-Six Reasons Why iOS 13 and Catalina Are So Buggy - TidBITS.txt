@@ -1,0 +1,10 @@
+---
+layout: post
+date: October 30, 2019 15:13:41
+tags: List, Reading
+title: Six Reasons Why iOS 13 and Catalina Are So Buggy - TidBITS
+---
+
+[Six Reasons Why iOS 13 and Catalina Are So Buggy - TidBITS](https://tidbits.com/2019/10/21/six-reasons-why-ios-13-and-catalina-are-so-buggy/)
+
+**Automated**: This post is just a link to an article I recently read. Click the link above to get to the original and enjoy.

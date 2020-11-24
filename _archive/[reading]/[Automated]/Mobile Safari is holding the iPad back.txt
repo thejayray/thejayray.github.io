@@ -1,0 +1,9 @@
+---
+layout: post
+date: June 17, 2018 19:43:00
+tags: Link, Reading, Article, IFTTT, Instapaper
+title: Mobile Safari is holding the iPad back
+---
+
+[Mobile Safari is holding the iPad back](http://bit.ly/2yiQgev)
+> There has been much discussion recently about iPad vs. Macs vs. Chromebooks vs. Surface laptops in recent months. Chromebooks are coming in convertible formats…

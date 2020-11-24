@@ -1,0 +1,9 @@
+---
+layout: post
+date: May 12, 2018 20:25:00
+tags: Link, Reading, Article, IFTTT, Instapaper
+title: Just in Time
+---
+
+[Just in Time](http://bit.ly/2KiPi3i)
+> The iMac launched May 6 1998, exactly 20 years ago. It is not the most significant computer to ever exist. It was a clear descendant of the original Mac which…

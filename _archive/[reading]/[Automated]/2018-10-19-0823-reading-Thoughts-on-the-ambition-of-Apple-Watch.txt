@@ -1,0 +1,16 @@
+---
+layout: post
+date: October 19, 2018 08:23:00
+tags: Link, Reading, Article, Pocket
+title: I'm Reading, October 19, 2018 at 08:23AM
+---
+
+As a part of my ongoing desire to share what I am reading, I automated posts of this type using [Pocket][1] and [IFTTT][2]. Below is an excerpt from the article and the URL for you to share in what I am currently reading. Want to discuss? [Reach out][3].
+> Siri Shortcuts, your Apple Watch, and various sensors and biometrics mean the wearable device will become critical to your identity, at work, at home, and at play.  And more, but you get the drift.
+> 
+> [Thoughts on the ambition of Apple Watch][4]
+
+[1]:	http://bit.ly/2NOR4u8
+[2]:	https://ift.tt/2q0jjNi
+[3]:	mailto:jayray@engineeredeloquence.com
+[4]:	http://bit.ly/2S1UgWA
