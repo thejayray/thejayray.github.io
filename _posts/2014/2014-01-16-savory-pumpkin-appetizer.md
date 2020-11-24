@@ -17,21 +17,22 @@ In our personal crab rangoon recipe that we make often, we use cupcake tins and 
 
 Yield: <span class="recipe-yield">12 Servings</span>, Total time: Approximately <span class="recipe-time">45 minutes</span>
 
-<h3>Ingredients:</h3>
-
-<ul class="recipe-ingredients"><li>36 wonton wrappers</li>
+### Ingredients:
+<ul class="recipe-ingredients">
+<li>36 wonton wrappers</li>
 <li>1/2 cup green onions, chopped</li>
 <li>1 tablespoon butter</li>
 <li>2 cups puréed pumpkin</li>
-<li>1&#160;1/4 cups half and half</li>
+<li>1 1/4 cups half and half</li>
 <li>4 eggs, slightly beaten</li>
 <li>1 medium-sized mild green chile, diced</li>
 <li>1/2 teaspoon nutmeg</li>
 <li>1/4 teaspoon pepper</li>
 <li>1/4 teaspoon salt</li>
-<li>1&#160;1/2 cups (6 ounces) Smoked Cheddar Cheese, shredded</li>
-</ul><h3>Directions:</h3>
+<li>1 1/2 cups (6 ounces) Smoked Cheddar Cheese, shredded</li>
+</ul>
 
+### Directions:
 <ol class="recipe-directions"><li>Preheat oven to 350°F. Prepare wonton wrappers in cupcake trays, lightly greasing the bottom of each cup.</li>
 <li>To make filling, sauté onions in butter in small skillet about 3 minutes or until tender. Remove from heat.</li>
 <li>Combine pumpkin, half and half, eggs, chiles, seasonings and sautéed onion in large bowl, mixing well. Stir in cheese.</li>
