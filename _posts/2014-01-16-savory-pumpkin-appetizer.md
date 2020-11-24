@@ -16,7 +16,8 @@ In our personal crab rangoon recipe that we make often, we use cupcake pans and 
 
 ## Savory Pumpkin Tart with Smoked Cheddar
 
-Yield: 12 Servings, Total time: Approximately 45 minutes
+**Yield**: 12 Servings<br>
+**Total time**: Approximately 45 minutes
 
 ### Ingredients:
 
