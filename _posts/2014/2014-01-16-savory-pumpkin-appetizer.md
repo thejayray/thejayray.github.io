@@ -18,6 +18,7 @@ In our personal crab rangoon recipe that we make often, we use cupcake tins and 
 Yield: 12 Servings, Total time: Approximately 45 minutes
 
 ### Ingredients:
+
 - 36 wonton wrappers
 - 1/2 cup green onions, chopped
 - 1 tablespoon butter
@@ -31,6 +32,7 @@ Yield: 12 Servings, Total time: Approximately 45 minutes
 - 1 1/2 cups (6 ounces) Smoked Cheddar Cheese, shredded
 
 ### Directions:
+
 1. Preheat oven to 350°F. Prepare wonton wrappers in cupcake trays, lightly greasing the bottom of each cup.
 2. To make filling, sauté onions in butter in small skillet about 3 minutes or until tender. Remove from heat.
 3. Combine pumpkin, half and half, eggs, chiles, seasonings and sautéed onion in large bowl, mixing well. Stir in cheese.
@@ -44,6 +46,5 @@ Yield: 12 Servings, Total time: Approximately 45 minutes
 - Lastly, it should be obvious that my wife and I used our not-out-of-a-can pumpkin purée. However, I could see how using canned pumpkin could add a nice sweetness[^1] to the final product.
 
 Experiment and enjoy!
-
 
 [^1]: Almost always, when using canned pumpkin, it is the sweetness of pie pumpkin because canned pumpkin is so often used specifically for pumpkin pie. That sweetness is often artificial since only smaller pumpkins contain such sweetness naturally. Larger pumpkin flavors are closer to sweet squash, although the sweetness is much less pronounced and much more subtle, as discussed above.
