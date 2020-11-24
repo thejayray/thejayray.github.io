@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-01-16
+date: 2014-01-16 08:00:00 -0600
 permalink: /2014/01/savory-pumpkin-appetizer/
 tweet: FYI, pumpkin is not only for pies and savory pumpkin mixes well with football.
 tags: post, food, Cooking, Recipe, Pumpkin
