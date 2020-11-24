@@ -3,7 +3,7 @@ layout: post
 Date: 2016-11-20
 tags: post, Religion, Activism
 Permalink: /2016/11/the-activist-and-the-persecutor
-Tweet: My thoughts in the aftermath of the election are not kind to the group with whom I was born to identify.
+tweet: My thoughts in the aftermath of the election are not kind to the group with whom I was born to identify.
 title: The activist and the persecutor
 ---
 
