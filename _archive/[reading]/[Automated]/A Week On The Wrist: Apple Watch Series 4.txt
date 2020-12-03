@@ -1,9 +1,0 @@
----
-layout: post
-date: September 19, 2018 22:33
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: A Week On The Wrist: Apple Watch Series 4
----
-
-[A Week On The Wrist: Apple Watch Series 4](http://bit.ly/2O1E5JI)
-> Play During my tenure covering the watch industry, there is no single watch that has been talked about more than the Apple Watch. At first glance, this is very…

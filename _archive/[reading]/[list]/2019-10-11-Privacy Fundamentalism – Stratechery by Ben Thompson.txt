@@ -1,5 +1,0 @@
----
-layout: post
-date: October 11, 2019 07:59:48
-tags: List, Reading
-title: [Privacy Fundamentalism – Stratechery by Ben Thompson](https://stratechery.com/2019/privacy-fundamentalism/)

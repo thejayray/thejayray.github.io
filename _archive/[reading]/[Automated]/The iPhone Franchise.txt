@@ -1,9 +1,0 @@
----
-layout: post
-date: September 13, 2018 09:04:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: The iPhone Franchise
----
-
-[The iPhone Franchise](http://bit.ly/2CTOpiS)
-> Apple released a new flagship iPhone yesterday, the iPhone XS. This isn’t exactly ground-breaking news: it is exactly what the company has done for eleven years…

@@ -1,9 +1,0 @@
----
-layout: post
-date: April 20, 2018 16:29
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: A Big Phone - Matt Gemmell
----
-
-[A Big Phone - Matt Gemmell](http://bit.ly/2K2RbS9)
-> This article is part of a series on going iPad-only . Like most people, my main computer is a phone. That’s a big realisation. The device that’s always at hand,…

@@ -1,9 +1,0 @@
----
-layout: post
-date: September 14, 2018 21:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: Apple Event Notebook: Apple Watch
----
-
-[Apple Event Notebook: Apple Watch](http://bit.ly/2xe44TO)
-> The two most important hours in the Apple year are the two hours that make up the annual iPhone event. They happened on Wednesday, and in the intervening day…

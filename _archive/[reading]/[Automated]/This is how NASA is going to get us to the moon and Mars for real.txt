@@ -1,9 +1,0 @@
----
-layout: post
-date: April 19, 2018 17:22:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: This is how NASA is going to get us to the moon and Mars for real
----
-
-[This is how NASA is going to get us to the moon and Mars for real](http://bit.ly/2EZ3bAA)
-> If NASA wants to send humanity to the moon and back — and beyond — this is the space agency's ultimate game plan. After the Space Policy Directive really…

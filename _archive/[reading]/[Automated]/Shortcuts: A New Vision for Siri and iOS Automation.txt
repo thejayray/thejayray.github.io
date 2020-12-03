@@ -1,9 +1,0 @@
----
-layout: post
-date: June 13, 2018 19:52:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: Shortcuts: A New Vision for Siri and iOS Automation
----
-
-[Shortcuts: A New Vision for Siri and iOS Automation](http://bit.ly/2HOkEgn)
-> In my Future of Workflow article from last year (published soon after the news of Apple's acquisition ), I outlined some of the probable outcomes for the app.…

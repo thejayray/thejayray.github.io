@@ -1,9 +1,0 @@
----
-layout: post
-date: April 13, 2018 20:22
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: A tale of two QuickTimes
----
-
-[A tale of two QuickTimes](http://bit.ly/2IVw9U7)
-> Among the casualties of the impending transition to 64-bit apps is one long-lasting oddity: QuickTime 7 Pro. What makes this app so unusual are a few factors.…

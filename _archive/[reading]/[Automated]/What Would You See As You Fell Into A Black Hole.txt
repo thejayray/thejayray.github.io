@@ -1,9 +1,0 @@
----
-layout: post
-date: March 8, 2018 14:27:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: What Would You See As You Fell Into A Black Hole?
----
-
-[What Would You See As You Fell Into A Black Hole?](http://bit.ly/2FClaAZ)
-> While black holes are commonly shown as dark regions that appear to eat the disk-like matter around them, what you’d actually see is vastly different than this…

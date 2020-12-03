@@ -1,9 +1,0 @@
----
-layout: post
-date: March 7, 2018 17:03:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: Opinion | How to Get Your Mind to Read
----
-
-[Opinion | How to Get Your Mind to Read](http://nyti.ms/2FzctYk)
-> Lilli Carré Americans are not good readers. Many blame the ubiquity of digital media. We’re too busy on Snapchat to read, or perhaps internet skimming has made…

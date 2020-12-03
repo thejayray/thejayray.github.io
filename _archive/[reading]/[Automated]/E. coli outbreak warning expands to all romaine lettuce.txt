@@ -1,9 +1,0 @@
----
-layout: post
-date: April 20, 2018 16:23:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: E. coli outbreak warning expands to all romaine lettuce
----
-
-[E. coli outbreak warning expands to all romaine lettuce](https://wapo.st/2JemvMT)
-> Romaine lettuce Public health officials are now telling consumers to avoid all types of romaine lettuce because of an E. coli outbreak linked to the vegetable…

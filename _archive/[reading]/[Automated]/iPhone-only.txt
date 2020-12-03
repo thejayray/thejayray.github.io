@@ -1,9 +1,0 @@
----
-layout: post
-date: March 24, 2018 09:48:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: iPhone-only?
----
-
-[iPhone-only?](http://bit.ly/2ubXBdO)
-> iPhone-only? We’re closer than you might think I said the above in 2011, and at the time it seemed like kind of a long shot, but possible. Now though, I think I…

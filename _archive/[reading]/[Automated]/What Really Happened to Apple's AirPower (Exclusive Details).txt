@@ -1,9 +1,0 @@
----
-layout: post
-date: September 17, 2018 22:33:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: What Really Happened to Apple's AirPower (Exclusive Details)
----
-
-[What Really Happened to Apple's AirPower (Exclusive Details)](http://bit.ly/2peTeJF)
-> For those who eagerly watched the 2017 iPhone X release event last September 12, there is somewhat of an elephant in the room that Apple has so far refused to…

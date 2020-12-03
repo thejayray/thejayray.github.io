@@ -1,9 +1,0 @@
----
-layout: post
-date: March 7, 2018 19:41:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: You Don’t Understand Bitcoin Because You Think Money Is Real
----
-
-[You Don’t Understand Bitcoin Because You Think Money Is Real](http://bit.ly/2G3KMVm)
-> Source: Andrew Baker/Ikon Images/Getty B itcoin is an illusion, a mass hallucination, so one hears. It’s just numbers in cyberspace, a mirage, insubstantial as…

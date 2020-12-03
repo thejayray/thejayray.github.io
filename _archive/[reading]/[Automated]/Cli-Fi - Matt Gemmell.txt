@@ -1,9 +1,0 @@
----
-layout: post
-date: April 23, 2018 08:55:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: ￼Cli-Fi - Matt Gemmell
----
-
-[￼Cli-Fi - Matt Gemmell](http://bit.ly/2HU6Se1)
-> Today is Earth Day , where we celebrate environment protection, and think about conservation — and also the negative changes that we’ve made to the world. It’s…

@@ -1,9 +1,0 @@
----
-layout: post
-date: June 27, 2018 11:22:00
-tags: Link, Reading, Article, IFTTT, Instapaper
-title: Marzipan as a Path to ARM Based Macs
----
-
-[Marzipan as a Path to ARM Based Macs](http://bit.ly/2lD6kPl)
-> Marzipan as a Path to ARM Based Macs June 26, 2018 Jason Snell and Myke Hurley on the Upgrade Podcast #198: The Mac Is Dead, Long Live the Mac : "Apple has said…
