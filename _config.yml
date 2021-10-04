@@ -6,7 +6,7 @@ url: 'http://thejayray.github.io'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
-baseurl: '/resume' 
+#baseurl: '/resume' 
 
 description: An online resume for Jay Ray
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
