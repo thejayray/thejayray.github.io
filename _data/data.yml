@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jay Ray
-    tagline: Technology Manager
+    tagline: Manager of Technology and People
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: /assets/images/resume.pdf
 
     languages:
       - idiom: English
@@ -36,16 +36,19 @@ sidebar:
 
     interests:
       - item: Writing
-        link:
+        link: 
 
       - item: Reading
         link:
 
       - item: Cooking
         link:
+        
+      - item: The Outdoors
+        link:
 
 career-profile:
-    title: Career Profile
+    title: Overview
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
