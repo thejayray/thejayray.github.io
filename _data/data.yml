@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jay Ray
@@ -44,149 +44,131 @@ sidebar:
       - item: Cooking
         link:
         
-      - item: The Outdoors
+      - item: Hiking
+        link:
+
+      - item: Biking
         link:
 
 career-profile:
     title: Overview
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Jay Ray has spent his entire career in higher education technology across the non-profit sector, proprietary education, and public and private institutions, specifically focusing on help desk support and management, infrastructure design and implementation. 
+      
+      In 2014, Jay took over as Technology Operations Manager for the Libraries at University of Wisconsin-Madison, where he manages services across multiple campus libraries. College Library and its sister libraries provide services to the general student population that include the lending of technology assets for short-term use (gaming consoles, iPads, dual-boot Mac laptops, cameras, and more); access to cutting-edge computing and printing solutions; and access to multiple computer labs and reservable study spaces. In addition, College Library houses one of the campuses Wisconsin Collaboratory for Enhanced Learning (WisCEL) centers, which provides a multipurpose computer lab for active learning, blended, or flipped classroom instruction during the weekday and computing resources at night.
+      
+      Jay has spearheaded programs to ensure that the libraries remain in sight of what students and faculty on campus need and want out of their educational institution's library facilities. Most recently, Jay has written for EdTech Magazine on iPad circulation and was published in the SIGUCCS 2017 Conference Journal, writing about the pilot process framework formulated at and utilized by College Library in trying out new and interesting technologies.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Information Systems and Technology
+      university: South University
+      time: 2010 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        The degree in Information Systems and Technology with a focus on Information Architecture and Design included coursework in web and media design, infrastructure planning, and information technology management.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
+    - degree: BS in Mechanical Engineering
+      university: Valparaiso University
+      time: 2004 - 2008
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Technology Operations Manager
+      time: March 2014 - Present
+      company: University of Wisconsin-Madison Libraries, Madison, WI
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Supported technology support, infrastructure, and services, while supervising on-site technology staff at the Library Technology Help Desk and in learning spaces within Memorial, College, and Steenbock Libraries on the UW-Madison campus. In addition to general staff support, the supported library spaces include study rooms, computing labs, active learning classrooms, and general meeting spaces, in addition to managing the library website, study room reservation system, and other systems that assist in providing patron access to services offered by the libraries. Guided the formulation and implementation of policies, library space use, and integration of emerging technologies into the current library infrastructure.
+        Key projects:
+          -
+    - role: Senior Desktop Analyst
+      time: March 2011 - November 2013
+      company: Art Institute of Indianapolis, Indianapolis, IN
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Performed equipment and software evaluation, maintenance, and upgrade activities in a timely and efficient manner, so as to maximize usefulness and availability to faculty and students. Maintained updated inventory records on all equipment. Managed Help Desk student worker activities, which included scheduling of workers and communication of responsibilities. Performed as primary contact for partners and vendors for support and other contracted services.
+        Key projects:
+          - Managed student worker duties at the technology help desk with a changing number of reports, ranging from four to ten individuals depending on institutional need. Provided shift schedules and delegated daily work, while providing feedback on work performance, training, and documentation to maximize worker effectiveness over time.
+          - Supported the creation of a render farm for on-campus use with applications such as Autodesk Maya; included server-side and client-side software analysis and implementation, so all on-campus computing systems assist in render operations.
+          - Developed and implemented a new documentation system for both troubleshooting and dissemination of information within the technical support team; project also included information and training materials for use with and by students, staff, and faculty.
+          - Planned and completed the roll out of the Windows 7 operating system to all staff and faculty computers for day to day use, including all image creation, testing, and deployment processes, as well as documentation and training of affected users.
+    - role: Applications Engineer
+      time: January 2009 - March 2011
+      company: IHETS, Indianapolis, IN
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        Managed the Media Services Department for work with state agencies and higher education clients. Researched, designed, tested, and implemented media distribution, eLearning, and video conferencing platforms; setup and tested media encoders and in-house audio visual systems for various clients. Insured technical and functional designs met outlined customer requirements; trained customers in usage of various eLearning software implementations. Managed IHETS Help Desk, including On- and Off-Hours support for multiple higher education institutions in the state of Indiana, employing and training mixed full-time, part-time, and intern staff.
+        Key projects:
+          - Managed Help Desk worker activities with four full-time reports and eleven reports consisting of mixed part-time and internship-based workers. Provided logistical analysis of worker efficiency and effectiveness, as well as feedback on work performance. Developed documentation for all supported systems to be used by Help Desk staff in troubleshooting activities as well as customers for training purposes.
+          - Served as project lead in the design and implementation of the streaming experience for the International Violin Competition of Indianapolis 2010, managing on-site streaming, flash player design and creation, as well as MPEG2 and multi-format streaming server testing, implementation and client support.
+          - Managed streaming contract for Heartland Truly Moving Pictures Film Festival, which included flash player design and streaming server implementation, as well as on-site videography and client support.
+          - Developed and implemented Windows Media and Flash-based Content Distribution Networks for use in on- and off-site content streaming, including a scalable design and an security-conscious content server/cache server setup.
+          - Developed and implemented Moodle eLearning environment for various higher education institutions across Indiana. Trained partner institution faculty and staff on eLearning platform best practices.
+    - role: Mac Specialist
+      time: June 2005 – January 2008
+      company: Apple, Chicago, IL
+      details: |
+        Fulfilled the roles Mac Specialist and Inventory Control Specialist at Chicago's flagship Apple Store, North Michigan Avenue, working an average of 35 hours a week while on summer breaks during undergraduate education. As Mac Specialist, supported costumers in their purchase and use of various Apple products. As Inventory Control Specialist, insured a daily, accurate count of store inventory, restocked the sales floor, and ran inventory as necessary for successful sales.
+    - role: IT Fellow (Student Leadership Position)
+      time: January 2006 - October 2008
+      company: Valparaiso Universtion, Valparaiso, IN
+      details: |
+        Supported computing activities of campus faculty and staff. Trained colleagues as necessary with regard to support duties and Apple Mac computers. Managed the student-run IT Help Desk. Created or insured existence of up-to-date technical documentation for all campus users.
+        Key projects:
+          - Led production project for promotional video regarding the new student union building on campus; this included filming, editing, voiceover work, and final product website design.
+          - Managed the student-run help desk, which included training and supporting new hires, scheduling help desk activities and delegating shift duties, and assisting as second-level support with unsolved technical problems.
+          - Led troubleshooting activities for Apple Mac computers on campus as issues occurred.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+# projects:
+#     title: Projects of Note
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: ""
+#         link: ""
+#         tagline: ""
+ 
 publications:
-    title: Publications
+    title: Publications and Media
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Below is a list of publications and presentations in the technology realm, focusing on technology support and innovation.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Simplify Device Deployments on Campus with Apple Configurator"
+        link: "https://edtechmagazine.com/higher/article/2017/12/simplify-device-deployments-campus-apple-configurator"
+        authors: Jay Ray
+        conference: EdTech Magazine, 2018
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Trying it Out with College Library: The Role of Beta-testing and the Pilot Process in Establishing Successful Services"
+        link: "https://dl.acm.org/citation.cfm?id=3123460"
+        authors: Jay Ray and Crague Cook
+        conference: Association for Computing Machinery, 2017
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "PSU MacAdmins 2015 Conference Presentation: Making the Most Out of Apple Configurator in an iPad Lending Environment"
+        link: "http://macadmins.psu.edu/2015/04/19/psumac2015-84/"
+        authors: Jay Ray
+        conference: PSU MacAdmins, 2015
 
-skills:
-    title: Skills &amp; Proficiency
+honors:
+    title: Honors and Awards
+    intro: >
+      Below is a list of awards and nominations from over the years.
+    awards:
+      - title: "Janet E Plato Award for Diversity, Equity, and Inclusion"
+        time: June 2021
+        conference: "UW-Madison IT Professionals Conference, Recognition Awards Committee"
+        tagline: "This award, given by the IT Professionals Conference at UW-Madison, recognizes and celebrates the exemplary leadership displayed by an IT staff member in advancing diversity, equity, and inclusion in our community."
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+      - title: "Emmy Award Nominee, Crafts: Technical Achievement"
+        time: 2010
+        conference: "UW-Madison IT Professionals Conference, Recognition Awards Committee"
+        tagline: "Nominated for a local Emmy Award as Project Manager for the 2010 International Violin Competition of Indianapolis in the category of Crafts: Technical Achievement."
 
-      - name: Javascript & jQuery
-        level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+# skills:
+#   title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
