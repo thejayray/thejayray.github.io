@@ -2,15 +2,26 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+#- project: jazznotes.io
+#  role: Founder & Primary Developer
+#  duration: 2012 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+#  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# EdTech Magazine
+- project: "Simplify Device Deployments on Campus with Apple Configurator"
+  url: "https://edtechmagazine.com/higher/article/2017/12/simplify-device-deployments-campus-apple-configurator"
+  role: Author
+  description: EdTech Magazine, 2018
+
+# SIGUCCS 2017
+- project: "Trying it Out with College Library: The Role of Beta-testing and the Pilot Process in Establishing Successful Services"
+  url: "https://dl.acm.org/citation.cfm?id=3123460"
+  role: Co-author
+  description: Association for Computing Machinery, 2017
+
+# PSU MacAdmins 2015
+- project: "PSU MacAdmins 2015 Conference Presentation: Making the Most Out of Apple Configurator in an iPad Lending Environment"
+  url: "http://macadmins.psu.edu/2015/04/19/psumac2015-84/"
+  role: Presenter
+  description: PSU MacAdmins, 2015
