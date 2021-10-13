@@ -7,10 +7,13 @@ $grid-gutter:     10px !default;
 // Colors
 $white:             #f8f9f8;
 $black:             #222222;
+$red:				#bf2e3d;
 
 // Styles
 $text_color:        $black;
 $text_color_dark:   $white;
+$link_color:		$red;
+$header_color:		$red;
 
 // Font stack
 $body-font: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" !default;
