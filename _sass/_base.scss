@@ -44,12 +44,3 @@ body{
     color: #fff;
     text-shadow: none;
 }
-@media (prefers-color-scheme: dark) {
-	body {
-		color: $text_color_dark;
-		background: $black;
-	}
-	.content-section .resume-item-title a, .content-section .resume-item-details a, .content-section .resume-item-copy a, .content-section .resume-item-list a {
-		color: $text_color_dark;
-	}
-}
