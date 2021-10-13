@@ -11,17 +11,20 @@
 # EdTech Magazine
 - project: "Simplify Device Deployments on Campus with Apple Configurator"
   url: "https://edtechmagazine.com/higher/article/2017/12/simplify-device-deployments-campus-apple-configurator"
+  duration: 2017
   role: Author
-  description: EdTech Magazine, 2018
+  description: EdTech Magazine
 
 # SIGUCCS 2017
 - project: "Trying it Out with College Library: The Role of Beta-testing and the Pilot Process in Establishing Successful Services"
   url: "https://dl.acm.org/citation.cfm?id=3123460"
   role: Co-author
-  description: Association for Computing Machinery, 2017
+  duration: 2017
+  description: Association for Computing Machinery, SIGUCCS
 
 # PSU MacAdmins 2015
 - project: "PSU MacAdmins 2015 Conference Presentation: Making the Most Out of Apple Configurator in an iPad Lending Environment"
   url: "http://macadmins.psu.edu/2015/04/19/psumac2015-84/"
   role: Presenter
-  description: PSU MacAdmins, 2015
+  duration: 2015
+  description: PSU MacAdmins Conference
