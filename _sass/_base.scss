@@ -44,3 +44,9 @@ body{
     color: #fff;
     text-shadow: none;
 }
+@media (prefers-color-scheme: dark) {
+	body {
+		color: #dee2e6;
+		background: $black;
+	}
+}
