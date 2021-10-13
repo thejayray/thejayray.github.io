@@ -46,10 +46,22 @@ body{
 }
 @media (prefers-color-scheme: dark) {
 	body {
-		color: #dee2e6;
+		color: $text_color_dark;
 		background: $black;
 	}
-	a {
-		color: #dee2e6;
-	}
+	.resume-item-title,
+    .resume-item-details,
+    .resume-item-copy,
+    .resume-item-list {
+    a {
+      color: $text_color_dark;
+    }
+    }
+    .page-footer {
+    .footer-line {
+    > a {
+      color: $text_color_dark;
+    }
+  	}
+  	}
 }
