@@ -1,3 +1,5 @@
-# Jay Ray - Github Pages
+# Jay Ray
 
-https://thejayray.github.io (for now)
+Website: https://engineeredeloquence.com
+Online Resume: https://engineeredeloquence.com/jayray
+
