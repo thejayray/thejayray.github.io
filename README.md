@@ -1,5 +1,5 @@
 # Jay Ray
 
-Website: https://engineeredeloquence.com
-Online Resume: https://engineeredeloquence.com/jayray
+- Website: [https://engineeredeloquence.com]
+- Online Resume: [https://engineeredeloquence.com/jayray]
 
