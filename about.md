@@ -7,16 +7,8 @@ Hi, I’m [Jay Ray](https://engineeredeloquence.com/jayray).
 
 ## Need Something?
 
-In the box below, share your thoughts or ask for help. If you would like me to respond, share your name and email address, but feel free to remain anonymous. I hope this message finds you well and I hope I can help no matter your current situation.
+You can just [email me][mailto:jayray@engineeredeloquence.com]. Share your thoughts or ask for help. If you would like me to respond, share your name and email address, but feel free to remain anonymous. I hope this message finds you well and I hope I can help no matter your current situation.
 
-<form action="https://formsubmit.co/jayray@engineeredeloquence.com" method="POST">
-    <textarea id="message" type="text" name="message" placeholder="Your message here." required></textarea><br>
-    <input class="button" type="submit" value="Send">
-    <input class="hidden" type="hidden" name="_captcha" value="false">
-    <input class="hidden" type="hidden" name="_next" value="https://engineeredeloquence.com/">
-</form>
-
-<center>**Note: If you'd prefer, you can just [email me][1].**</center>
 
 ## About the Site
 
@@ -24,7 +16,7 @@ Engineered Eloquence was born out of my desire to make a more concerted effort t
 
 ## About the Design
 
-TBD, (See [Letting Go](/)).
+TBD, (See [Letting Go](/2022/11/letting-go)).
 
 ## Some Relevant History
 
@@ -46,5 +38,3 @@ I have moved the site between providers multiple times and was on Blot from 2015
 I have never had ads on my websites, save for a short stint back in the late 2000s, when online ads were less intrusive and earned me basically nothing. I will continue to write and post, all without monetizing it, but if you want to support my writing, do so through PayPal here: <a href="https://paypal.me/engineeredeloquence">Engineered Eloquence</a>.
 
 Thank you for reading and taking this journey with me.
-
-[1]: mailto:jayray@engineeredeloquence.com
