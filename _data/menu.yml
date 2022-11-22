@@ -2,7 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: In 2022, I participated in two leadership training programs. This should be a social experience, so I started writing about it. Check out the full list of posts in the series <a href="/leadership-archive">here</a>.
+  - title: About
+    entries: 
+      - title: In 2022, I participated in two leadership training programs. This should be a social experience, so I started writing about it. Check out the full list of posts in the series <a href="/leadership-archive">here</a>.
+      - title: Engineered Eloquence has a history; read more about this space and Jay Ray <a href="/about">here</a>.
   - title: Recent
     post_list:
       limit: 6
@@ -18,7 +21,5 @@ entries:
     entries:
       - title: About
         url: /about
-      - title: Archive
-        url: /archive
       - title: Jay Ray
         url: /jayray

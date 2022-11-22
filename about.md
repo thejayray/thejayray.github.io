@@ -3,12 +3,11 @@ layout: page
 title: About
 ---
 
-Hi, I’m [Jay Ray](https://engineeredeloquence.com/jayray).
+Hi, I’m [Jay Ray](/jayray).
 
 ## Need Something?
 
-You can just [email me][mailto:jayray@engineeredeloquence.com]. Share your thoughts or ask for help. If you would like me to respond, share your name and email address, but feel free to remain anonymous. I hope this message finds you well and I hope I can help no matter your current situation.
-
+You can just [email me][mailto:jayray@engineeredeloquence.com]. Share your thoughts or ask for help. I will respond to any legitimate request.
 
 ## About the Site
 
@@ -16,7 +15,7 @@ Engineered Eloquence was born out of my desire to make a more concerted effort t
 
 ## About the Design
 
-TBD, (See [Letting Go](/2022/11/letting-go)).
+TBD. (See [Letting Go](/2022/11/letting-go))
 
 ## Some Relevant History
 
