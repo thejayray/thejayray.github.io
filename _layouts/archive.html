@@ -6,4 +6,19 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-{%-include post_list.html category=page.which_category-%}
+
+{%-if page.which_category-%}
+	{%-include post_list.html category=page.which_category-%}
+{%-else-%}
+	{% for post in site.posts %}
+	  {% assign currentdate = post.date | date: "%Y" %}
+	  {% if currentdate != date %}
+		{% unless forloop.first %}</ul>{% endunless %}
+		<h2 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h2>
+		<ul>
+		{% assign date = currentdate %}
+	  {% endif %}
+		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	  {% if forloop.last %}</ul>{% endif %}
+	{% endfor %}	
+{%-endif-%}
