@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 02/25/2022 20:45:00
+date: 2022-02-25 20:45:00 -0600
 tags: post, leadership
 category: leadership
 title: This Should Be Social

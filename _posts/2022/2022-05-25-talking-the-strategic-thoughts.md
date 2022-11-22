@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 05/25/2022 15:50:00
+date: 2022-05-25 15:50:00 -0600
 tags: post, leadership
 category: leadership
 title: Talking the Strategic Thoughts

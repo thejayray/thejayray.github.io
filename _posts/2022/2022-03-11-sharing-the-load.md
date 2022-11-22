@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 03/11/2022 08:30:00
+date: 2022-03-11 08:30:00 -0600
 tags: post, leadership, communication
 category: leadership
 title: Sharing the Load

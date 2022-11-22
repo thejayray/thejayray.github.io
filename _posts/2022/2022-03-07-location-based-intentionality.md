@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 03/07/2022 09:45:00
+date: 2022-03-07 09:45:00 -0600
 tags: post, leadership
 category: leadership
 title: Location-based Intentionality

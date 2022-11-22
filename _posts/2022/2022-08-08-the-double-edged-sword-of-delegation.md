@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 08/08/2022 12:30:00
+date: 2022-08-08 12:30:00 -0600
 tags: post, leadership
 category: leadership
 title: The Double-edged Sword of Delegation

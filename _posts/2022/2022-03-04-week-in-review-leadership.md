@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 03/04/2022 15:45:00
+date: 2022-03-04 15:45:00 -0600
 tags: post, leadership
 category: leadership
 title: Week in Review, Leadership and Journal Blogging

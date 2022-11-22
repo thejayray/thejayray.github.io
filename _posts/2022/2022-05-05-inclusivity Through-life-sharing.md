@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 05/05/2022 10:00:00
+date: 2022-05-05 10:00:00 -0600
 tags: post, leadership
 category: leadership
 title: Inclusivity Through Life Sharing

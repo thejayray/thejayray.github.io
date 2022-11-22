@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 03/17/2022 10:45:00
+date: 2022-03-17 10:45:00 -0600
 tags: post, leadership
 category: leadership
 title: Balancing Operations with Strategic Thinking

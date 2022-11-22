@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 06/07/2022 13:50:00
+date: 2022-06-07 13:50:00 -0600
 tags: post, leadership
 category: leadership
 title: Modern Approaches to Job Postings

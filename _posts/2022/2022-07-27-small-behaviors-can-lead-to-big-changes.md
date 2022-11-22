@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 07/27/2022 12:15:00
+date: 2022-07-27 12:15:00 -0600
 tags: post, leadership
 category: leadership
 title: Small Behaviors Can Lead to Big Changes

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 06/29/2022 21:30:00
+date: 2022-06-29 21:30:00 -0600
 tags: post, leadership
 category: leadership
 title: The Problem of One-offs

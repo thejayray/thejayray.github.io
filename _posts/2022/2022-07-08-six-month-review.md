@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 07/08/2022 11:00:00
+date: 2022-07-08 11:00:00 -0600
 tags: post, leadership
 category: leadership
 title: A Six Month Review of Leadership Goals

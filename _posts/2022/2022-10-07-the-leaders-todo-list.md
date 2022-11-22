@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 10/07/2022 14:40:00
+date: 2022-10-07 14:40:00 -0600
 tags: post, leadership
 category: leadership
 title: The Leader's To-do List

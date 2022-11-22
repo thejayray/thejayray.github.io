@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 05/19/2022 15:15:00
+date: 2022-05-19 15:15:00 -0600
 tags: post, leadership
 category: leadership
 title: Leaders Understand Decision-Making

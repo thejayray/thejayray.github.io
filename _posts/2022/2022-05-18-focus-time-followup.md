@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 05/18/2022 10:40:00
+date: 2022-05-18 10:40:00 -0600
 tags: post, leadership
 category: leadership
 title: A Followup About Focus Time

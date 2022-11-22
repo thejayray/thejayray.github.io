@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 4/22/2022 08:00:00
+date: 2022-4-22 08:00:00 -0600
 tags: post, leadership
 category: leadership
 title: Conference Reflections and Follow-ups

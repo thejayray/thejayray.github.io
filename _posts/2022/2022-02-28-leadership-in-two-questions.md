@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 02/28/2022 15:45:00
+date: 2022-02-28 15:45:00 -0600
 tags: post, leadership
 category: leadership
 title: Leadership in two questions

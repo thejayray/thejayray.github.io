@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 05/09/2022 12:20:00
+date: 2022-05-09 12:20:00 -0600
 tags: post, leadership
 category: leadership
 title: Juggling Two Leadership Programs

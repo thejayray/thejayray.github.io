@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 03/09/2022 16:00:00
+date: 2022-03-09 16:00:00 -0600
 tags: post, leadership
 category: leadership
 title: The Discomfort Zone

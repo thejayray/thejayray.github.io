@@ -1,7 +1,7 @@
 
 ---
 layout: post
-date: 03/08/2022 11:15:00
+date: 2022-03-08 11:15:00 -0600
 tags: post, leadership, technology
 category: leadership
 title: Location-based Technology

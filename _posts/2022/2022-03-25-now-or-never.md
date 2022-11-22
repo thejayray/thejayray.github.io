@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 03/25/2022 09:15:00
+date: 2022-03-25 09:15:00 -0600
 tags: post, leadership, parenthood
 category: leadership
 title: Now or Never

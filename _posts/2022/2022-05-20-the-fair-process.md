@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 05/20/2022 08:30:00
+date: 2022-05-20 08:30:00 -0600
 tags: post, leadership
 category: leadership
 title: The Fair Process

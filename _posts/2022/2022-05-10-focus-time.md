@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 05/10/2022 10:40:00
+date: 2022-05-10 10:40:00 -0600
 tags: post, leadership
 category: leadership
 title: Focus Time as a Leadership Quality

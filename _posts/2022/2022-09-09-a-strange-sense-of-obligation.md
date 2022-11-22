@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 09/09/2022 09:20:00
+date: 2022-09-09 09:20:00 -0600
 tags: post, leadership
 category: leadership
 title: A Strange Sense of Obligation

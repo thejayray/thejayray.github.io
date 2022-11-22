@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 03/02/2022 10:00:00
+date: 2022-03-02 10:00:00 -0600
 tags: post, leadership, parenthood
 category: leadership
 title: Decision-making as a means of renewal

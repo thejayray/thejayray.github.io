@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 10/04/2022 15:10:00
+date: 2022-10-04 15:10:00 -0600
 tags: post, leadership
 category: leadership
 title: Ideals and Ambitions

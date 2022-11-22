@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 04/05/2022 16:00:00
+date: 2022-04-05 16:00:00 -0600
 tags: post, leadership
 category: leadership
 title: My Leadership Journey (A Work in Progress)
