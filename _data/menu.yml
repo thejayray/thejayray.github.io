@@ -16,10 +16,3 @@ entries:
   - title: Featured
     post_list:
         category: featured
-
-  - title: Pages
-    entries:
-      - title: About
-        url: /about
-      - title: Jay Ray
-        url: /jayray
