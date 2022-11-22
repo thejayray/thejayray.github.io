@@ -2,6 +2,20 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: Leadership
+    url: /leadership-archive
+
+  - title: Recent
+    post_list:
+      limit: 6
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive
+      
+  - title: Featured
+    post_list:
+        category: featured
+
   - title: Pages
     entries:
       - title: About
@@ -10,17 +24,3 @@ entries:
         url: /archive
       - title: Jay Ray
         url: /jayray
-
-  - title: Posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive
-      
-  - title: Leadership
-    post_list:
-      category: leadership
-      show_more: true
-      show_more_text: See full series...
-      show_more_url: leadership-archive
