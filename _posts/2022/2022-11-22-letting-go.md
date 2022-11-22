@@ -10,7 +10,7 @@ As noted plenty of times before, I fancy myself a minimalist. Not only do I try 
 
 I have always been interested in challenges, but my website needed to be stable for the handful of people who still even read it or the completely random situations where an old post might be of interest. My completionism wouldn't allow a 404 to occur when I want people to get to content; not on my watch! But that has led to a lack of flexibility in my writing. I always had to ensure that the entire back catalog of junk, stretching as far back as my first Tumblr space was still available. So when my Blot subscription notice comes up every year, I let it ride because it is stable and includes my entire archive. What a burden and how boring.
 
-This year, when the subscription notice came across my email, I was struck by how little I cared one way or the other. So here we are, on GitHub Pages (again), effectively starting over.
+This year, when the subscription notice came across my email, I was struck by how little I cared one way or the other. More than that, I was feeling like the burden of old posts had started to take its toll. So here we are, on GitHub Pages (again), effectively starting over.
 
 None of this is to say that my back catalog won't carry over eventually. I definitely want my recent foray into Leadership blogging to stick around, but just like my wardrobe, I need to be intentional about the things I keep and things I let go of. How often do people go to my 2014 writing, let alone my 2021 stuff.
 
