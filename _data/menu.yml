@@ -17,3 +17,10 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive
+      
+  - title: Leadership
+    post_list:
+      category: leadership
+      show_more: true
+      show_more_text: See full series...
+      show_more_url: leadership-archive
