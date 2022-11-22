@@ -1,0 +1,32 @@
+# Setup
+title:               Engineered Eloquence
+url:                 https://engineeredeloquence.com
+tagline:             "Minimalism, Technology, and Parenthood"
+paginate:            1
+baseurl:             "/"
+
+# About/contact
+author: Jay Ray
+email: jayray@engineeredeloquence.com
+description: > # description of the site (multiple lines allowed)
+  Minimalism, Technology, and Parenthood
+
+# Permalinks
+permalink: /:year/:month/:title
+
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: "<-" # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
