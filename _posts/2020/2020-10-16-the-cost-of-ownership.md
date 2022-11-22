@@ -13,7 +13,7 @@ The minimalist sentiment I have heard a number of times is stated in one of two 
 + If you had to buy this sale item at full price, would you?
 + If you had to replace this item, would you?
 
-What I find most interesting in this context is the "No" answer, [as I call it]({% link _posts/2020-10-02-the-renewal-of-engineered-eloquence.md %}). Most of the Amazon deals are good ones, but would I even give it a second thought if it was full price? If the answer is no, shouldn’t that inform my decisions about the item itself or consumerism more generally?
+What I find most interesting in this context is the "No" answer, [as I call it](/2020/10/the-renewal-of-engineered-eloquence). Most of the Amazon deals are good ones, but would I even give it a second thought if it was full price? If the answer is no, shouldn’t that inform my decisions about the item itself or consumerism more generally?
 
 Now that the sale prices are gone and I purchased nothing, I have my personal answers to the above. Simplicity in this context is about not purchasing, even when it is convenient or all signs point to doing so. I often add things to my cart and wait 24 hours; if I still feel the need to purchase, I move forward, but this helps me control impulse and clear my mind. If the price or availability changes, I have either found my answer or start the process over.
 
