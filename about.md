@@ -7,7 +7,7 @@ Hi, I’m [Jay Ray](/jayray).
 
 ## Need Something?
 
-You can just [email me][mailto:jayray@engineeredeloquence.com]. Share your thoughts or ask for help. I will respond to any legitimate request.
+<a href="mailto:jayray@engineeredeloquence.com">Email me</a>. Share your thoughts or ask for help. I will respond to any legitimate request.
 
 ## About the Site
 
