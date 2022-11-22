@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-11-22 11:00:00 -0600
+date: 2022-11-22 09:25:00 -0600
 tags: post, leadership, minimalism
 category: leadership
 title: Letting Go
