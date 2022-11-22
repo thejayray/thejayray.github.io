@@ -8,6 +8,9 @@ layout: default
   {%-endif-%}
 </header>
 
+{% for post in site.posts limit:1 %}
+{% endfor %}
+
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
 {{ content }}
