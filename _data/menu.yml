@@ -11,7 +11,7 @@ entries:
       - title: Jay Ray
         url: /jayray
 
-  - title: all posts
+  - title: Posts
     post_list:
       limit: 5
       show_more: true
