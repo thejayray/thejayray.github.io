@@ -17,8 +17,6 @@ None of this is to say that my back catalog won't carry over eventually. I defin
 CGP Grey stated it well in "[I Have Died Many Times](https://www.cgpgrey.com/blog/i-have-died-many-times)":
 > This is more difficult to perceive in adulthood: often a span of years less and less differentiated. But the further back you go the more undeniable it is. Would you and your 20-year-old self agree on career decisions? Would you and your teenage-self get along?
 
-😂
-
 The fact that he is arguing is that the Internet (especially in our current social media-focused generation) never forgets, but we can and should. Leaders pick their poison, they choose their path, because no one else should for them. My twenty year old self got into technology support to help people which has kept me coming back to my work time and time again, but my online persona of the time was leagues shallower than the content I now want associated with my name. (And honestly, he was a bit of an immature jerk at times!)
 
 So. Along the way, we have to let go. Even in those times when we want to hold on to everything, we need to ask ourselves about the interest and importance the things still hold. I am not going to rid myself of everything I own nor will I stop playing games on my phone entirely, but shifting perspective through simple actions will inevitably allow us to refocus on the most importance things, so that we can let go, if we so choose.
