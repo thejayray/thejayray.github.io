@@ -7,6 +7,9 @@ baseurl:             "/"
 
 # About/contact
 author: Jay Ray
+author:
+  name: Jay Ray
+  email: jayray@engineeredeloquence.com
 email: jayray@engineeredeloquence.com
 description: > # description of the site (multiple lines allowed)
   Minimalism, Technology, and Parenthood
@@ -15,7 +18,9 @@ description: > # description of the site (multiple lines allowed)
 permalink: /:year/:month/:title
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+svg: "logo.svg"
 
+# Theme Info
 remote_theme: riggraz/no-style-please
 
 theme_config:
@@ -27,6 +32,15 @@ theme_config:
 sass:
   style: :compressed
 
+# Gems
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  
+# Other
+timezone:            America/Chicago
+
+# Custom vars
+version:             5.0.0
+github:              https://github.com/thejayray/
+repo:                https://github.com/thejayray/thejayray.github.io
