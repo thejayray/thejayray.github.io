@@ -4,7 +4,10 @@
   img {
     filter: invert(1);
 
-    &.ioda { filter: invert(0); }
+    &.ioda { filter: invert(0); } 
+  }
+  a {
+    color: #BF2E3D;
   }
 }
 
