@@ -1,17 +1,17 @@
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   filter: invert(1);
-  
-  img, a, 
-  .no-dark-mode {
-    -webkit-filter: invert(1);
+  img {
     filter: invert(1);
 
     &.ioda { filter: invert(0); } 
   }
+  a {
+    color: #BF2E3D;
+  }
 }
 
-  body[a="dark"] { @include dark-appearance; }
+body[a="dark"] { @include dark-appearance; }
 
 
 @media (prefers-color-scheme: dark) {
