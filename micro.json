@@ -11,10 +11,10 @@ layout: null
     "icon": "{{ site.url }}/logo.png",
     "favicon": "{{ site.url }}/favicon.ico",
     "expired": false,
-    "authors": {
+    "authors": [{
         "name": "{{ site.author.name }}",
         "url": "{{ site.url }}"
-    },
+    }],
     "items": [
         {% for post in site.categories.micro %}
         {
