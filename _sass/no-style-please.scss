@@ -1,7 +1,10 @@
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   filter: invert(1);
-  img, a {
+  
+  img, a, 
+  .no-dark-mode {
+    -webkit-filter: invert(1);
     filter: invert(1);
 
     &.ioda { filter: invert(0); } 
