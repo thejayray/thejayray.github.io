@@ -11,7 +11,7 @@ Hi, I’m [Jay Ray](/jayray).
 
 ## About the Site
 
-Engineered Eloquence was born out of my desire to make a more concerted effort to document my thoughts and life. This is version 6 of the Engineered Eloquence site (no science went into that version number) and with it, I am working on a more focused, more professional site that I can look back on with pride ten years from now. *Although the entire archive of content exists on the site to ensure old links continue to work, only long-form posts are currently visible for click-through.*
+Engineered Eloquence was born out of my desire to make a more concerted effort to document my thoughts and life. This is version 7 of the Engineered Eloquence site (no science went into that version number) and with it, I am working on a more focused, more intentional site that I can look back on with pride ten years from now. *There will be a lot of 404 errors as I pare down the archive of content. Reach out if you want to read something from the annals.*
 
 ## About the Design
 
