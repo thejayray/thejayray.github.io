@@ -14,7 +14,7 @@ To be honest, that intro makes me gag (I don't know that I have ever applauded i
 
 The Fair Process is based on four elements "Es": engagement, explanation, expectation clarity, and evaluation. I built something similar (and [published it](https://dl.acm.org/doi/10.1145/3123458.3123460) in a technology journal) about the innovation cycle as my team defined it back in 2017. We called it, "[The College Library Pilot Process](https://collegepilot.wiscweb.wisc.edu)" and it consists of the following: Feasibility, Investment, Assessment, Development, and Pilot.
 
-![The Pilot Process, image created by John Nannetti](/public/assets/pilot-program.png)
+![The Pilot Process, image created by John Nannetti](/assets/img/pilot-program.png)
 
 Only tangentially related to decision-making on a larger scale, the pilot process defined stages of a technology rollout and innovation cycle that allowed my team to iterate on technology that could provide for needs of patrons, staff, and faculty on campus. We allowed for various starting points, feedback gathering, and exit strategies.
 

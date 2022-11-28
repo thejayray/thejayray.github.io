@@ -8,7 +8,7 @@ title: The Need to Simplify Tech Workflows
 
 Yesterday, I realized I needed to simplify my workflows. I have to believe that the need is a commonality amongst technologists. Let me set the stage with a look into an iMessage conversation.
 
-![](/public/assets/2018-12-19.jpg)
+![](/assets/img/2018-12-19.jpg)
 
 This set of messages was followed by my colleague sending me a message that simply read, "Hold on. I have to go read your novel." But this is my thinking out loud face. 😝
 
