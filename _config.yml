@@ -4,6 +4,7 @@ url:                 https://engineeredeloquence.com
 tagline:             "Minimalism, Technology, and Parenthood"
 paginate:            1
 baseurl:             "/"
+markdown:            kramdown
 
 # About/contact
 author: Jay Ray
@@ -41,6 +42,6 @@ plugins:
 timezone:            America/Chicago
 
 # Custom vars
-version:             5.0.0
+version:             7.0.0
 github:              https://github.com/thejayray/
 repo:                https://github.com/thejayray/thejayray.github.io
