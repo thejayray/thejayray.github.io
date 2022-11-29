@@ -4,7 +4,6 @@ url:                 https://engineeredeloquence.com
 tagline:             "Minimalism, Technology, and Parenthood"
 paginate:            1
 baseurl:             "/"
-markdown:            GFM
 
 # About/contact
 author: Jay Ray
