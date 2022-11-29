@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+permalink: /about
+title: Hi, I’m [Jay Ray](/jayray).
 ---
-
-Hi, I’m [Jay Ray](/jayray).
 
 ## Need Something?
 
