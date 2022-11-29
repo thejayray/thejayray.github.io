@@ -24,6 +24,7 @@ As a good example of the alignment, we can discuss the idea of **Influence**. Th
 <center>
 | Weekly | Monthly |
 |---|---|
+
 | Bargaining | Bargaining-Expressive |
 | Coercion | Directive |
 | Common Vision | Shared View of the Future |
