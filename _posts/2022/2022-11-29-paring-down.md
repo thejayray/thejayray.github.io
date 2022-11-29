@@ -3,7 +3,7 @@ layout: post
 date: 2022-11-29 08:30:00 -0600
 tags: post, minimalism, technical, blog, leadership
 category: leadership
-title: A Product of Reflection: Paring Down
+title: "A Product of Reflection: Paring Down"
 ---
 
 Letting go is a skill; it takes consistency, practice, and intentionality. Skills also take time and effort to build into a competency. My wife tells me I have a skill for detaching from physical items; that skill often shows itself in the "let's get rid of everything we own and start from scratch" statements I make, often around the holidays given the excesses I see elsewhere in the world. However, I am still building my competency in letting go of digital clutter.
