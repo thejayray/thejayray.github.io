@@ -28,7 +28,6 @@ I have moved the site between providers multiple times and was on Blot from 2015
 
 + Resume: [Jay Ray](/jayray)
 + Email: <a href="mailto:jayray@engineeredeloquence.com">jayray at engineeredeloquence dot com</a>
-+ Twitter (not active): <a href="https://twitter.com/jayray">@JayRay</a>
 + Keybase Profile: <a href="https://keybase.io/jayray">Jay Ray</a>
 + GitHub: <a href="https://github.com/thejayray/">TheJayRay</a>
 
