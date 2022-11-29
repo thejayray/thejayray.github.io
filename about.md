@@ -6,7 +6,7 @@ title: "Hi, I’m Jay Ray."
 
 Engineered Eloquence was born out of my desire to make a more concerted effort to document my thoughts and life. The site has had a number of different designs, hosting providers, and goals over the years, but it has always been a place for me to play with the web, reflect on life and technology, and share my thoughts.
 
-This is version 7 of the Engineered Eloquence site (no science went into that version number) and with it, I am working on a more focused, more intentional site that I can look back on with pride ten years from now. *There will be a lot of 404 errors as I pare down the archive of content. Reach out if you want to read something from the annals.*
+This is version 7 of the Engineered Eloquence site and with it, I am working on a more focused, more intentional space that I can look back on with pride ten years from now. *There will be a lot of 404 errors as I pare down the archive of content. Reach out if you want to read something from the annals.*
 
 ## Need Something?
 

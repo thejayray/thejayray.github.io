@@ -104,7 +104,7 @@ Key accomplishments:
 
 ----
 
-## Recognitions
+## Recognition
 
 ### Janet E Plato Award for Diversity, Equity, and Inclusion
 #### UW-Madison IT Professionals Conference, June 2021
@@ -117,4 +117,4 @@ Key accomplishments:
 
 - Nominated for a local Emmy Award as Project Manager for the 2010 International Violin Competition of Indianapolis in the category of Crafts: Technical Achievement.
 - [Web Archive: List of Nominees, Category Number 79](https://web.archive.org/web/20200919180747/https://nataslgl.org/awards/2011-emmy-nominees/)
-- [Screenshot of Catergory](/assets/img/emmy.png)
+- [Screenshot of Category](/assets/img/emmy.png)
