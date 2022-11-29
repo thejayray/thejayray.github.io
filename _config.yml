@@ -4,6 +4,7 @@ url:                 https://engineeredeloquence.com
 tagline:             "Minimalism, Technology, and Parenthood"
 paginate:            1
 baseurl:             "/"
+markdown:            kramdown
 
 # About/contact
 author: Jay Ray
@@ -19,9 +20,6 @@ permalink: /:year/:month/:title
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 svg: "logo.svg"
-
-# Theme Info
-remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
