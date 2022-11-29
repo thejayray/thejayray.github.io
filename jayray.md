@@ -73,7 +73,7 @@ Key accomplishments:
 ### Valparaiso University
 #### BS in Mechanical Engineering, 2004 - 2008
 
-> The degree in Mechanical Engineering included coursework in design, technology, the sciences, and math. I have admittedly never used this degree directly (i.e. I have never been paid as a Mechanical Engineer), but the things I learned inform everything I do from how to learn to design methodologies and project management.
+> The degree in Mechanical Engineering included coursework in design, technology, the sciences, and math. While I have never held a job as a Mechanical Engineer, the things I learned inform everything I do from teaching and learning to design methodologies and project management.
 
 ----
 
