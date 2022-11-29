@@ -18,27 +18,27 @@ Notes:
 - Unlike most of my blog posts, this is all a work in progress. This post will change frequently until the end of the week.
 
 <center>
-|**Date**|**Event/Idea**|**+/Δ**|**VIP**|
-|-----|-----|:-----:|-----|
-|Childhood|Access through Education|+|My Parents|
-|Childhood|The Importance of Communication|+|My Mom|
-|Childhood|Standing for Social Justice|+|My Dad|
-|Childhood|The Strong One, Advocating for Others|+|My Sister|
-|Childhood|Faith, Community, and, Church|+|	My Parents|
-|Childhood|Perseverance Through Loss|+|My Grandmother|
-|High School|Academic Center Admittance|+|Myself|
-|High School|Future Problem Solvers|+|My Teacher|
-|High School|The Hard Geometry Class|Δ|My Teacher|
-|High School|Leading in the Theatre|+|My Teacher|
-|Undergrad|Perseverance to Complete a Degree|Δ|My Parents *|
-|Undergrad|Shifting focus to technology|+|My Mentor *|
-|Grad School|The Road to Never Use that Degree|Δ|Myself|
-|Indianapolis|New City, New Opportunities|+|My Mentor|
-|Indianapolis|New Baby, New Pink Slip|Δ|My Employer *|
-|Indianapolis|Being a Stay-at-Home Dad|+|My Daughter *|
-|Madison|Moving to Madison|Δ|My Family *|
-|Madison|My Dream Job at UW-Madison|+|My Boss *|
-|Madison|Advocating for Yourself|+|Myself *|
+| **Date** | **Event/Idea** | **+/Δ** | **VIP** |
+| ----- | ----- | :-----: | ----- |
+| Childhood | Access through Education | + | My Parents |
+| Childhood | The Importance of Communication | + | My Mom |
+| Childhood | Standing for Social Justice | + | My Dad |
+| Childhood | The Strong One, Advocating for Others | + | My Sister |
+| Childhood | Faith, Community, and, Church | + | 	My Parents |
+| Childhood | Perseverance Through Loss | + | My Grandmother |
+| High School | Academic Center Admittance | + | Myself |
+| High School | Future Problem Solvers | + | My Teacher |
+| High School | The Hard Geometry Class | Δ | My Teacher |
+| High School | Leading in the Theatre | + | My Teacher |
+| Undergrad | Perseverance to Complete a Degree | Δ | My Parents * |
+| Undergrad | Shifting focus to technology | + | My Mentor * |
+| Grad School | The Road to Never Use that Degree | Δ | Myself |
+| Indianapolis | New City, New Opportunities | + | My Mentor |
+| Indianapolis | New Baby, New Pink Slip | Δ | My Employer * |
+| Indianapolis | Being a Stay-at-Home Dad | + | My Daughter * |
+| Madison | Moving to Madison | Δ | My Family * |
+| Madison | My Dream Job at UW-Madison | + | My Boss * |
+| Madison | Advocating for Yourself | + | Myself * | 
 </center>
 
 ## Narrative
