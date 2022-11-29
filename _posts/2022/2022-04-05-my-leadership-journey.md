@@ -19,6 +19,7 @@ Notes:
 
 <center>
 |**Date**|**Event/Idea**|**+/Δ**|**VIP**|
+
 |-----|-----|:-----:|-----|
 |Childhood|Access through Education|+|My Parents|
 |Childhood|The Importance of Communication|+|My Mom|
