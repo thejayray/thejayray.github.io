@@ -1,0 +1,19 @@
+---
+Date: 2010-11-19 13:22:40 -0600
+Tags: Tumblr Posts, Examiner, post
+title: "Display Technologies, Part 3: Desktop Display Resolutions"
+---
+
+![HDTVs are only important due to the content they display.][image-1]
+
+The desktop display space is the strangest of all display technology spaces since it has been around for the longest and the fragmentation of technologies is most evident. The standard for all intents and purposes is the LCD technologies discussed in previous installments of this series, recently converting to LED backlighting due to the power saving features inherent to light emitting diodes. Resolutions have always been the important differentiator between monitors, as video graphics cards in computers got more powerful over the years. Where the conversation gets interesting is when televisions are counted as desktop displays. Samsung is known for creating these television/computer hybrid displays by placing high definition television tuners into their computer monitors (see [SyncMaster][1] line on Google Products). However, the resolution known as 1080p (1920x1080 pixels per inch with the "p" standing for progressive scan), is actually fairly low resolution in comparison to other monitors on the market.
+
+Well known in the computer world for humorous technology commentary, xkcd.com publishes stick figure cartoons based on current technology happenings with a twist that normally only tech people will understand and find funny. Earlier this year, one xkcd comic hit the display argument on the head: [http://www.xkcd.com/732/][2]. In it, one consumer is lauding their new HDTV that is able to represent full resolution 1080p video. Meanwhile, the other user states that his cell phone has almost as many pixels and his monitor from 2004 was able to show resolutions higher than that of this HDTV. The point is valid and not due to the ways in which people utilize these displays. On the one hand, the point is valid because the normal computer user tends to have his/her computer resolution at its maximum, around 1600x1200, although some who have difficulty with smaller text may change that for comfortability. On the other hand, the reason why HDTVs are important is not because of their displays but the content which they display. For instance, until recently high definition video was impossible over the air due to the bandwidth concerns of the medium. Hollywood has since released every movie they can via high definition mediums, which is "high definition" only in comparison to the things that came before it. Digital media is to blame for the confusion surrounding resolutions.
+
+In a world where the mobile landscape is much more important than desktop display technologies, desktop displays can only be as good as the content that is displayed on them. Computers are only as good as the content that they have the ability to play. The argument surrounding resolution is moot due to the idea that a 1600x1200ppi display is only worth the 1080p images that can be displayed on it. At some point, computers and television studios will be able to produce and distribute the content that will take advantage of the resolutions that monitors can show and higher. That technology is referred to as "[4K][3]" and will blow away the majority of current video implementations in terms of color representation, clarity, and detail.
+
+[1]:	http://www.google.com/products/catalog?q=syncmaster&um=1&ie=UTF-8&cid=5710173743014833277&ei=3sbmTPC3Msb_lge-iYHDCw&sa=X&oi=product_catalog_result&ct=result&resnum=3&ved=0CDkQ8wIwAg#
+[2]:	http://www.xkcd.com/732/
+[3]:	http://en.wikipedia.org/wiki/4K_resolution
+
+[image-1]:	/public/assets/examiner/2087a06b847560238d6569579f54d49d.png
