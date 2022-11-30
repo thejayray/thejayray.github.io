@@ -1,0 +1,16 @@
+---
+Date: 2014-03-03
+Tweet: I had a good idea, I was just too late.
+Tags: post, Jobs, Identity, Change
+title: Live Blogging a Job Search
+---
+
+Most people can’t write or talk much about their job search because their search takes place in private. In each of the jobs I have had, looking for a job has been a joke that rang just a bit too true and no employer is confident enough in their worker force’s loyalty to talk about it openly. This in my opinion is a mistake because, just like a marriage relationship, talking through things can fix the problems that exist internally. In other words, I don’t think I would have left my first position if a manager had come up to me and asked if I was doing alright or looking to leave, as long as I had the knowledge that I could answer in truth without fear of repercussion. In addition, I have always said that a place that can keep me challenged and excited about my work will keep me forever, which means my loyalty is guaranteed in such a circumstance.
+
+I have been writing this post, in some ways, for over a year because that is how long I have been looking for a job. Thankfully, my initial search took place while still employed, but as I have written previously on this site, I was laid-off from that position in early November, namely the day after my daughter was born. I took the time that I needed and wanted to be with my wife and newborn child in November, but by December, I desired to be back in the work force and began to look in earnest. Of course, no one really talks about job searching, so I had no idea that December was literally the worst month to be looking for a job, especially those that are not temporary and not in retail. For the last three months or so, therefore, I have been searching for a position, getting both phone and in-person interviews, but getting nowhere.
+
+In the title of this post, I mentioned the process of live blogging, which is an instance in which a blogger covers a bit of news in person. With the help of technology, such blogging sessions are taking place as the news is breaking, using Twitter or other web technologies to post small updates over the course of time. I have been giving a lot of thought to what live blogging would look like for a long term situation such as looking for a job or getting a graduate degree. Unfortunately for me, I always think to do these things after I have completed whatever it is I would be interested in discussing. Perhaps in the future, I will think of it before I finish a degree or find a job.
+
+Which brings me to the point of this post, I finally received an offer that fulfilled all of my personal and professional criteria and basically amounts to my dream job. Starting in the near future, I will be moving to Madison, WI to start work as Technology Operations Manager at the University of Wisconsin-Madison in their College Library. While many of the details have yet to be set, I have accepted their offer and look forward to everything that such a move entails. Once I take my post, I hope to write down my thoughts on the next stage of the job search: the difference between a job on paper and in reality. In the meantime, I prepare for the coming months with a mix of apprehension (read: terror) and excitement.
+
+Happy Job Hunting! I will not miss it.
