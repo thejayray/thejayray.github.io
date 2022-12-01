@@ -24,7 +24,7 @@ This site runs on GitHub Pages, intentionally with minimal structure and code. T
 
 In 2009, I started using Tumblr as a blogging platform. Prior to that, I had a few side projects that helped me gain an understanding of web technologies, all the way back to a website run on Apple's .Mac service using iWeb to build it. 
 
-The freedom of posting whatever I wanted to Tumblr with easy-to-use tools was the perfect way to get involved in the social media scene of the time. Looking back, I am astounded how little of what I wrote and shared matters to me now. However, I kept those posts, even transitioning them to my current site to allow for a record of my time on the web.
+The freedom of posting whatever I wanted to Tumblr with easy-to-use tools was the perfect way to get involved in the social media scene of the time. Looking back, I am astounded how little of what I wrote and shared matters to me now. I have a record of those posts, even transitioning them to all the previous version of the site to allow for a record of my time on the web, but in the move to the current site architecture, I have curated the published items and am only keeping live those items that are important to the journey, *my writing*.
 
 I have moved the site between providers multiple times and was on Blot from 2015-2022 due to simplicity and an ongoing developer relationship. As with all things, eventually change is inevitable and we need to be intentional with the tools we use and why. I moved back to GitHub Pages in large part because the site needs to continue to evolve and be as simple as possible to keep my interest. 
 
@@ -32,7 +32,7 @@ I have moved the site between providers multiple times and was on Blot from 2015
 
 + Resume: [Jay Ray](/jayray)
 + Email: <a href="mailto:jayray@engineeredeloquence.com">jayray at engineeredeloquence dot com</a>
-+ Keybase Profile: <a href="https://keybase.io/jayray">Jay Ray</a>
++ Micro.blog: [@JayRay](https://micro.blog/jayray)
 + GitHub: <a href="https://github.com/thejayray/">TheJayRay</a>
 
 ## Support the site
