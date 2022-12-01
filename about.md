@@ -14,7 +14,11 @@ This is version 7 of the Engineered Eloquence site and with it, I am working on 
 
 ## About the Design
 
-TBD. (See [Letting Go](/2022/11/letting-go))
+This site runs on GitHub Pages, intentionally with minimal structure and code. This time around, I wanted to use something utilitarian, which led me to Riccardo Graziosi's "No Style, Please" Jekyll theme for GitHub Pages. I took that as a template and started making it my own as I often do with these types of things. The below-listed items are noteworthy in the infrastructure and design.
+
++ Hover for Domain Name and associated services
++ Lightly modified version of the [No Style, Please](https://github.com/riggraz/no-style-please) Jekyll theme
++ Engineered Eloquence red ([#BF2E3D](https://www.colorhexa.com/bf2e3d)) used tastefully throughout
 
 ## Some Relevant History
 
