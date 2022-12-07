@@ -18,27 +18,132 @@ Notes:
 - Unlike most of my blog posts, this is all a work in progress. This post will change frequently until the end of the week.
 
 <center>
-| **Date** | **Event/Idea** | **+/Δ** | **VIP** |
-| ----- | ----- | :-----: | ----- |
-| Childhood | Access through Education | + | My Parents |
-| Childhood | The Importance of Communication | + | My Mom |
-| Childhood | Standing for Social Justice | + | My Dad |
-| Childhood | The Strong One, Advocating for Others | + | My Sister |
-| Childhood | Faith, Community, and, Church | + | 	My Parents |
-| Childhood | Perseverance Through Loss | + | My Grandmother |
-| High School | Academic Center Admittance | + | Myself |
-| High School | Future Problem Solvers | + | My Teacher |
-| High School | The Hard Geometry Class | Δ | My Teacher |
-| High School | Leading in the Theatre | + | My Teacher |
-| Undergrad | Perseverance to Complete a Degree | Δ | My Parents * |
-| Undergrad | Shifting focus to technology | + | My Mentor * |
-| Grad School | The Road to Never Use that Degree | Δ | Myself |
-| Indianapolis | New City, New Opportunities | + | My Mentor |
-| Indianapolis | New Baby, New Pink Slip | Δ | My Employer * |
-| Indianapolis | Being a Stay-at-Home Dad | + | My Daughter * |
-| Madison | Moving to Madison | Δ | My Family * |
-| Madison | My Dream Job at UW-Madison | + | My Boss * |
-| Madison | Advocating for Yourself | + | Myself * | 
+<table>
+    <thead>
+        <tr>
+            <th>**Date**</th>
+            <th>**Event/Idea**</th>
+            <th>**+/Δ**</th>
+            <th>**VIP**</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Childhood</td>
+            <td>Access through Education</td>
+            <td>+</td>
+            <td>My Parents</td>
+        </tr>
+        <tr>
+            <td>Childhood</td>
+            <td>The Importance of Communication</td>
+            <td>+</td>
+            <td>My Mom</td>
+        </tr>
+        <tr>
+            <td>Childhood</td>
+            <td>Standing for Social Justice</td>
+            <td>+</td>
+            <td>My Dad</td>
+        </tr>
+        <tr>
+            <td>Childhood</td>
+            <td>The Strong One, Advocating for Others</td>
+            <td>+</td>
+            <td>My Sister</td>
+        </tr>
+        <tr>
+            <td>Childhood</td>
+            <td>Faith, Community, and, Church</td>
+            <td>+</td>
+            <td>My Parents</td>
+        </tr>
+        <tr>
+            <td>Childhood</td>
+            <td>Perseverance Through Loss</td>
+            <td>+</td>
+            <td>My Grandmother</td>
+        </tr>
+        <tr>
+            <td>High School</td>
+            <td>Academic Center Admittance</td>
+            <td>+</td>
+            <td>Myself</td>
+        </tr>
+        <tr>
+            <td>High School</td>
+            <td>Future Problem Solvers</td>
+            <td>+</td>
+            <td>My Teacher</td>
+        </tr>
+        <tr>
+            <td>High School</td>
+            <td>The Hard Geometry Class</td>
+            <td>Δ</td>
+            <td>My Teacher</td>
+        </tr>
+        <tr>
+            <td>High School</td>
+            <td>Leading in the Theatre</td>
+            <td>+</td>
+            <td>My Teacher</td>
+        </tr>
+        <tr>
+            <td>Undergrad</td>
+            <td>Perseverance to Complete a Degree</td>
+            <td>Δ</td>
+            <td>My Parents *</td>
+        </tr>
+        <tr>
+            <td>Undergrad</td>
+            <td>Shifting focus to technology</td>
+            <td>+</td>
+            <td>My Mentor *</td>
+        </tr>
+        <tr>
+            <td>Grad School</td>
+            <td>The Road to Never Use that Degree</td>
+            <td>Δ</td>
+            <td>Myself</td>
+        </tr>
+        <tr>
+            <td>Indianapolis</td>
+            <td>New City, New Opportunities</td>
+            <td>+</td>
+            <td>My Mentor</td>
+        </tr>
+        <tr>
+            <td>Indianapolis</td>
+            <td>New Baby, New Pink Slip</td>
+            <td>Δ</td>
+            <td>My Employer *</td>
+        </tr>
+        <tr>
+            <td>Indianapolis</td>
+            <td>Being a Stay-at-Home Dad</td>
+            <td>+</td>
+            <td>My Daughter *</td>
+        </tr>
+        <tr>
+            <td>Madison</td>
+            <td>Moving to Madison</td>
+            <td>Δ</td>
+            <td>My Family *</td>
+        </tr>
+        <tr>
+            <td>Madison</td>
+            <td>My Dream Job at UW-Madison</td>
+            <td>+</td>
+            <td>My Boss *</td>
+        </tr>
+        <tr>
+            <td>Madison</td>
+            <td>Advocating for Yourself</td>
+            <td>+</td>
+            <td>Myself *</td>
+        </tr>
+    </tbody>
+</table>
 </center>
 
 ## Narrative
