@@ -22,19 +22,60 @@ As a good example of the alignment, we can discuss the idea of **Influence**. Th
 - This is largely an estimated alignment based on my personal understanding of each entry and the explanations I was provided by each program (i.e. I may be wrong about how they align in practice).
 
 <center>
-| Weekly | Monthly |
-| --- | --- |
-| Bargaining | Bargaining-Expressive |
-| Coercion | Directive |
-| Common Vision | Shared View of the Future |
-| Empowerment | Building Goodwill |
-| Impact Management | Inspirational Impact |
-| Interpersonal Awareness | Bargaining-Receptive |
-| Logical Persuasion | Logic |
-| Organizational Awareness | Political Savvy |
-| Relationship Building | Relationships |
-|  | Modeling |
-| Empowerment | Consulting |
+<table>
+    <thead>
+        <tr>
+            <th>Weekly</th>
+            <th>Monthly</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Bargaining</td>
+            <td>Bargaining-Expressive</td>
+        </tr>
+        <tr>
+            <td>Coercion</td>
+            <td>Directive</td>
+        </tr>
+        <tr>
+            <td>Common Vision</td>
+            <td>Shared View of the Future</td>
+        </tr>
+        <tr>
+            <td>Empowerment</td>
+            <td>Building Goodwill</td>
+        </tr>
+        <tr>
+            <td>Impact Management</td>
+            <td>Inspirational Impact</td>
+        </tr>
+        <tr>
+            <td>Interpersonal Awareness</td>
+            <td>Bargaining-Receptive</td>
+        </tr>
+        <tr>
+            <td>Logical Persuasion</td>
+            <td>Logic</td>
+        </tr>
+        <tr>
+            <td>Organizational Awareness</td>
+            <td>Political Savvy</td>
+        </tr>
+        <tr>
+            <td>Relationship Building</td>
+            <td>Relationships</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Modeling</td>
+        </tr>
+        <tr>
+            <td>Empowerment</td>
+            <td>Consulting</td>
+        </tr>
+    </tbody>
+</table>
 </center>
 
 In each of the above, we can see the alignment, but likely also see differences in how the ideas are approached. Take for instance, the idea of Coercion/Directive:
