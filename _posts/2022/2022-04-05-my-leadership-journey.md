@@ -21,10 +21,10 @@ Notes:
 <table>
     <thead>
         <tr>
-            <th>**Date**</th>
-            <th>**Event/Idea**</th>
-            <th>**+/Δ**</th>
-            <th>**VIP**</th>
+            <th>Date</th>
+            <th>Event/Idea</th>
+            <th>+/Δ</th>
+            <th>VIP</th>
         </tr>
     </thead>
     <tbody>
