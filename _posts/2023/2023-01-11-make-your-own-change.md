@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-01-11 10:35:00 -0600
-tags: post
+tags: post, change
 title: Make your own change
 ---
 
