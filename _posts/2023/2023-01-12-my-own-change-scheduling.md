@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-12 15:30:00 -0600
 tags: post, change
-title: My Own Change: Scheduling
+title: "My Own Change: Scheduling"
 ---
 
 In my recent post, [Make Your Own Change](/2023/01/make-your-own-change), I noted three ways that I was trying to reevaluate my behaviors. This was predicated on the fact that I am in a new house in a new neighborhood in a new year. Newness of environmental factors allows for conceptualization of what else can be made new through choice and change. My next few posts will lay out what each behavior looks like in practice and how the change affects a portion of my daily life. For reference, the list is below; I will start today with number one.
