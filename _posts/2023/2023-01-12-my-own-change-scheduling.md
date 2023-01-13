@@ -2,6 +2,7 @@
 layout: post
 date: 2023-01-12 15:30:00 -0600
 tags: post, change, leadership
+category: leadership
 title: "My Own Change: Scheduling"
 ---
 
