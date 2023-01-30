@@ -29,7 +29,7 @@ I didn't watch last night's football game, instead opting to read with the kids.
 
 And it is true. Humans make decisions too frequently to satisfy the here and now, instead of to reward the future.
 
-I am finally getting around to reading my back catalog of books, starting with *The Subtle Art of Not Giving a F*ck* by Mark Manson. One chapter in and this idea is brought to the fore once again: what am I caring about now that I will realize was insignificant when it causes me to miss something or creates a problem I could have avoided?
+I am finally getting around to reading my back catalog of books, starting with *The Subtle Art of Not Giving a F\*ck* by Mark Manson. One chapter in and this idea is brought to the fore once again: what am I caring about now that I will realize was insignificant when it causes me to miss something or creates a problem I could have avoided?
 
 ---
 
