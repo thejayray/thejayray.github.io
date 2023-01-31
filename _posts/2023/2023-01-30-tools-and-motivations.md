@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-30 15:40:00 -0600
 tags: post, change, motivation
-title: "Tools and Motivations"
+title: Tools and Motivations
 ---
 
 I was doing some research on Air Fryers. Note however that halfway into my research I realized that I didn't really need it. My minimalism and a realization that other tools I already own have the potential to accomplish the same outcomes won out. The key word there being "potential"; there are steps, time, and effort that must be spent to achieve our goals no matter the tool producing the outcome we seek.
