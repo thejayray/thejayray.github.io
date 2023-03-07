@@ -11,11 +11,11 @@ I always thought I had oddly shaped feet. My "big toe" is a quite a bit bigger t
 
 One other point of interest here is that I love being barefoot. Perhaps that is because of ill-fitting shoes or simply because I got used to walking around in designer sandals back in the surfer dude heydays of the early 2000s, but whatever the reason, I have strong feet and great balance because I spend as much time as I can without shoes on where it is deemed appropriate.
 
-!()[/assets/img/barefoot-shoes/asolo-agent.jpg]
+![Asolo, Agent EV Hiking Shoes](/assets/img/barefoot-shoes/asolo-agent.jpg)
 
 In hindsight, I started my barefoot-style, minimalist shoe journey back in 2014 when I found out that hiking shoes had wider toe boxes than a standard shoe. I started wearing a pair of Asolo shoes as much as I could get away with. Waterproof, low cut, and comfortable in almost any context, I started seeking out other options that afforded the same things. The Asolo shoes were stylish enough, but I needed something that was a bit more work appropriate. Next, I got a pair of Astral Designs Loyak. They are technically water shoes (since Astral is a company focused on water sports use cases), but they look like a casual loafer more than a water shoe of old. The Astrals became my everyday wear throughout the summer. Finally, I purchased a pair of Sorel slippers as house shoes and that rounded out my wide-toe-box-comfortable-all-around shoe needs.
 
-!()[/assets/img/barefoot-shoes/astral-loyak.jpg]
+![Astral Designs, Loyak Mens](/assets/img/barefoot-shoes/astral-loyak.jpg)
 
 I stumbled upon the modern barefoot movement when reviewing natural movement exercises on YouTube. It had never occurred to me that there might be ways to feel as comfortable as I was in my Asolos and Astrals in other contexts and that modern shoe design was creating a two steps forward (when barefoot), one step back (when shod) situation for my body. I read the amazing book *Move Your DNA* by Katy Bowman and gained more clarity on the loads we place or fail to place on our bodies that have robbed us of more natural flexibilities and posture. I took inventory of my shoes and started to notice that those I gravitated to fit the barefoot mold, so I started down the rabbit hole of the modern barefoot movement.
 
@@ -49,17 +49,17 @@ In my mind, a barefoot shoe must check the following boxes:
 
 At this point, I have purchased or tried shoes from the following barefoot-focused brands and have liked them all for different reasons: Vivobarefoot, Xero Shoes, and Lems. I will use the example of winter-friendly barefoot boots to provide context for my choices here and the reasoning for the title of this post.
 
-!(Xero Shoes, Denver Leather)[/assets/img/barefoot-shoes/denver-leather.jpg]
+![Xero Shoes, Denver Leather](/assets/img/barefoot-shoes/denver-leather.jpg)
 
 For context, I started this process in the midst of winter and wanted to replace my old Clark dress boots with something that was work appropriate, warm, and at least water resistant if not waterproof. My Clarks lacked traction anymore, so they were in need of replacement anyway.
 
 Since I had started my modern barefoot journey with Xeros, I started there and immediately fell in love with the Xero Denver Leather, but alas my size was sold out, so I started looking elsewhere, reading and watching every online review I could get my hands on. In the end, I tried the Lems Boulder Summit and the Vivobarefoot Scott III Eco.
 
-!(Lems, Boulder Summit)[/assets/img/barefoot-shoes/lems-boulder-summit.jpg]
+![Lems, Boulder Summit](/assets/img/barefoot-shoes/lems-boulder-summit.jpg)
 
 The Lems were a close second to the Xeros, but the boot and stack height, as well as the fact that they aren't technically zero-drop had me second guessing that choice. When I got them in hand, two things became apparent: Lems run bigger than any other shoe I had yet tried when considered true to size, so a 13 was half a size too big, and the shoes themselves were heavy, owing likely to the stack height which included two different outsoles, a full rubber layer and an injection blown rubber layer. (Thanks to YouTube channel Rose Anvil for cutting a pair in half.) A barefoot shoe (to me) means light and flexible.
 
-!(Vivobarefoot Revivo, Scott III Eco)[/assets/img/barefoot-shoes/vivobarefoot-scott-eco.jpg]
+![Vivobarefoot Revivo, Scott III Eco](/assets/img/barefoot-shoes/vivobarefoot-scott-eco.jpg)
 
 Vivobarefoot's Revivo website (where they refurbish their shoes and resell them at a discount) had the Scott III Eco, which fit all of my criteria including the lightness, flexibility, and zero drop characteristics missing from the Lems, but the boot height inevitably threw me off. I immediately developed a hotspot where the gusseted tongue rubbed my ankle raw just wearing the shoes around the house to test. I will say this: the construction on these shoes was great and the company has so many things going for it. With socks I possibly could have made the Scotts work, but I got into this to minimize my collection with only the best options for me, so settling right out of the gate felt wrong. Another unexpected consequence of buying from Vivobarefoot is the fact that they are a UK company and I am still awaiting word on whether my return will actually get back to them for my refund to kick in. Sufficed to say, I am going to be a little more hesitant when buying from companies outside the US moving forward, especially in situations where sizing may be a problem.
 
