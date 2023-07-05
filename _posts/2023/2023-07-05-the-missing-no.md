@@ -2,7 +2,7 @@
 layout: post
 date: 2023-07-05 12:00:00 -0500
 tags: post, leadership, change, motivation
-title: "Defining My Why: The Missing "No" in my Service Vocabulary"
+title: 'Defining My Why: The Missing "No" in my Service Vocabulary'
 ---
 
 > NOTE: My last post entitled *Define Your Why* was all about setting an intention and reasoning for each decision point a person comes across. I have decided to expand on this idea with a series of posts about my personal "Why" and how it affects various aspects of my life and work. Thanks for reading.
