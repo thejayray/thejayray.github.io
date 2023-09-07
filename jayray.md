@@ -82,7 +82,8 @@ Key accomplishments:
 ### SIGUCCS 2023 Presentation and White Paper, 2023 (In Progress)
 
 - New Tools for Old Services: Implementing WebCheckout for UW-Madison InfoLabs Technology Circulation
-- Conference, March 2023 - Chicago, IL
+- [Citation Page](https://dl.acm.org/doi/10.1145/3539811.3579574)
+- Conference, March 2023 ([Program](https://siguccs.org/Conference/2023/wp-content/uploads/2023/03/2023-SIGUCCS-Conference-Program.pdf)) - Chicago, IL - Presentation not recorded
 
 ### EdTech Magazine, Spring Issue, 2018
 
