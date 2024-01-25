@@ -108,5 +108,4 @@ img {
   padding-top: 2rem;
 
   &:before { content: '-----' };
-  &:after { content: attr(data-content) '-----' }
 }
