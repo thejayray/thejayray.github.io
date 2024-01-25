@@ -2,7 +2,7 @@
 layout: post
 date: 2024-01-25 8:15:00 -0600
 tags: post, watches, fashion, kids
-title: 'Watches for Kids - First Impressions of Blok’
+title: 'Watches for Kids - First Impressions of Blok'
 ---
 
 I am not sure when I stopped wearing watches. I always liked them, though. Perhaps this was a precursor to my desire to become a mechanical engineer. Moving parts within functional systems that were created to support human endeavors.
