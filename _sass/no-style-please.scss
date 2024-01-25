@@ -103,3 +103,10 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+.footnotes {
+  padding-top: 2rem;
+
+  &:before { content: '-----' };
+  &:after { content: attr(data-content) '-----' }
+}
