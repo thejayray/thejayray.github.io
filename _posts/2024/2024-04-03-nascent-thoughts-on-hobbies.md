@@ -2,7 +2,7 @@
 layout: post
 date: 2024-04-03 12:35:00 -0500
 tags: post, poem, hobbies
-title: ‘Nascent Thoughts on Hobbies’
+title: Nascent Thoughts on Hobbies
 ---
 
 I use to fancy myself a connoisseur of everything, an endless well of interest in new subjects or hobbies.
