@@ -5,7 +5,7 @@ tags: post
 title: Time to Let Go or Rearrange Deck Chairs?
 ---
 
-I have been reading about the P.A.R.A. Method for organizing digital information; long story short, I need a digital reset. I have noted areas that normally have been well organized in my digital life are becoming less so. Nash talked about his use of this method in her Morning Coffee newsletter from [March 25](https://nashp.com/102#the-para-method) (my birthday by the way). We got to talking and he provided me with a bit more insight into the ways in can be used.
+I have been reading about the P.A.R.A. Method for organizing digital information; long story short, I need a digital reset. I have noted areas that normally have been well organized in my digital life are becoming less so. Nash talked about his use of this method in his Morning Coffee newsletter from [March 25](https://nashp.com/102#the-para-method) (my birthday by the way). We got to talking and he provided me with a bit more insight into the ways in can be used.
 
 The crux of the idea is this (from [Luca Pallotta](https://www.lucapallotta.com/para/)):
 > Four Primary Categories (all information is organized into one of these categories, which are listed in order of actionability):
