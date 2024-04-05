@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-04-05 12:35:00 -0500
+date: 2024-04-05 09:45:00 -0500
 tags: post, annotation, link, list
 category: annotation
 title: An Annotated Reading List
