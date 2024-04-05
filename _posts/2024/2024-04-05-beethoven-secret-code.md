@@ -3,7 +3,7 @@ layout: post
 date: 2024-04-05 11:55:00 -0500
 tags: post, annotation, link, list
 category: annotation
-title: "Annotated: Beethoven’s Secret Code"
+title: 'Annotated: Beethoven’s Secret Code'
 ---
 
 *This post is a part of a series that forms an annotated reading list; all posts in the series can be found [here](https://engineeredeloquence.com/annotations).*
