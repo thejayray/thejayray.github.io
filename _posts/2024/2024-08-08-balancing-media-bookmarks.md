@@ -15,7 +15,7 @@ This all comes back to bookmarks for me because so frequently I used bookmarks a
 
 Nash's newsletter [last week](https://nashp.com/120) was about his Bookmarks setup (or lack thereof) and was directly in response to our conversation on the topic. He has a good breakdown of the apps he uses when working with links in his daily life.
 
-Since clearing out my bookmarks [last week](https://engineeredeloquence.com/2024/07/clean-slate-bookmarks), I have recreated one bookmark for my most used work application. I tried Safari's profiles feature as a means of creating some division between personal and professional history and bookmarks, but that added complexity that was unnecessary in this experiment. However, I noted that the way I use the browser is assisted by bookmarks, not bogged down by them.
+Since clearing out my bookmarks [last month](https://engineeredeloquence.com/2024/07/clean-slate-bookmarks), I have recreated one bookmark for my most used work application. I tried Safari's profiles feature as a means of creating some division between personal and professional history and bookmarks, but that added complexity that was unnecessary in this experiment. However, I noted that the way I use the browser is assisted by bookmarks, not bogged down by them.
 
 There are times when you go to a resource once in a while, but it has an obscure (not memorable) URL; those items need a bookmark because Safari then knows of them regardless of how often you use them. In practice, this means that I will recreate the handful of common (but not necessarily frequent) use bookmarks that enable some "intelligence" in Safari. 
 
