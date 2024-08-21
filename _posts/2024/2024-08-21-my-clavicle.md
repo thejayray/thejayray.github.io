@@ -5,7 +5,7 @@ tags: post, personal
 title: A Retrospective on (a portion of) Recovery
 ---
 
-I broke my clavicle on July 17, 2024. I was coaching kids soccer and as an almost 40 year old, I probably shouldn't be going all out on the field against six 10 year olds. But I did and the consequences of pushing myself (and the team to step of defensively) was that I got tripped downfield and landed full force on my right shoulder.
+I broke my clavicle on July 17. I was coaching kids soccer and as an almost 40 year old, I probably shouldn't be going all out on the field against six 10 year olds. But I did and the consequences of pushing myself (and the team to step of defensively) was that I got tripped downfield and landed full force on my right shoulder.
 
 ---
 
