@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-04-09 15:15:00 -0500
-tags: post, technology, language, Italy, Italian
+tags: post, technology, language, Italy, Italian, learning
 title: Learning a Language in 2025
 ---
 
