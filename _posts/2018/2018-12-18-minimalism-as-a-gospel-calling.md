@@ -2,7 +2,6 @@
 layout: post
 date: 2018-12-18 09:30 -0600
 tags: post, minimalism, religion
-category: featured
 title: Minimalism as a Gospel Calling
 ---
 

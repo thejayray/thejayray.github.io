@@ -3,7 +3,6 @@ layout: post
 date: 2012-11-27
 tweet: Personal views on current event reporting and its pitfalls
 tags: post, writing
-category: featured
 title: The Challenges of Timeless Writing
 ---
 

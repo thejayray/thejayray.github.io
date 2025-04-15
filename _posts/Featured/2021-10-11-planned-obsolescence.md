@@ -2,6 +2,7 @@
 date: 2021-10-11 13:45:00 -0600
 tags: post, minimalism, technology
 title: Planned Obsolescence
+category: featured
 ---
 
 It's kinda funny. I fancy myself a minimalist; I try to keep things simple. But complexity sometimes adds too much value to be ignored. For instance, in no scenario I have ever seen does going it alone provide the best version of any given outcome. Going it alone is simple because people are complicated, but going it alone also lends itself to fatigue, mistakes, or narcissism. I often chose people over not, but I also use the opportunities to further my personal planned obsolescence.

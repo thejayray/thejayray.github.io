@@ -2,7 +2,6 @@
 layout: post
 date: 2018-11-15 15:25:00 -0600
 tags: post, minimalism, technology
-category: featured
 title: Digital Hoarding (or the Fight for Digital Minimalism)
 ---
 

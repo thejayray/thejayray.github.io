@@ -2,7 +2,6 @@
 layout: post
 date: 2018-12-19 09:15 -0600
 tags: post, minimalism, technology, workflows
-category: featured
 title: The Need to Simplify Tech Workflows
 ---
 
