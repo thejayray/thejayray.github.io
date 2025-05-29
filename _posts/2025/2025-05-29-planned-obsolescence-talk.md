@@ -2,7 +2,7 @@
 layout: post
 date: 2025-05-29 08:00:00 -0500
 tags: post, technology, talks, conference
-category: leadership, featured
+category: leadership
 title: Planned Obsolescence, A Leadership Strategy
 --- 
 
