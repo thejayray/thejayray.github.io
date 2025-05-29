@@ -4,7 +4,7 @@ date: 2025-05-29 08:00:00 -0500
 tags: post, technology, talks, conference
 category: leadership
 permalink: itproconf2025
-title: Planned Obsolescence, Leadership Strategy
+title: Planned Obsolescence, A Leadership Strategy
 --- 
 
 *The following was written in preparation for a talk given at the 2025 IT Professionals Conference on May 29, 2025. Some information has been changed or updated to accommodate a text-only blog format.*
