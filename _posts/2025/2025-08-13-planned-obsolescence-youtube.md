@@ -9,5 +9,5 @@ title: Planned Obsolescence, A YouTube Recording
 While I was in Italy, the recordings from the 2025 IT Professionals Conference were posted. You can find the recording [on the conference website](https://itproconf.wisc.edu/event/planned-obsolescence-turning-a-technology-fallacy-into-a-leadership-strategy/) and embedded below; the text was posted for that last couple months and can still be found [here](https://engineeredeloquence.com/2025/05/planned-obsolescence-talk). Enjoy.
 
 <div class="video-embed">
-	<object style="width: 100%; height: 425px; data="https://www.youtube.com/embed/WKY-nMbprVw">
+	<object style="width: 100%; height: 425px; float: none; clear: both; margin: 2px auto;" data="https://www.youtube.com/embed/WKY-nMbprVw"></object>
 </object></div>
