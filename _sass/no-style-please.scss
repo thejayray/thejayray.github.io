@@ -1,7 +1,7 @@
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   filter: invert(1);
-  img, a, .footnotes {
+  img, a {
     -webkit-filter: invert (1);
     filter: invert(1);
 
@@ -52,7 +52,7 @@ a:hover {
     color: #fff;
 }
 
-*:target { background: #FEFDD1; }
+*:target { background: #FDFCA3; }
 
 .w {
   max-width: 640px;
