@@ -10,4 +10,4 @@ While I was in Italy, the recordings from the 2025 IT Professionals Conference w
 
 <div class="video-embed">
 	<object style="width: 100%; height: 425px; float: none; clear: both; margin: 2px auto;" data="https://www.youtube.com/embed/WKY-nMbprVw"></object>
-</object></div>
+</div>
