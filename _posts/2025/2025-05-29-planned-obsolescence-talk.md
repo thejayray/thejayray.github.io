@@ -3,7 +3,7 @@ layout: post
 date: 2025-05-29 08:00:00 -0500
 tags: post, technology, talks, conference
 category: leadership
-thumbnail: https://engineeredeloquence.com/2025/05/planned-obsolescence-talk
+thumbnail: "https://itproconf.wisc.edu/wp-content/uploads/sites/296/2025/05/Planned-obsolescence_@0.5x-100.jpg"
 title: Planned Obsolescence, A Leadership Strategy
 --- 
 
