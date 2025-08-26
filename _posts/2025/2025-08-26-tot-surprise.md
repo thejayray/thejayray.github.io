@@ -21,4 +21,4 @@ There are only a few app development companies that I follow because I love the 
 	- I prefer apps that either don't collect any data at all or collect data only to improve the quality of their product.
 	- I will admit that I have plenty of apps that I dislike but that serve a needed purpose, like smart home apps, service apps for mobile ticketing, etc.
 [^2]: I also love [Reeder](https://reeder.app), but they serve different purposes for me.
-[^3]: The key to the updates is that they are intentionally chosen to enhance the experience of using the app, while keeping it the same simple, well-designed space for text that it has always been. If the updates creating friction, they would defeat the app's original intent; this is an aspect of what makes The Iconfactory so good at what they do.
+[^3]: The key to the updates is that they are intentionally chosen to enhance the experience of using the app, while keeping it the same simple, well-designed space for text that it has always been. If the updates create friction, they would defeat the app's original intent; this is an aspect of what makes The Iconfactory so good at what they do.
