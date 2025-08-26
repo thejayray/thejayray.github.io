@@ -17,7 +17,7 @@ Much to my surprise, this morning I opened by desktop RSS reader of choice ([Net
 There are only a few app development companies that I follow because I love the work they do and most of them have been around for awhile (read: they predate the iPhone and I fell in love with their work on the Mac or the web); The Iconfactory is one of those companies. They have always identified themselves by their whimsy and delight in the details of the work. Tot is a great example of opinionated, whimsical design that works. Here's to years more of Tot in my life. 🥂
 
 [^1]: Additional general notes about apps:
-- I definitely prefer single purchase apps to subscriptions, but will keep a subscription for apps that I use at least once a week. 
-- I prefer apps that either don't collect any data at all or collect data only to improve the quality of their product.
-- I will admit that I have plenty of apps that I dislike but that serve a needed purpose, like smart home apps, service apps for mobile ticketing, etc.
+	- I definitely prefer single purchase apps to subscriptions, but will keep a subscription for apps that I use at least once a week. 
+	- I prefer apps that either don't collect any data at all or collect data only to improve the quality of their product.
+	- I will admit that I have plenty of apps that I dislike but that serve a needed purpose, like smart home apps, service apps for mobile ticketing, etc.
 [^2]: I also love [Reeder](https://reeder.app), but they serve different purposes for me.
