@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-08-27 13:00:00 -0500
+date: 2025-08-27 10:00:00 -0500
 tags: post, technology, notes
 thumbnail: "https://engineeredeloquence.com/logo.png"
 title: Engineered Eloquence
