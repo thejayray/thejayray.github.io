@@ -1,7 +1,7 @@
 # Setup
 title:               Engineered Eloquence
 url:                 https://engineeredeloquence.com
-tagline:             "Tools and Technology for Thoughtful Leaders"
+tagline:             "Tools for Thoughtful Leaders"
 paginate:            1
 baseurl:             "/"
 markdown:            GFM
@@ -13,7 +13,7 @@ author:
   email: jayray@engineeredeloquence.com
 email: jayray@engineeredeloquence.com
 description: > # description of the site (multiple lines allowed)
-  Tools and Technology for Thoughtful Leaders
+  Tools for Thoughtful Leaders
 
 # Permalinks
 permalink: /:year/:month/:title
@@ -39,6 +39,6 @@ plugins:
 timezone:            America/Chicago
 
 # Custom vars
-version:             7.0.1
+version:             7.1.0
 github:              https://github.com/thejayray/
 repo:                https://github.com/thejayray/thejayray.github.io
