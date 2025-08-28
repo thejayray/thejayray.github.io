@@ -13,8 +13,8 @@ layout: default
 
   {{ content }}
   
-  {% if post.thumbnail %}
-  	<br><img src="{{ post.thumbnail }}"></img>
-  {% endif %}
+  {%-if page.thumbnail-%}
+  	<br><img src="{{ page.thumbnail }}"></img>
+  {%-endif-%}
   
 </article>
