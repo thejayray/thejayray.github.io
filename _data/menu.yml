@@ -12,11 +12,7 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive
-      
-  - title: Series
-    post_list:
-        tag: notes
-      
+
   - title: Featured
     post_list:
         category: featured
