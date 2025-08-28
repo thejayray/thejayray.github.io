@@ -13,6 +13,10 @@ entries:
       show_more_text: See archive...
       show_more_url: archive
 
+  - title: Note-taking in 2025
+    post_list:
+        category: notes
+
   - title: Featured
     post_list:
         category: featured
