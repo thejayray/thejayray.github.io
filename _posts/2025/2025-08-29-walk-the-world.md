@@ -14,8 +14,8 @@ As one might guess, I ended up completing all of the available walks after my tr
 
 The reason why this app has been such a great experience though isn't all of the details that the developers ([Impending](https://www.impending.com), who circulates other apps that I love as well[^1]) got right, it is the notion that this type of app doesn't have to push or pressure the user in any way and it can still be a fun and gratifying experience anyway.
 
-As you might guess, though, I love to beta test apps, I love to walk, and now I love to use this app as a playful way to experience virtual hikes in far-off places. I hope the Impending teams keep allowing me to help beta test and I hope they keep up their wonderful work.
+I love to beta test apps, I love to walk, and now I love to use this app as a playful way to experience virtual hikes in far-off places. I hope the Impending team keeps allowing me to help beta test their apps and I hope they keep up their wonderful work for the foreseeable future.
 
-Have fun and [check it out](https://apps.apple.com/us/app/walk-the-world-virtual-trails/id6743502929?l=es-MX)!
+Go [check it out](https://apps.apple.com/us/app/walk-the-world-virtual-trails/id6743502929?l=es-MX) and have fun!
 
 [^1]: One of the other apps sold by Impending is a hide and seek game for kids called "Here Kitty!" and boy, was that game a part of getting our family through COVID. Other claims to fame: Heads Up! and the recent revitalization of [Clear To-Dos](https://www.useclear.com).
