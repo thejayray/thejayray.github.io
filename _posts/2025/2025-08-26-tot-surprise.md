@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-08-26 13:00:00 -0500
-tags: post, technology, notes
+tags: post, technology, notes, apps
 thumbnail: "https://blog.iconfactory.com/wp-content/uploads/2025/08/Tot2-Hero-Iconfactory.jpg"
 category: notes
 title: A Tot-al Surprise
