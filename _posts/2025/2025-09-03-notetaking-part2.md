@@ -4,7 +4,7 @@ date: 2025-09-03 11:00:00 -0500
 tags: post, technology, notes
 thumbnail: "https://engineeredeloquence.com/assets/img/2025/2025-09-03-note-taking-tot.jpg"
 category: notes
-title: Note-taking in 2025, the Utility of Tot
+title: The Utility of Tot
 --- 
 
 *This is part two of a series on note-taking. [See Part 1.](https://engineeredeloquence.com/2025/08/notetaking-2025)* 
