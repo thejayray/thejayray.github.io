@@ -9,7 +9,7 @@ title: The Utility of Tot
 
 *This is part two of a series on note-taking. [See Part 1.](https://engineeredeloquence.com/2025/08/notetaking-2025)* 
 
-There was an app awhile ago that had a simple premise: screenshot your home screen and share the screenshot with the world. That app (I believe is was "homescreen.me") is long defunct now, but the idea was sound because of the boom of iOS apps that allowed you to customize your Home Screen and may it your own led people to do some really cool things. I don't think I jumped on the trend at the time, but now, here I am, sharing my home screen with the world.
+There was an app awhile ago that had a simple premise: screenshot your home screen and share the screenshot with the world. That app (I believe it was "homescreen.me") is long defunct now, but the idea was sound because of the boom of iOS apps that allowed you to customize your Home Screen and may it your own led people to do some really cool things. I don't think I jumped on the trend at the time, but now, here I am, sharing my home screen with the world.
 
 I beta test a lot of apps (see my recent write-up of [Walk The World](https://engineeredeloquence.com/2025/08/walk-the-world)); as such my iPhone home screen changes frequently to align with current needs, apps I am testing, and general interest. However, my dock changes very infrequently and some of it is, at best, muscle memory that keeps me from changing things. However, the apps that sit there are my most heavily used, as well.
 
