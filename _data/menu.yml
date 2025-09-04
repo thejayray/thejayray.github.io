@@ -20,3 +20,6 @@ entries:
   - title: Featured
     post_list:
         category: featured
+        show_more: true
+        show_more_text: See archive...
+        show_more_url: archive
