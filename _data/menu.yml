@@ -3,8 +3,10 @@
 
 entries:
   - title: Now
-    entries: 
+    entries:
+	    - title: Flexing the muscles of writing out in the open. Helping <a href="https://nashp.com">Nash</a> do the same. Using this moment to bring forward <i>Tools for Thoughtful Leaders</i>, like me!
       - title: This site has a history; <a href="/about">read more about it</a>.
+      - title: I have a history, too; <a href="/jayray">see my online resume</a>.
 
   - title: Recent
     post_list:
@@ -20,3 +22,6 @@ entries:
   - title: Featured
     post_list:
         category: featured
+	      show_more: true
+	      show_more_text: See Leadership Series...
+	      show_more_url: leadership-archive
