@@ -21,6 +21,5 @@ entries:
   - title: Featured
     post_list:
       category: featured
-      show_more: true
-      show_more_text: See Leadership Series...
-      show_more_url: leadership-archive
+      - title: See Leadership Series...
+        url: leadership-archive
