@@ -5,6 +5,7 @@ entries:
   - title: Now
     entries: 
       - title: This site has a history; <a href="/about">read more about it</a>.
+      - title: I have a history, too; <a href="/jayray">see my profile</a>.
 
   - title: Recent
     post_list:
@@ -15,11 +16,11 @@ entries:
 
   - title: "Series: Note-taking in 2025"
     post_list:
-        category: notes
+      category: notes
 
   - title: Featured
     post_list:
-        category: featured
-        show_more: true
-        show_more_text: See archive...
-        show_more_url: archive
+      category: featured
+      show_more: true
+      show_more_text: See Leadership Series...
+      show_more_url: leadership-archive
