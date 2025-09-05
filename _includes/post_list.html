@@ -1,8 +1,5 @@
 {%-if include.category-%}
   {%-assign posts = site.categories[include.category]-%} 
-  {%- if include.show_more -%}
-    <li><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></li>
-  {%- endif -%}
 {%-else-%}
   {%-assign posts = site.posts-%}
 {%-endif-%}
@@ -22,6 +19,9 @@
         </li>
     {%- endfor -%}
     {%- if include.show_more and limit_exceeded -%}
+      <li><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></li>
+    {%- endif -%}
+    {%- if include.category and include.show_more -%}
       <li><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></li>
     {%- endif -%}
   </ul>
