@@ -11,6 +11,7 @@ entries:
   - title: Recent
     post_list:
       limit: 6
+      offset: 1
       show_more: true
       show_more_text: See archive...
       show_more_url: archive
