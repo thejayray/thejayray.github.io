@@ -22,7 +22,6 @@ entries:
   - title: Featured
     post_list:
       category: featured
-      limit: 2
       show_more: true
       show_more_text: See Leadership Series...
       show_more_url: leadership-archive
