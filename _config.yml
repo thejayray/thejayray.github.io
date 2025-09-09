@@ -34,7 +34,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  
+
 # Other
 timezone:            America/Chicago
 
