@@ -38,6 +38,10 @@ plugins:
 # Other
 timezone:            America/Chicago
 
+include:
+  - _pages
+  - _series
+
 # Custom vars
 version:             7.1.0
 github:              https://github.com/thejayray/
