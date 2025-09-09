@@ -4,7 +4,8 @@
 entries:
   - title: Now
     entries:
-      - title: Flexing the muscles of writing out in the open, helping <a href="https://nashp.com">Nash</a> do the same. Using this moment to bring forward <i>Tools for Thoughtful Leaders</i>, like me!
+      - title: Writing a series on <a href="/notetaking2025">Note-taking in 2025</a>
+      - title: Trying to show up consistently, flexing the muscles of writing out in the open, helping <a href="https://nashp.com">Nash</a> do the same. Using this moment to bring forward <i>Tools for Thoughtful Leaders</i>, like me!
       - title: This site has a history; <a href="/about">read more about it</a>.
       - title: I have a history, too; <a href="/jayray">see my profile</a>.
 
@@ -15,9 +16,6 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive
-
-  - title: "Series: Note-taking in 2025"
-    url: notetaking2025
 
   - title: Featured
     post_list:
