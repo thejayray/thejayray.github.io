@@ -17,8 +17,7 @@ entries:
       show_more_url: archive
 
   - title: "Series: Note-taking in 2025"
-    post_list:
-      category: notes
+      url: notetaking2025
 
   - title: Featured
     post_list:
