@@ -83,6 +83,7 @@ Key accomplishments:
 ### IT Professionals Conference Presentation, 2025
 
 - Planned Obsolescence: Turning a Technology Fallacy into a Leadership Strategy
+- [Online version, posted May 2025](https://engineeredeloquence.com/2025/05/planned-obsolescence-talk)
 - [Conference Summary Page](https://itproconf.wisc.edu/event/planned-obsolescence-turning-a-technology-fallacy-into-a-leadership-strategy/)
 - [Presentation Video, Youtube](https://www.youtube.com/watch?v=WKY-nMbprVw)
 
