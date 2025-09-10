@@ -4,6 +4,7 @@ date: 2025-09-09 10:00:00 -0500
 tags: post, technology, notes
 thumbnail: "https://cdn.prod.website-files.com/66d94b8cef94f6af748a1af1/670cd0d600f0146bbdb64f12_670cd0ca365552a6dd717658_Forever-%25E2%259C%25B1-Notes-Framework-Overview.avif"
 category: notes
+summary: "This is a test."
 title: Transforming Apple Notes
 --- 
 
