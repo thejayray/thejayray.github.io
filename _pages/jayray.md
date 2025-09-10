@@ -17,13 +17,14 @@ I have spent my career in higher education technology across the non-profit sect
 ### University of Wisconsin-Madison Libraries
 #### Technology Operations Manager<br>March, 2014 - Present
 
-> Managed technology support, infrastructure, and services, while supervising an on-site and remote technology staff of up to fifty (50) at the Library Technology Help Desk and distributed library spaces. Oversaw support for physical spaces and assets, virtual platforms, and systems and structures that enable patron and staff access to library services. Guided the formulation and implementation of policies and procedures, integrations and innovations, and operational strategies.
+> Led and managed technology support, infrastructure, and services, while supervising an on-site and remote technology staff of up to sixty-five (65) at the Library Technology Help Desk and distributed library spaces. Oversaw support for physical spaces and assets, virtual platforms, and systems and structures that enable patron and staff access to library services. Guided the formulation and implementation of policies and procedures, integrations and innovations, and operational strategies.
 
 Key accomplishments: 
-- Coordinated the transition of library technology support for the pandemic to a fully remote structure and back again, leading to consistent support for faculty, staff, and students, and seamless continuity of operations.
-- Centralized library technology  support through the End User Computing team, resulting in a more effective distribution of support and services and improved integration of service portfolios across campus libraries.
-- Implemented a new technology circulation application, WebCheckout,  effectively consolidating multiple platforms into a single centrally-supported structure. 
+- Coordinated the transition of library technology help desk services for the pandemic to a fully remote structure and back again, leading to consistent support for faculty, staff, and students, and seamless continuity of operations.
+- Centralized library technology support through the End User Computing team, resulting in a more effective distribution of support and services and improved integration of service portfolios across campus libraries.
+- Managed the implementation of applications for the UW-Madison Libraries supporting documentation (Atlassian Confluence), technology circulation (WebCheckout), room scheduling (EMS), and student printing (PaperCut), each of which effectively consolidated multiple platforms into a single centrally-supported structure.
 - Led and promoted library-focused and campus-wide diversity, equity, and inclusion initiatives to support the recruitment and hiring of underrepresented groups.
+- Participated in and assumed leadership of the full-time staff cohort of the UW-Madison Libraries supervisors community of practice, equipping five (5) participants per cohort  with professional development monthly for a two-year program.
 
 ### Art Institute of Indianapolis
 #### Senior Desktop Analyst<br>March, 2011 - November, 2013
@@ -77,9 +78,15 @@ Key accomplishments:
 
 ----
 
-## Published Media
+## Published Media and Conference Talks
 
-### SIGUCCS 2023 Presentation and White Paper, 2023 (In Progress)
+### IT Professionals Conference Presentation, 2025
+
+- Planned Obsolescence: Turning a Technology Fallacy into a Leadership Strategy
+- [Conference Summary Page](https://itproconf.wisc.edu/event/planned-obsolescence-turning-a-technology-fallacy-into-a-leadership-strategy/)
+- [Presentation Video, Youtube](https://www.youtube.com/watch?v=WKY-nMbprVw)
+
+### SIGUCCS 2023 Presentation and Technical Paper, 2023
 
 - New Tools for Old Services: Implementing WebCheckout for UW-Madison InfoLabs Technology Circulation
 - [Citation Page](https://dl.acm.org/doi/10.1145/3539811.3579574)
@@ -91,7 +98,7 @@ Key accomplishments:
 - [Online version, posted December 2017](https://edtechmagazine.com/higher/article/2017/12/simplify-device-deployments-campus-apple-configurator)
 - Also available in print
 
-### SIGUCCS 2017 Presentation and White Paper, 2017
+### SIGUCCS 2017 Presentation and Technical Paper, 2017
 
 - Trying it Out with College Library: The Role of Beta-testing and the Pilot Process in Establishing Successful Services
 - [Citation Page](https://dl.acm.org/citation.cfm?id=3123460)

@@ -10,7 +10,7 @@ This is version 7 of the Engineered Eloquence site and with it, I am working on 
 
 ## Need Something?
 
-<a href="mailto:jayray@engineeredeloquence.com">Email me</a>. Share your thoughts or ask for help. I will respond to any legitimate request.
+<a href="mailto:jayray@engineeredeloquence.com">Email me</a>. Share your thoughts or ask for help. I will respond to any legitimate request. After all, this is literally how I met [Nash](https://nashp.com).
 
 ## About the Design
 
