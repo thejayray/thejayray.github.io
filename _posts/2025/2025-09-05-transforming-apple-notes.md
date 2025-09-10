@@ -4,7 +4,6 @@ date: 2025-09-09 10:00:00 -0500
 tags: post, technology, notes
 thumbnail: "https://cdn.prod.website-files.com/66d94b8cef94f6af748a1af1/670cd0d600f0146bbdb64f12_670cd0ca365552a6dd717658_Forever-%25E2%259C%25B1-Notes-Framework-Overview.avif"
 category: notes
-summary: "Happy Apple Event Day! In this post, I discuss Apple Notes as a knowledge management system, using the Forever ✱ Notes framework; it transformed the way I saw the basic note-taking utility with a structured, but simple and scalable system. Since October 2024, I have been using it to collect everything from project management processes to daily journal entries, the latter of which includes an intuitive daily, weekly, quarterly, and annual review system."
 title: Transforming Apple Notes
 --- 
 
