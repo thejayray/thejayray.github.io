@@ -31,7 +31,7 @@ layout: null
                 "name": "{{ site.author.name }}",
                 "url": "{{ site.url }}"
             },
-            "summary": {{ post.excerpt | jsonify }},
+            "summary": {{ post.summary | jsonify }},
             "content_html": {{ post.content | jsonify }},
             "tags": {{ post.tags | jsonify }},
             "image": "{{ post.image | absolute_url }}"
