@@ -8,6 +8,9 @@ layout: default
 
 
 {%-if page.which_category-%}
+	{%-if page.summary-%}
+		<p>{{ page.summary }}</p>
+	{%-endif-%}
 	{%-include post_list.html category=page.which_category-%}
 {%-else-%}
 	{% for post in site.posts %}
