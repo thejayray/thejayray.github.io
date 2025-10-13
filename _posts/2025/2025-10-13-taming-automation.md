@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-10-13 09:30:00 -0500
+date: 2025-10-13 09:25:00 -0500
 tags: post, technology
 thumbnail: "https://imgs.xkcd.com/comics/automation.png"
 title: Taming Automation for Intentionality
