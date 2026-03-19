@@ -13,7 +13,7 @@ I am turning 40 next week. I will admit that this one seems to hit different tha
 
 Age is just a number. I have three kids who bring me joy, stress, and exhaustion every day; I broke my clavicle a couple years ago, which slowed me down; and I have more aches and pains naturally these days. All of that is true regardless of my age.
 
-No one ever talks about the fact that your own pillow (as opposed to the hotel one or your sister's guest ones) becomes the only pillow you can use without feeling it the next day. I consider myself is relatively good health and I still have to think in these terms at times.
+No one ever talks about the fact that your own pillow (as opposed to the hotel one or your sister's guest ones) becomes the only pillow you can use without feeling it the next day. I consider myself in relatively good health and I still have to think in these terms at times.
 
 Age is just a number. Are you a decade-just-beginning or -just-ending type of thinker? Depending on your level of optimism, one can think of it as the beginning of new times or the end of better times.
 
