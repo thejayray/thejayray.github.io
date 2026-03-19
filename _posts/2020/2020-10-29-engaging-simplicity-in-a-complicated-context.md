@@ -3,7 +3,6 @@ layout: post
 date: 2020-10-29 08:00:00 -0600
 tags: post, technology, minimalism, simplicity
 series: Engaging Simplicity
-category: featured
 title: Engaging Simplicity in a Complicated Context
 ---
 
